@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T21:00:19.310Z",
+  "generatedAt": "2026-08-01T22:12:30.703Z",
   "date": "2026-08-01",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
@@ -67,6 +67,39 @@
             "MLS Season Pass"
           ],
           "score": 41,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401863561",
+          "kickoffUtc": "2026-08-05T23:30Z",
+          "competition": "Leagues Cup",
+          "homeTeam": "Inter Miami CF",
+          "awayTeam": "Atlético de San Luis",
+          "starNames": [
+            "Lionel Messi"
+          ],
+          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Apple TV",
+            "MLS Season Pass"
+          ],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401863568",
+          "kickoffUtc": "2026-08-06T23:30Z",
+          "competition": "Leagues Cup",
+          "homeTeam": "New York City FC",
+          "awayTeam": "Santos",
+          "starNames": [
+            "Neymar"
+          ],
+          "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Apple TV"
+          ],
+          "score": 40,
           "excitement": 2
         }
       ]
@@ -409,6 +442,161 @@
             "MLS Season Pass"
           ],
           "score": 41,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401863561",
+          "kickoffUtc": "2026-08-05T23:30Z",
+          "competition": "Leagues Cup",
+          "homeTeam": "Inter Miami CF",
+          "awayTeam": "Atlético de San Luis",
+          "starNames": [
+            "Lionel Messi"
+          ],
+          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Apple TV",
+            "MLS Season Pass"
+          ],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401863568",
+          "kickoffUtc": "2026-08-06T23:30Z",
+          "competition": "Leagues Cup",
+          "homeTeam": "New York City FC",
+          "awayTeam": "Santos",
+          "starNames": [
+            "Neymar"
+          ],
+          "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Apple TV"
+          ],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401863595",
+          "kickoffUtc": "2026-08-09T00:00Z",
+          "competition": "Leagues Cup",
+          "homeTeam": "Inter Miami CF",
+          "awayTeam": "Monterrey",
+          "starNames": [
+            "Lionel Messi"
+          ],
+          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Apple TV",
+            "MLS Season Pass"
+          ],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401863605",
+          "kickoffUtc": "2026-08-10T00:00Z",
+          "competition": "Leagues Cup",
+          "homeTeam": "Chicago Fire FC",
+          "awayTeam": "Santos",
+          "starNames": [
+            "Neymar"
+          ],
+          "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Apple TV"
+          ],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401863614",
+          "kickoffUtc": "2026-08-12T23:30Z",
+          "competition": "Leagues Cup",
+          "homeTeam": "Inter Miami CF",
+          "awayTeam": "León",
+          "starNames": [
+            "Lionel Messi"
+          ],
+          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Apple TV",
+            "MLS Season Pass"
+          ],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401863622",
+          "kickoffUtc": "2026-08-13T23:00Z",
+          "competition": "Leagues Cup",
+          "homeTeam": "Philadelphia Union",
+          "awayTeam": "Santos",
+          "starNames": [
+            "Neymar"
+          ],
+          "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Apple TV"
+          ],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401900402",
+          "kickoffUtc": "2026-08-15T18:00Z",
+          "competition": "Saudi Pro League",
+          "homeTeam": "Al Nassr",
+          "awayTeam": "Al Fateh",
+          "starNames": [
+            "Cristiano Ronaldo"
+          ],
+          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401900400",
+          "kickoffUtc": "2026-08-21T16:00Z",
+          "competition": "Saudi Pro League",
+          "homeTeam": "Al Riyadh",
+          "awayTeam": "Al Nassr",
+          "starNames": [
+            "Cristiano Ronaldo"
+          ],
+          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401900388",
+          "kickoffUtc": "2026-08-25T18:00Z",
+          "competition": "Saudi Pro League",
+          "homeTeam": "Al Ettifaq",
+          "awayTeam": "Al Nassr",
+          "starNames": [
+            "Cristiano Ronaldo"
+          ],
+          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401900381",
+          "kickoffUtc": "2026-08-28T18:00Z",
+          "competition": "Saudi Pro League",
+          "homeTeam": "Al Nassr",
+          "awayTeam": "Al Taawoun",
+          "starNames": [
+            "Cristiano Ronaldo"
+          ],
+          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 40,
           "excitement": 2
         },
         {

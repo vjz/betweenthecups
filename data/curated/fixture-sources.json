@@ -40,5 +40,47 @@
     "provider": "espn",
     "leagueSlug": "bra.1",
     "competition": "Brasileirao"
+  },
+  {
+    "id": "espn-saudi-pro-league",
+    "provider": "espn",
+    "leagueSlug": "ksa.1",
+    "competition": "Saudi Pro League"
+  },
+  {
+    "id": "espn-leagues-cup",
+    "provider": "espn",
+    "leagueSlug": "concacaf.leagues.cup",
+    "competition": "Leagues Cup"
+  },
+  {
+    "id": "espn-champions-league",
+    "provider": "espn",
+    "leagueSlug": "uefa.champions",
+    "competition": "UEFA Champions League"
+  },
+  {
+    "id": "espn-champions-league-qualifying",
+    "provider": "espn",
+    "leagueSlug": "uefa.champions_qual",
+    "competition": "UEFA Champions League Qualifying"
+  },
+  {
+    "id": "espn-europa-league",
+    "provider": "espn",
+    "leagueSlug": "uefa.europa",
+    "competition": "UEFA Europa League"
+  },
+  {
+    "id": "espn-europa-league-qualifying",
+    "provider": "espn",
+    "leagueSlug": "uefa.europa_qual",
+    "competition": "UEFA Europa League Qualifying"
+  },
+  {
+    "id": "espn-conference-league",
+    "provider": "espn",
+    "leagueSlug": "uefa.europa.conf",
+    "competition": "UEFA Conference League"
   }
 ]
