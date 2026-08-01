@@ -53,7 +53,9 @@ const relativeDay = (iso: string) => {
             </span>
           ))}
         </div>
-        <p class="mt-3 text-sm leading-6 text-slate-700">{match.whyWatch}</p>
+        {(match.starNames.length > 1 || match.excitement >= 4) && (
+          <p class="mt-3 text-sm leading-6 text-slate-700">{match.whyWatch}</p>
+        )}
         <div class="mt-3 text-sm text-slate-600">
           <span class="font-semibold text-slate-800">Watch:</span>{" "}
           {match.watchUs.length > 0 ? match.watchUs.join(", ") : "Check listings"}
