@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.astro/
+.wrangler/
+data/cache/
+src/styles/generated.css
+*.log

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "ac-milan",
+    "name": "AC Milan",
+    "aliases": ["AC Milan", "Milan"],
+    "country": "Italy",
+    "competition": "Serie A",
+    "fixtureApiIds": {},
+    "defaultUsBroadcasters": ["Paramount+"],
+    "status": "verify"
+  },
+  {
+    "id": "al-nassr",
+    "name": "Al Nassr",
+    "aliases": ["Al Nassr", "Al-Nassr"],
+    "country": "Saudi Arabia",
+    "competition": "Saudi Pro League",
+    "fixtureApiIds": {},
+    "defaultUsBroadcasters": [],
+    "status": "active"
+  },
+  {
+    "id": "arsenal",
+    "name": "Arsenal",
+    "aliases": ["Arsenal", "Arsenal FC"],
+    "country": "England",
+    "competition": "Premier League",
+    "fixtureApiIds": {},
+    "defaultUsBroadcasters": ["NBC", "Peacock"],
+    "status": "active"
+  },
+  {
+    "id": "atletico-madrid",
+    "name": "Atletico Madrid",
+    "aliases": ["Atletico Madrid", "Atlético Madrid"],
+    "country": "Spain",
+    "competition": "La Liga",
+    "fixtureApiIds": {},
+    "defaultUsBroadcasters": ["ESPN+"],
+    "status": "active"
+  },
+  {
+    "id": "barcelona",
+    "name": "Barcelona",
+    "aliases": ["Barcelona", "FC Barcelona", "Barça", "Barca"],
+    "country": "Spain",
+    "competition": "La Liga",
+    "fixtureApiIds": {},
+    "defaultUsBroadcasters": ["ESPN+"],
+    "status": "active"
+  },
+  {
+    "id": "bayern-munich",
+    "name": "Bayern Munich",
+    "aliases": ["Bayern Munich", "Bayern München", "FC Bayern Munich", "FC Bayern München"],
+    "country": "Germany",
+    "competition": "Bundesliga",
+    "fixtureApiIds": {},
+    "defaultUsBroadcasters": ["ESPN+"],
+    "status": "active"
+  },
+  {
+    "id": "chelsea",
+    "name": "Chelsea",
+    "aliases": ["Chelsea", "Chelsea FC"],
+    "country": "England",
+    "competition": "Premier League",
+    "fixtureApiIds": {},
+    "defaultUsBroadcasters": ["NBC", "Peacock"],
+    "status": "active"
+  },
+  {
+    "id": "inter-miami",
+    "name": "Inter Miami",
+    "aliases": ["Inter Miami", "Inter Miami CF", "Miami"],
+    "country": "United States",
+    "competition": "MLS",
+    "fixtureApiIds": {
+      "espn": "20232"
+    },
+    "defaultUsBroadcasters": ["MLS Season Pass"],
+    "status": "active"
+  },
+  {
+    "id": "inter-milan",
+    "name": "Inter Milan",
+    "aliases": ["Inter Milan", "Internazionale", "Internazionale Milano"],
+    "country": "Italy",
+    "competition": "Serie A",
+    "fixtureApiIds": {},
+    "defaultUsBroadcasters": ["Paramount+"],
+    "status": "active"
+  },
+  {
+    "id": "liverpool",
+    "name": "Liverpool",
+    "aliases": ["Liverpool", "Liverpool FC"],
+    "country": "England",
+    "competition": "Premier League",
+    "fixtureApiIds": {},
+    "defaultUsBroadcasters": ["NBC", "Peacock"],
+    "status": "active"
+  },
+  {
+    "id": "manchester-city",
+    "name": "Manchester City",
+    "aliases": ["Manchester City", "Man City", "Manchester City FC"],
+    "country": "England",
+    "competition": "Premier League",
+    "fixtureApiIds": {},
+    "defaultUsBroadcasters": ["NBC", "Peacock"],
+    "status": "active"
+  },
+  {
+    "id": "napoli",
+    "name": "Napoli",
+    "aliases": ["Napoli", "SSC Napoli"],
+    "country": "Italy",
+    "competition": "Serie A",
+    "fixtureApiIds": {},
+    "defaultUsBroadcasters": ["Paramount+"],
+    "status": "verify"
+  },
+  {
+    "id": "psg",
+    "name": "Paris Saint-Germain",
+    "aliases": ["Paris Saint-Germain", "PSG", "Paris SG"],
+    "country": "France",
+    "competition": "Ligue 1",
+    "fixtureApiIds": {},
+    "defaultUsBroadcasters": ["beIN Sports"],
+    "status": "active"
+  },
+  {
+    "id": "real-madrid",
+    "name": "Real Madrid",
+    "aliases": ["Real Madrid", "Real Madrid CF"],
+    "country": "Spain",
+    "competition": "La Liga",
+    "fixtureApiIds": {},
+    "defaultUsBroadcasters": ["ESPN+"],
+    "status": "active"
+  },
+  {
+    "id": "santos",
+    "name": "Santos",
+    "aliases": ["Santos", "Santos FC"],
+    "country": "Brazil",
+    "competition": "Brasileirao",
+    "fixtureApiIds": {},
+    "defaultUsBroadcasters": [],
+    "status": "verify"
+  }
+]

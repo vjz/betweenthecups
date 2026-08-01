@@ -1,0 +1,102 @@
+---
+import type { GeneratedMatch } from "../lib/types";
+
+const { matches, tableId } = Astro.props as { matches: GeneratedMatch[]; tableId: string };
+
+const formatTime = (iso: string) =>
+  new Intl.DateTimeFormat("en-US", {
+    weekday: "short",
+    month: "short",
+    day: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+  }).format(new Date(iso));
+---
+
+<div class="overflow-x-auto rounded-lg border border-slate-200 bg-white shadow-sm">
+  <table id={tableId} class="min-w-full text-left text-sm" data-match-table>
+    <thead class="border-b border-slate-200 bg-slate-50 text-xs uppercase tracking-wide text-slate-500">
+      <tr>
+        <th class="w-36 px-4 py-3">
+          <button class="table-sort" data-sort="time" type="button">Date / Time</button>
+        </th>
+        <th class="px-4 py-3">
+          <button class="table-sort" data-sort="competition" type="button">Competition</button>
+        </th>
+        <th class="px-4 py-3">Match</th>
+        <th class="px-4 py-3">World Cup Stars</th>
+        <th class="min-w-72 px-4 py-3">Why Watch?</th>
+        <th class="px-4 py-3">Watch</th>
+        <th class="w-24 px-4 py-3">
+          <button class="table-sort" data-sort="excitement" type="button">Stars</button>
+        </th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-slate-200">
+      {
+        matches.map((match) => (
+          <tr
+            class="match-row hover:bg-emerald-50/70"
+            data-time={new Date(match.kickoffUtc).getTime()}
+            data-competition={match.competition}
+            data-excitement={match.excitement}
+          >
+            <td class="px-4 py-4 font-medium text-slate-950">{formatTime(match.kickoffUtc)}</td>
+            <td class="px-4 py-4 text-slate-700">{match.competition}</td>
+            <td class="px-4 py-4">
+              <div class="font-semibold text-slate-950">{match.homeTeam}</div>
+              <div class="text-slate-500">vs {match.awayTeam}</div>
+            </td>
+            <td class="px-4 py-4">
+              <div class="flex flex-wrap gap-2">
+                {match.starNames.map((name) => (
+                  <span class="rounded-full border border-emerald-200 bg-emerald-50 px-2.5 py-1 text-xs font-medium text-emerald-900">
+                    {name}
+                  </span>
+                ))}
+              </div>
+            </td>
+            <td class="px-4 py-4 leading-6 text-slate-700">{match.whyWatch}</td>
+            <td class="px-4 py-4 text-slate-700">
+              {match.watchUs.length > 0 ? match.watchUs.join(", ") : "Check listings"}
+            </td>
+            <td class="px-4 py-4 font-semibold text-amber-500" aria-label={`${match.excitement} out of 5`}>
+              {"*".repeat(match.excitement)}
+            </td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+</div>
+
+<script>
+  const tables = document.querySelectorAll("[data-match-table]");
+
+  tables.forEach((table) => {
+    const body = table.querySelector("tbody");
+    const buttons = table.querySelectorAll("[data-sort]");
+    let activeSort = "excitement";
+    let sortDirection = -1;
+
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => {
+        const sortKey = button.getAttribute("data-sort") ?? "excitement";
+        sortDirection = activeSort === sortKey ? sortDirection * -1 : sortKey === "time" ? 1 : -1;
+        activeSort = sortKey;
+
+        const rows = Array.from(body?.querySelectorAll(".match-row") ?? []);
+        rows.sort((a, b) => {
+          const left = a.getAttribute(`data-${sortKey}`) ?? "";
+          const right = b.getAttribute(`data-${sortKey}`) ?? "";
+          const leftValue = Number.isNaN(Number(left)) ? left : Number(left);
+          const rightValue = Number.isNaN(Number(right)) ? right : Number(right);
+          if (leftValue < rightValue) return -1 * sortDirection;
+          if (leftValue > rightValue) return 1 * sortDirection;
+          return 0;
+        });
+        rows.forEach((row) => body?.appendChild(row));
+      });
+    });
+  });
+</script>

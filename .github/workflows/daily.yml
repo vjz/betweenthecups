@@ -1,0 +1,43 @@
+name: Daily Fixture Refresh
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 13 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate latest fixtures
+        run: npm run btc -- build-day --date today
+
+      - name: Verify build
+        run: npm run build
+
+      - name: Commit generated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/generated/latest.json
+          if git diff --cached --quiet; then
+            echo "No generated data changes."
+          else
+            git commit -m "Refresh daily fixtures"
+            git push
+          fi

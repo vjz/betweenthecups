@@ -1,0 +1,252 @@
+[
+  {
+    "id": "lionel-messi",
+    "name": "Lionel Messi",
+    "country": "Argentina",
+    "tier": 5,
+    "teamId": "inter-miami",
+    "tags": ["legacy-icon", "global-draw", "world-cup-winner", "attacker"],
+    "aliases": ["Messi", "L. Messi"],
+    "status": "active"
+  },
+  {
+    "id": "kylian-mbappe",
+    "name": "Kylian Mbappe",
+    "country": "France",
+    "tier": 5,
+    "teamId": "real-madrid",
+    "tags": ["global-draw", "world-cup-winner", "attacker"],
+    "aliases": ["Mbappe", "K. Mbappe", "Kylian Mbappé"],
+    "status": "active"
+  },
+  {
+    "id": "cristiano-ronaldo",
+    "name": "Cristiano Ronaldo",
+    "country": "Portugal",
+    "tier": 5,
+    "teamId": "al-nassr",
+    "tags": ["legacy-icon", "global-draw", "attacker"],
+    "aliases": ["Cristiano", "Ronaldo", "Cristiano Ronaldo"],
+    "status": "active"
+  },
+  {
+    "id": "erling-haaland",
+    "name": "Erling Haaland",
+    "country": "Norway",
+    "tier": 5,
+    "teamId": "manchester-city",
+    "tags": ["global-draw", "2026-watch", "attacker"],
+    "aliases": ["Haaland", "E. Haaland"],
+    "status": "active"
+  },
+  {
+    "id": "jude-bellingham",
+    "name": "Jude Bellingham",
+    "country": "England",
+    "tier": 5,
+    "teamId": "real-madrid",
+    "tags": ["global-draw", "2026-watch", "midfielder"],
+    "aliases": ["Bellingham", "J. Bellingham"],
+    "status": "active"
+  },
+  {
+    "id": "lamine-yamal",
+    "name": "Lamine Yamal",
+    "country": "Spain",
+    "tier": 5,
+    "teamId": "barcelona",
+    "tags": ["rising-star", "global-draw", "2026-watch", "attacker"],
+    "aliases": ["Yamal", "L. Yamal"],
+    "status": "active"
+  },
+  {
+    "id": "vinicius-junior",
+    "name": "Vinicius Junior",
+    "country": "Brazil",
+    "tier": 5,
+    "teamId": "real-madrid",
+    "tags": ["global-draw", "brazil-draw", "attacker"],
+    "aliases": ["Vinicius", "Vini Jr", "Vinícius Júnior"],
+    "status": "active"
+  },
+  {
+    "id": "neymar",
+    "name": "Neymar",
+    "country": "Brazil",
+    "tier": 5,
+    "teamId": "santos",
+    "tags": ["legacy-icon", "global-draw", "brazil-draw", "attacker"],
+    "aliases": ["Neymar Jr", "Neymar"],
+    "status": "verify"
+  },
+  {
+    "id": "mohamed-salah",
+    "name": "Mohamed Salah",
+    "country": "Egypt",
+    "tier": 5,
+    "teamId": "liverpool",
+    "tags": ["global-draw", "africa-draw", "attacker"],
+    "aliases": ["Salah", "M. Salah"],
+    "status": "active"
+  },
+  {
+    "id": "harry-kane",
+    "name": "Harry Kane",
+    "country": "England",
+    "tier": 5,
+    "teamId": "bayern-munich",
+    "tags": ["global-draw", "england-draw", "attacker"],
+    "aliases": ["Kane", "H. Kane"],
+    "status": "active"
+  },
+  {
+    "id": "robert-lewandowski",
+    "name": "Robert Lewandowski",
+    "country": "Poland",
+    "tier": 4,
+    "teamId": "barcelona",
+    "tags": ["legacy-icon", "europe-draw", "attacker"],
+    "aliases": ["Lewandowski", "R. Lewandowski"],
+    "status": "active"
+  },
+  {
+    "id": "luka-modric",
+    "name": "Luka Modric",
+    "country": "Croatia",
+    "tier": 4,
+    "teamId": "ac-milan",
+    "tags": ["legacy-icon", "world-cup-finalist", "midfielder"],
+    "aliases": ["Modric", "L. Modric", "Luka Modrić"],
+    "status": "verify"
+  },
+  {
+    "id": "bukayo-saka",
+    "name": "Bukayo Saka",
+    "country": "England",
+    "tier": 4,
+    "teamId": "arsenal",
+    "tags": ["england-draw", "2026-watch", "attacker"],
+    "aliases": ["Saka", "B. Saka"],
+    "status": "active"
+  },
+  {
+    "id": "jamal-musiala",
+    "name": "Jamal Musiala",
+    "country": "Germany",
+    "tier": 4,
+    "teamId": "bayern-munich",
+    "tags": ["rising-star", "germany-draw", "midfielder"],
+    "aliases": ["Musiala", "J. Musiala"],
+    "status": "active"
+  },
+  {
+    "id": "florian-wirtz",
+    "name": "Florian Wirtz",
+    "country": "Germany",
+    "tier": 4,
+    "teamId": "liverpool",
+    "tags": ["rising-star", "germany-draw", "midfielder"],
+    "aliases": ["Wirtz", "F. Wirtz"],
+    "status": "verify"
+  },
+  {
+    "id": "pedri",
+    "name": "Pedri",
+    "country": "Spain",
+    "tier": 4,
+    "teamId": "barcelona",
+    "tags": ["spain-draw", "midfielder"],
+    "aliases": ["Pedri"],
+    "status": "active"
+  },
+  {
+    "id": "rodri",
+    "name": "Rodri",
+    "country": "Spain",
+    "tier": 4,
+    "teamId": "manchester-city",
+    "tags": ["spain-draw", "midfielder"],
+    "aliases": ["Rodri", "Rodrigo Hernandez", "Rodrigo Hernández"],
+    "status": "active"
+  },
+  {
+    "id": "kevin-de-bruyne",
+    "name": "Kevin De Bruyne",
+    "country": "Belgium",
+    "tier": 4,
+    "teamId": "napoli",
+    "tags": ["legacy-icon", "europe-draw", "midfielder"],
+    "aliases": ["De Bruyne", "KDB", "Kevin De Bruyne"],
+    "status": "verify"
+  },
+  {
+    "id": "cole-palmer",
+    "name": "Cole Palmer",
+    "country": "England",
+    "tier": 4,
+    "teamId": "chelsea",
+    "tags": ["rising-star", "england-draw", "attacker"],
+    "aliases": ["Palmer", "C. Palmer"],
+    "status": "active"
+  },
+  {
+    "id": "raphinha",
+    "name": "Raphinha",
+    "country": "Brazil",
+    "tier": 4,
+    "teamId": "barcelona",
+    "tags": ["brazil-draw", "attacker"],
+    "aliases": ["Raphinha"],
+    "status": "active"
+  },
+  {
+    "id": "lautaro-martinez",
+    "name": "Lautaro Martinez",
+    "country": "Argentina",
+    "tier": 4,
+    "teamId": "inter-milan",
+    "tags": ["world-cup-winner", "argentina-draw", "attacker"],
+    "aliases": ["Lautaro", "Lautaro Martínez"],
+    "status": "active"
+  },
+  {
+    "id": "julian-alvarez",
+    "name": "Julian Alvarez",
+    "country": "Argentina",
+    "tier": 4,
+    "teamId": "atletico-madrid",
+    "tags": ["world-cup-winner", "argentina-draw", "attacker"],
+    "aliases": ["Julian Alvarez", "Julián Álvarez", "Alvarez"],
+    "status": "active"
+  },
+  {
+    "id": "ousmane-dembele",
+    "name": "Ousmane Dembele",
+    "country": "France",
+    "tier": 4,
+    "teamId": "psg",
+    "tags": ["world-cup-winner", "france-draw", "attacker"],
+    "aliases": ["Dembele", "O. Dembele", "Ousmane Dembélé"],
+    "status": "active"
+  },
+  {
+    "id": "pau-cubarsi",
+    "name": "Pau Cubarsi",
+    "country": "Spain",
+    "tier": 3,
+    "teamId": "barcelona",
+    "tags": ["rising-star", "spain-draw", "defender"],
+    "aliases": ["Cubarsi", "Pau Cubarsí"],
+    "status": "active"
+  },
+  {
+    "id": "ferran-torres",
+    "name": "Ferran Torres",
+    "country": "Spain",
+    "tier": 3,
+    "teamId": "barcelona",
+    "tags": ["spain-draw", "attacker"],
+    "aliases": ["Ferran", "Ferran Torres"],
+    "status": "active"
+  }
+]

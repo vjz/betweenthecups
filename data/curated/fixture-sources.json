@@ -1,0 +1,44 @@
+[
+  {
+    "id": "espn-mls",
+    "provider": "espn",
+    "leagueSlug": "usa.1",
+    "competition": "MLS"
+  },
+  {
+    "id": "espn-premier-league",
+    "provider": "espn",
+    "leagueSlug": "eng.1",
+    "competition": "Premier League"
+  },
+  {
+    "id": "espn-la-liga",
+    "provider": "espn",
+    "leagueSlug": "esp.1",
+    "competition": "La Liga"
+  },
+  {
+    "id": "espn-bundesliga",
+    "provider": "espn",
+    "leagueSlug": "ger.1",
+    "competition": "Bundesliga"
+  },
+  {
+    "id": "espn-serie-a",
+    "provider": "espn",
+    "leagueSlug": "ita.1",
+    "competition": "Serie A"
+  },
+  {
+    "id": "espn-ligue-1",
+    "provider": "espn",
+    "leagueSlug": "fra.1",
+    "competition": "Ligue 1"
+  },
+  {
+    "id": "espn-brasileirao",
+    "provider": "espn",
+    "leagueSlug": "bra.1",
+    "competition": "Brasileirao"
+  }
+]

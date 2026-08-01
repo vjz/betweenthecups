@@ -1,0 +1,23 @@
+{
+  "name": "betweenthecups",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/styles/global.css -o ./src/styles/generated.css --minify",
+    "dev": "npm run build:css && astro dev",
+    "build": "npm run build:css && astro check && astro build",
+    "preview": "astro preview",
+    "btc": "tsx scripts/btc.ts"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.10",
+    "astro": "^7.1.6",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.1.2",
+    "tsx": "^4.20.3"
+  }
+}
