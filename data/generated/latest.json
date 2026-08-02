@@ -1,74 +1,21 @@
 {
-  "generatedAt": "2026-08-01T22:12:30.703Z",
-  "date": "2026-08-01",
+  "generatedAt": "2026-08-02T14:42:53.167Z",
+  "date": "2026-08-02",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
-  "matches": [
-    {
-      "id": "espn-761701",
-      "kickoffUtc": "2026-08-01T23:30Z",
-      "competition": "MLS",
-      "homeTeam": "Inter Miami CF",
-      "awayTeam": "Columbus Crew",
-      "starNames": [
-        "Lionel Messi"
-      ],
-      "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
-      "watchUs": [
-        "Apple TV",
-        "MLS Season Pass"
-      ],
-      "score": 41,
-      "excitement": 2
-    }
-  ],
+  "matches": [],
   "sections": [
     {
       "id": "today",
       "label": "Today",
       "description": "Tracked matches on today’s slate.",
-      "matches": [
-        {
-          "id": "espn-761701",
-          "kickoffUtc": "2026-08-01T23:30Z",
-          "competition": "MLS",
-          "homeTeam": "Inter Miami CF",
-          "awayTeam": "Columbus Crew",
-          "starNames": [
-            "Lionel Messi"
-          ],
-          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Apple TV",
-            "MLS Season Pass"
-          ],
-          "score": 41,
-          "excitement": 2
-        }
-      ]
+      "matches": []
     },
     {
       "id": "week",
       "label": "This Week",
       "description": "Best tracked matches over the next seven days.",
       "matches": [
-        {
-          "id": "espn-761701",
-          "kickoffUtc": "2026-08-01T23:30Z",
-          "competition": "MLS",
-          "homeTeam": "Inter Miami CF",
-          "awayTeam": "Columbus Crew",
-          "starNames": [
-            "Lionel Messi"
-          ],
-          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Apple TV",
-            "MLS Season Pass"
-          ],
-          "score": 41,
-          "excitement": 2
-        },
         {
           "id": "espn-401863561",
           "kickoffUtc": "2026-08-05T23:30Z",
@@ -304,21 +251,26 @@
           "excitement": 3
         },
         {
-          "id": "espn-761701",
-          "kickoffUtc": "2026-08-01T23:30Z",
-          "competition": "MLS",
-          "homeTeam": "Inter Miami CF",
-          "awayTeam": "Columbus Crew",
+          "id": "espn-401882903",
+          "kickoffUtc": "2026-08-31T19:30Z",
+          "competition": "La Liga",
+          "homeTeam": "Barcelona",
+          "awayTeam": "Rayo Vallecano",
           "starNames": [
-            "Lionel Messi"
+            "Lamine Yamal",
+            "Pedri",
+            "Raphinha",
+            "Robert Lewandowski",
+            "Ferran Torres",
+            "Pau Cubarsi"
           ],
-          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
+          "whyWatch": "Barcelona vs Rayo Vallecano features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
           "watchUs": [
-            "Apple TV",
-            "MLS Season Pass"
+            "ESPN Deportes",
+            "ESPN+"
           ],
-          "score": 41,
-          "excitement": 2
+          "score": 68,
+          "excitement": 3
         },
         {
           "id": "espn-401841182",
@@ -696,6 +648,23 @@
             "Cole Palmer"
           ],
           "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
+          ],
+          "score": 36,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401879295",
+          "kickoffUtc": "2026-08-31T19:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Aston Villa",
+          "awayTeam": "Arsenal",
+          "starNames": [
+            "Bukayo Saka"
+          ],
+          "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
           "watchUs": [
             "NBC",
             "Peacock"
