@@ -35,20 +35,20 @@ const generated = new Intl.DateTimeFormat("en-US", {
   </head>
   <body class="min-h-screen bg-stone-50 text-slate-950">
     <main class="mx-auto flex min-h-screen w-full max-w-7xl flex-col gap-4 px-4 py-4 sm:gap-6 sm:px-6 sm:py-6 lg:px-8">
-      <header class="flex flex-col gap-3 border-b border-slate-200 pb-4 sm:flex-row sm:items-end sm:justify-between sm:pb-5">
+      <header class="flex flex-col gap-2 border-b border-slate-200 pb-3 sm:flex-row sm:items-end sm:justify-between sm:pb-5">
         <div>
           <p class="text-xs font-semibold uppercase tracking-wide text-emerald-700 sm:text-sm">Daily watch guide</p>
           <h1 class="mt-1 text-2xl font-semibold text-slate-950 sm:mt-2 sm:text-5xl">BetweenTheCups</h1>
-          <p class="mt-2 max-w-2xl text-sm leading-6 text-slate-600 sm:mt-3 sm:text-base sm:leading-7">
+          <p class="mt-1 max-w-2xl text-sm leading-5 text-slate-600 sm:mt-3 sm:text-base sm:leading-7">
             The best football to watch until the next World Cup.
           </p>
         </div>
-        <div class="w-fit rounded-md border border-slate-200 bg-white px-3 py-2 text-xs text-slate-600 shadow-sm sm:rounded-lg sm:px-4 sm:py-3 sm:text-sm">
+        <div class="text-xs text-slate-500 sm:text-sm">
           Updated {generated}
         </div>
       </header>
 
-      <section class="grid grid-cols-3 gap-2 sm:gap-3">
+      <section class="hidden grid-cols-3 gap-2 sm:grid sm:gap-3">
         <div class="rounded-lg border border-slate-200 bg-white p-2.5 shadow-sm sm:p-4">
           <div class="text-lg font-semibold text-slate-950 sm:text-2xl">{defaultSection.matches.length}</div>
           <div class="mt-1 text-xs text-slate-500 sm:text-sm">Today</div>
@@ -66,22 +66,25 @@ const generated = new Intl.DateTimeFormat("en-US", {
           <div class="mt-1 text-xs text-slate-500 sm:text-sm">Top score</div>
         </div>
       </section>
+      <div class="text-xs text-slate-500 sm:hidden">
+        {defaultSection.matches.length} today · {sections.find((section) => section.id === "week")?.matches.length ?? defaultSection.matches.length} this week · top score {Math.max(...allSectionMatches.map((match) => match.excitement), 0)}
+      </div>
 
-      <nav class="flex gap-2 overflow-x-auto pb-1" aria-label="Match range">
+      <nav class="grid grid-cols-4 border-b border-slate-200" aria-label="Match range">
         {
           sections.map((section, index) => (
             <button
               class:list={[
-                "range-tab shrink-0 rounded-lg border px-2.5 py-2 text-xs font-semibold shadow-sm sm:px-4 sm:text-sm",
+                "range-tab border-b-2 pb-2 text-center text-xs font-semibold sm:text-sm",
                 index === 0
-                  ? "border-emerald-700 bg-emerald-700 text-white"
-                  : "border-slate-200 bg-white text-slate-700 hover:border-emerald-300 hover:text-emerald-800",
+                  ? "border-emerald-700 text-emerald-800"
+                  : "border-transparent text-slate-500 hover:text-emerald-800",
               ]}
               type="button"
               data-range-tab={section.id}
               aria-selected={index === 0 ? "true" : "false"}
             >
-              {section.label}
+              {section.id === "horizon" ? "6 Months" : section.label}
             </button>
           ))
         }
@@ -89,9 +92,9 @@ const generated = new Intl.DateTimeFormat("en-US", {
 
       {
         sections.map((section, index) => (
-          <section class:list={["range-panel flex flex-col gap-3", index !== 0 && "hidden"]} data-range-panel={section.id}>
-            <div>
-              <h2 class="text-lg font-semibold text-slate-950 sm:text-xl">{section.label}</h2>
+          <section class:list={["range-panel flex flex-col gap-2", index !== 0 && "hidden"]} data-range-panel={section.id}>
+            <div class="hidden sm:block">
+              <h2 class="text-base font-semibold text-slate-950 sm:text-xl">{section.label}</h2>
               <p class="mt-1 text-sm text-slate-600">{section.description}</p>
             </div>
             {section.matches.length > 0 ? (
@@ -120,11 +123,9 @@ const generated = new Intl.DateTimeFormat("en-US", {
             const selected = candidate.getAttribute("data-range-tab") === active;
             candidate.setAttribute("aria-selected", String(selected));
             candidate.classList.toggle("border-emerald-700", selected);
-            candidate.classList.toggle("bg-emerald-700", selected);
-            candidate.classList.toggle("text-white", selected);
-            candidate.classList.toggle("border-slate-200", !selected);
-            candidate.classList.toggle("bg-white", !selected);
-            candidate.classList.toggle("text-slate-700", !selected);
+            candidate.classList.toggle("text-emerald-800", selected);
+            candidate.classList.toggle("border-transparent", !selected);
+            candidate.classList.toggle("text-slate-500", !selected);
           });
           panels.forEach((panel) => {
             panel.classList.toggle("hidden", panel.getAttribute("data-range-panel") !== active);
