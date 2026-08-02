@@ -29,35 +29,24 @@ const relativeDay = (iso: string) => {
   {
     matches.map((match) => (
       <article class="border-b border-slate-200 py-3 last:border-b-0">
-        <div class="flex items-start justify-between gap-3">
-          <div>
-            <div class="text-xs font-semibold uppercase tracking-wide text-slate-500">{match.competition}</div>
-            <h3 class="mt-1 text-base font-semibold leading-6 text-slate-950">
-              {match.homeTeam} vs {match.awayTeam}
-            </h3>
-          </div>
-          <div class="flex shrink-0 flex-col items-end gap-1">
-            <span class="rounded-full bg-slate-100 px-2 py-0.5 text-xs font-semibold text-slate-700">
-              {relativeDay(match.kickoffUtc)}
-            </span>
-            <span class="text-xs font-semibold text-amber-500" aria-label={`${match.excitement} out of 5`}>
+        <div class="flex items-center justify-between gap-3 text-xs font-semibold uppercase tracking-wide text-slate-500">
+          <span>{match.competition}</span>
+          <span class="flex shrink-0 items-center gap-2 normal-case tracking-normal text-slate-600">
+            {relativeDay(match.kickoffUtc)}
+            <span class="text-amber-500" aria-label={`${match.excitement} out of 5`}>
               {"*".repeat(match.excitement)}
             </span>
-          </div>
+          </span>
         </div>
-        <div class="mt-1 text-sm text-slate-600">{formatTime(match.kickoffUtc)}</div>
-        <div class="mt-2 flex flex-wrap gap-1.5">
-          {match.starNames.map((name) => (
-            <span class="rounded-full bg-emerald-50 px-2 py-0.5 text-xs font-medium text-emerald-900">
-              {name}
-            </span>
-          ))}
-        </div>
-        {(match.starNames.length > 1 || match.excitement >= 4) && (
-          <p class="mt-2 text-sm leading-6 text-slate-700">{match.whyWatch}</p>
-        )}
-        <div class="mt-2 text-sm text-slate-500">
-          {match.watchUs.length > 0 ? match.watchUs.join(", ") : "Check listings"}
+        <h3 class="mt-1 text-base font-semibold leading-6 text-slate-950">
+          {match.homeTeam} vs {match.awayTeam}
+        </h3>
+        <div class="mt-1 text-sm leading-6 text-slate-600">
+          <span data-match-time={match.kickoffUtc}>{formatTime(match.kickoffUtc)}</span>
+          <span> · </span>
+          <span class="font-medium text-emerald-800">{match.starNames.join(", ")}</span>
+          <span> · </span>
+          <span>{match.watchUs[0] ?? "Check listings"}</span>
         </div>
       </article>
     ))
@@ -93,7 +82,7 @@ const relativeDay = (iso: string) => {
             data-excitement={match.excitement}
           >
             <td class="px-4 py-4">
-              <div class="font-medium text-slate-950">{formatTime(match.kickoffUtc)}</div>
+              <div class="font-medium text-slate-950" data-match-time={match.kickoffUtc}>{formatTime(match.kickoffUtc)}</div>
               <div class="mt-1 text-xs font-semibold text-slate-500">{relativeDay(match.kickoffUtc)}</div>
             </td>
             <td class="px-4 py-4 text-slate-700">{match.competition}</td>

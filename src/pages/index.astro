@@ -43,8 +43,10 @@ const generated = new Intl.DateTimeFormat("en-US", {
             The best football to watch until the next World Cup.
           </p>
         </div>
-        <div class="text-xs text-slate-500 sm:text-sm">
-          Updated {generated}
+        <div class="text-xs leading-5 text-slate-500 sm:text-sm sm:leading-6">
+          Updated <span data-generated-at={data.generatedAt}>{generated}</span>
+          <br />
+          <span data-timezone-label>Times in your browser timezone</span>
         </div>
       </header>
 
@@ -131,6 +133,43 @@ const generated = new Intl.DateTimeFormat("en-US", {
             panel.classList.toggle("hidden", panel.getAttribute("data-range-panel") !== active);
           });
         });
+      });
+
+      const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+      const shortTimeZone =
+        new Intl.DateTimeFormat("en-US", { timeZoneName: "short" })
+          .formatToParts(new Date())
+          .find((part) => part.type === "timeZoneName")?.value ?? timeZone;
+      document.querySelectorAll("[data-timezone-label]").forEach((node) => {
+        node.textContent = `Times shown in ${shortTimeZone}`;
+      });
+
+      const matchFormatter = new Intl.DateTimeFormat("en-US", {
+        weekday: "short",
+        month: "short",
+        day: "numeric",
+        hour: "numeric",
+        minute: "2-digit",
+        timeZoneName: "short",
+      });
+
+      document.querySelectorAll("[data-match-time]").forEach((node) => {
+        const kickoff = node.getAttribute("data-match-time");
+        if (kickoff) node.textContent = matchFormatter.format(new Date(kickoff));
+      });
+
+      const generatedFormatter = new Intl.DateTimeFormat("en-US", {
+        month: "short",
+        day: "numeric",
+        year: "numeric",
+        hour: "numeric",
+        minute: "2-digit",
+        timeZoneName: "short",
+      });
+
+      document.querySelectorAll("[data-generated-at]").forEach((node) => {
+        const generatedAt = node.getAttribute("data-generated-at");
+        if (generatedAt) node.textContent = generatedFormatter.format(new Date(generatedAt));
       });
     </script>
   </body>
