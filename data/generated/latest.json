@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-02T14:42:53.167Z",
-  "date": "2026-08-02",
+  "generatedAt": "2026-08-03T15:51:11.577Z",
+  "date": "2026-08-03",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [],
@@ -16,6 +16,20 @@
       "label": "This Week",
       "description": "Best tracked matches over the next seven days.",
       "matches": [
+        {
+          "id": "espn-401841182",
+          "kickoffUtc": "2026-08-09T21:30Z",
+          "competition": "Brasileirao",
+          "homeTeam": "Santos",
+          "awayTeam": "Athletico-PR",
+          "starNames": [
+            "Neymar"
+          ],
+          "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 41,
+          "excitement": 2
+        },
         {
           "id": "espn-401863561",
           "kickoffUtc": "2026-08-05T23:30Z",
@@ -45,6 +59,23 @@
           "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
           "watchUs": [
             "Apple TV"
+          ],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401863595",
+          "kickoffUtc": "2026-08-09T00:00Z",
+          "competition": "Leagues Cup",
+          "homeTeam": "Inter Miami CF",
+          "awayTeam": "Monterrey",
+          "starNames": [
+            "Lionel Messi"
+          ],
+          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Apple TV",
+            "MLS Season Pass"
           ],
           "score": 40,
           "excitement": 2
