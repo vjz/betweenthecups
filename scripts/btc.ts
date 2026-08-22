@@ -204,7 +204,6 @@ async function fetchEspnSource(
   const response = await fetch(url, {
     headers: {
       accept: "application/json",
-      "user-agent": "BetweenTheCups/0.1 fixture fetcher",
     },
   });
   if (!response.ok) {
@@ -227,6 +226,17 @@ async function fetchFixturesRange(startDateInput: string, endDateInput: string):
   const { teams } = await loadCurated();
   const sources = await readJson<FixtureSource[]>(FIXTURE_SOURCES_PATH);
   const settled = await Promise.allSettled(sources.map((source) => fetchEspnSource(source, startDate, endDate, teams)));
+  const failures = settled.filter((result): result is PromiseRejectedResult => result.status === "rejected");
+  if (failures.length === settled.length) {
+    throw new Error(
+      `All fixture sources failed: ${failures
+        .map((failure) => (failure.reason instanceof Error ? failure.reason.message : String(failure.reason)))
+        .join("; ")}`,
+    );
+  }
+  for (const failure of failures) {
+    console.warn(failure.reason instanceof Error ? failure.reason.message : failure.reason);
+  }
   const fixtures = settled.flatMap((result) => (result.status === "fulfilled" ? result.value : []));
   fixtures.sort((a, b) => a.kickoffUtc.localeCompare(b.kickoffUtc));
   await mkdir(FIXTURE_CACHE_DIR, { recursive: true });
