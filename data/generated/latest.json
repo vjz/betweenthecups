@@ -1,21 +1,64 @@
 {
-  "generatedAt": "2026-08-22T14:12:28.116Z",
-  "date": "2026-08-22",
+  "generatedAt": "2026-08-23T13:44:53.982Z",
+  "date": "2026-08-23",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [
     {
-      "id": "espn-401882912",
-      "kickoffUtc": "2026-08-22T19:30Z",
-      "competition": "La Liga",
-      "homeTeam": "Espanyol",
-      "awayTeam": "Real Madrid",
+      "id": "espn-401879320",
+      "kickoffUtc": "2026-08-23T13:00Z",
+      "competition": "Premier League",
+      "homeTeam": "Manchester City",
+      "awayTeam": "AFC Bournemouth",
       "starNames": [
-        "Jude Bellingham",
-        "Kylian Mbappe",
-        "Vinicius Junior"
+        "Erling Haaland",
+        "Rodri"
       ],
-      "whyWatch": "Espanyol vs Real Madrid features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
+      "whyWatch": "Manchester City vs AFC Bournemouth features Erling Haaland, Rodri for World Cup fans.",
+      "watchUs": [
+        "USA Net",
+        "Tele",
+        "NBC",
+        "Peacock"
+      ],
+      "score": 68,
+      "excitement": 3
+    },
+    {
+      "id": "espn-401879319",
+      "kickoffUtc": "2026-08-23T15:30Z",
+      "competition": "Premier League",
+      "homeTeam": "Newcastle United",
+      "awayTeam": "Liverpool",
+      "starNames": [
+        "Mohamed Salah",
+        "Florian Wirtz"
+      ],
+      "whyWatch": "Newcastle United vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
+      "watchUs": [
+        "USA Net",
+        "Tele",
+        "NBC",
+        "Peacock"
+      ],
+      "score": 68,
+      "excitement": 3
+    },
+    {
+      "id": "espn-401882913",
+      "kickoffUtc": "2026-08-23T19:30Z",
+      "competition": "La Liga",
+      "homeTeam": "Elche",
+      "awayTeam": "Barcelona",
+      "starNames": [
+        "Lamine Yamal",
+        "Pedri",
+        "Raphinha",
+        "Robert Lewandowski",
+        "Ferran Torres",
+        "Pau Cubarsi"
+      ],
+      "whyWatch": "Elche vs Barcelona features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
       "watchUs": [
         "ABC",
         "ESPN Deportes",
@@ -25,32 +68,47 @@
       "excitement": 3
     },
     {
-      "id": "espn-761742",
-      "kickoffUtc": "2026-08-22T23:30Z",
-      "competition": "MLS",
-      "homeTeam": "Inter Miami CF",
-      "awayTeam": "Toronto FC",
+      "id": "espn-401841201",
+      "kickoffUtc": "2026-08-23T21:30Z",
+      "competition": "Brasileirao",
+      "homeTeam": "Santos",
+      "awayTeam": "Mirassol",
       "starNames": [
-        "Lionel Messi"
+        "Neymar"
       ],
-      "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
-      "watchUs": [
-        "Apple TV",
-        "MLS Season Pass"
-      ],
+      "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+      "watchUs": [],
       "score": 41,
       "excitement": 2
     },
     {
-      "id": "espn-401874931",
-      "kickoffUtc": "2026-08-22T16:30Z",
-      "competition": "Serie A",
-      "homeTeam": "Internazionale",
-      "awayTeam": "Monza",
+      "id": "espn-401882915",
+      "kickoffUtc": "2026-08-23T15:00Z",
+      "competition": "La Liga",
+      "homeTeam": "Atlético Madrid",
+      "awayTeam": "Villarreal",
       "starNames": [
-        "Lautaro Martinez"
+        "Julian Alvarez"
       ],
-      "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
+      "whyWatch": "Worth a look for Julian Alvarez, with matchup quality deciding how high it ranks.",
+      "watchUs": [
+        "ESPN2",
+        "ESPN Deportes",
+        "ESPN+"
+      ],
+      "score": 36,
+      "excitement": 1
+    },
+    {
+      "id": "espn-401874932",
+      "kickoffUtc": "2026-08-23T18:45Z",
+      "competition": "Serie A",
+      "homeTeam": "Torino",
+      "awayTeam": "AC Milan",
+      "starNames": [
+        "Luka Modric"
+      ],
+      "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
       "watchUs": [
         "Paramount+"
       ],
@@ -58,19 +116,19 @@
       "excitement": 1
     },
     {
-      "id": "espn-401874929",
-      "kickoffUtc": "2026-08-22T18:45Z",
-      "competition": "Serie A",
-      "homeTeam": "Genoa",
-      "awayTeam": "Napoli",
+      "id": "espn-401876487",
+      "kickoffUtc": "2026-08-23T18:45Z",
+      "competition": "Ligue 1",
+      "homeTeam": "Stade Rennais",
+      "awayTeam": "Paris Saint-Germain",
       "starNames": [
-        "Kevin De Bruyne"
+        "Ousmane Dembele"
       ],
-      "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
+      "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
       "watchUs": [
-        "Paramount+"
+        "beIN Sports"
       ],
-      "score": 33,
+      "score": 31,
       "excitement": 1
     }
   ],
@@ -81,17 +139,60 @@
       "description": "Tracked matches on today’s slate.",
       "matches": [
         {
-          "id": "espn-401882912",
-          "kickoffUtc": "2026-08-22T19:30Z",
-          "competition": "La Liga",
-          "homeTeam": "Espanyol",
-          "awayTeam": "Real Madrid",
+          "id": "espn-401879320",
+          "kickoffUtc": "2026-08-23T13:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Manchester City",
+          "awayTeam": "AFC Bournemouth",
           "starNames": [
-            "Jude Bellingham",
-            "Kylian Mbappe",
-            "Vinicius Junior"
+            "Erling Haaland",
+            "Rodri"
           ],
-          "whyWatch": "Espanyol vs Real Madrid features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
+          "whyWatch": "Manchester City vs AFC Bournemouth features Erling Haaland, Rodri for World Cup fans.",
+          "watchUs": [
+            "USA Net",
+            "Tele",
+            "NBC",
+            "Peacock"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401879319",
+          "kickoffUtc": "2026-08-23T15:30Z",
+          "competition": "Premier League",
+          "homeTeam": "Newcastle United",
+          "awayTeam": "Liverpool",
+          "starNames": [
+            "Mohamed Salah",
+            "Florian Wirtz"
+          ],
+          "whyWatch": "Newcastle United vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
+          "watchUs": [
+            "USA Net",
+            "Tele",
+            "NBC",
+            "Peacock"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401882913",
+          "kickoffUtc": "2026-08-23T19:30Z",
+          "competition": "La Liga",
+          "homeTeam": "Elche",
+          "awayTeam": "Barcelona",
+          "starNames": [
+            "Lamine Yamal",
+            "Pedri",
+            "Raphinha",
+            "Robert Lewandowski",
+            "Ferran Torres",
+            "Pau Cubarsi"
+          ],
+          "whyWatch": "Elche vs Barcelona features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
           "watchUs": [
             "ABC",
             "ESPN Deportes",
@@ -101,32 +202,47 @@
           "excitement": 3
         },
         {
-          "id": "espn-761742",
-          "kickoffUtc": "2026-08-22T23:30Z",
-          "competition": "MLS",
-          "homeTeam": "Inter Miami CF",
-          "awayTeam": "Toronto FC",
+          "id": "espn-401841201",
+          "kickoffUtc": "2026-08-23T21:30Z",
+          "competition": "Brasileirao",
+          "homeTeam": "Santos",
+          "awayTeam": "Mirassol",
           "starNames": [
-            "Lionel Messi"
+            "Neymar"
           ],
-          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Apple TV",
-            "MLS Season Pass"
-          ],
+          "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
           "score": 41,
           "excitement": 2
         },
         {
-          "id": "espn-401874931",
-          "kickoffUtc": "2026-08-22T16:30Z",
-          "competition": "Serie A",
-          "homeTeam": "Internazionale",
-          "awayTeam": "Monza",
+          "id": "espn-401882915",
+          "kickoffUtc": "2026-08-23T15:00Z",
+          "competition": "La Liga",
+          "homeTeam": "Atlético Madrid",
+          "awayTeam": "Villarreal",
           "starNames": [
-            "Lautaro Martinez"
+            "Julian Alvarez"
           ],
-          "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
+          "whyWatch": "Worth a look for Julian Alvarez, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "ESPN2",
+            "ESPN Deportes",
+            "ESPN+"
+          ],
+          "score": 36,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401874932",
+          "kickoffUtc": "2026-08-23T18:45Z",
+          "competition": "Serie A",
+          "homeTeam": "Torino",
+          "awayTeam": "AC Milan",
+          "starNames": [
+            "Luka Modric"
+          ],
+          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
           "watchUs": [
             "Paramount+"
           ],
@@ -134,19 +250,19 @@
           "excitement": 1
         },
         {
-          "id": "espn-401874929",
-          "kickoffUtc": "2026-08-22T18:45Z",
-          "competition": "Serie A",
-          "homeTeam": "Genoa",
-          "awayTeam": "Napoli",
+          "id": "espn-401876487",
+          "kickoffUtc": "2026-08-23T18:45Z",
+          "competition": "Ligue 1",
+          "homeTeam": "Stade Rennais",
+          "awayTeam": "Paris Saint-Germain",
           "starNames": [
-            "Kevin De Bruyne"
+            "Ousmane Dembele"
           ],
-          "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
+          "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
           "watchUs": [
-            "Paramount+"
+            "beIN Sports"
           ],
-          "score": 33,
+          "score": 31,
           "excitement": 1
         }
       ]
@@ -156,26 +272,6 @@
       "label": "This Week",
       "description": "Best tracked matches over the next seven days.",
       "matches": [
-        {
-          "id": "espn-401882912",
-          "kickoffUtc": "2026-08-22T19:30Z",
-          "competition": "La Liga",
-          "homeTeam": "Espanyol",
-          "awayTeam": "Real Madrid",
-          "starNames": [
-            "Jude Bellingham",
-            "Kylian Mbappe",
-            "Vinicius Junior"
-          ],
-          "whyWatch": "Espanyol vs Real Madrid features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
-          "watchUs": [
-            "ABC",
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
-        },
         {
           "id": "espn-401879320",
           "kickoffUtc": "2026-08-23T13:00Z",
@@ -316,21 +412,22 @@
           "excitement": 3
         },
         {
-          "id": "espn-761742",
-          "kickoffUtc": "2026-08-22T23:30Z",
-          "competition": "MLS",
-          "homeTeam": "Inter Miami CF",
-          "awayTeam": "Toronto FC",
+          "id": "espn-401879314",
+          "kickoffUtc": "2026-08-29T11:30Z",
+          "competition": "Premier League",
+          "homeTeam": "Liverpool",
+          "awayTeam": "Nottingham Forest",
           "starNames": [
-            "Lionel Messi"
+            "Mohamed Salah",
+            "Florian Wirtz"
           ],
-          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
+          "whyWatch": "Liverpool vs Nottingham Forest features Mohamed Salah, Florian Wirtz for World Cup fans.",
           "watchUs": [
-            "Apple TV",
-            "MLS Season Pass"
+            "NBC",
+            "Peacock"
           ],
-          "score": 41,
-          "excitement": 2
+          "score": 68,
+          "excitement": 3
         },
         {
           "id": "espn-401841201",
@@ -343,6 +440,23 @@
           ],
           "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
           "watchUs": [],
+          "score": 41,
+          "excitement": 2
+        },
+        {
+          "id": "espn-761757",
+          "kickoffUtc": "2026-08-29T23:30Z",
+          "competition": "MLS",
+          "homeTeam": "Inter Miami CF",
+          "awayTeam": "CF Montréal",
+          "starNames": [
+            "Lionel Messi"
+          ],
+          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Apple TV",
+            "MLS Season Pass"
+          ],
           "score": 41,
           "excitement": 2
         },
@@ -412,35 +526,20 @@
           "excitement": 1
         },
         {
-          "id": "espn-401874931",
-          "kickoffUtc": "2026-08-22T16:30Z",
-          "competition": "Serie A",
-          "homeTeam": "Internazionale",
-          "awayTeam": "Monza",
+          "id": "espn-401882897",
+          "kickoffUtc": "2026-08-29T19:30Z",
+          "competition": "La Liga",
+          "homeTeam": "Sevilla",
+          "awayTeam": "Atlético Madrid",
           "starNames": [
-            "Lautaro Martinez"
+            "Julian Alvarez"
           ],
-          "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
+          "whyWatch": "Worth a look for Julian Alvarez, with matchup quality deciding how high it ranks.",
           "watchUs": [
-            "Paramount+"
+            "ESPN Deportes",
+            "ESPN+"
           ],
-          "score": 33,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401874929",
-          "kickoffUtc": "2026-08-22T18:45Z",
-          "competition": "Serie A",
-          "homeTeam": "Genoa",
-          "awayTeam": "Napoli",
-          "starNames": [
-            "Kevin De Bruyne"
-          ],
-          "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 33,
+          "score": 36,
           "excitement": 1
         },
         {
@@ -567,26 +666,6 @@
           ],
           "score": 70,
           "excitement": 4
-        },
-        {
-          "id": "espn-401882912",
-          "kickoffUtc": "2026-08-22T19:30Z",
-          "competition": "La Liga",
-          "homeTeam": "Espanyol",
-          "awayTeam": "Real Madrid",
-          "starNames": [
-            "Jude Bellingham",
-            "Kylian Mbappe",
-            "Vinicius Junior"
-          ],
-          "whyWatch": "Espanyol vs Real Madrid features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
-          "watchUs": [
-            "ABC",
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
         },
         {
           "id": "espn-401879320",
@@ -1084,23 +1163,6 @@
           "excitement": 3
         },
         {
-          "id": "espn-761742",
-          "kickoffUtc": "2026-08-22T23:30Z",
-          "competition": "MLS",
-          "homeTeam": "Inter Miami CF",
-          "awayTeam": "Toronto FC",
-          "starNames": [
-            "Lionel Messi"
-          ],
-          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Apple TV",
-            "MLS Season Pass"
-          ],
-          "score": 41,
-          "excitement": 2
-        },
-        {
           "id": "espn-401841201",
           "kickoffUtc": "2026-08-23T21:30Z",
           "competition": "Brasileirao",
@@ -1544,38 +1606,6 @@
           "excitement": 1
         },
         {
-          "id": "espn-401874931",
-          "kickoffUtc": "2026-08-22T16:30Z",
-          "competition": "Serie A",
-          "homeTeam": "Internazionale",
-          "awayTeam": "Monza",
-          "starNames": [
-            "Lautaro Martinez"
-          ],
-          "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 33,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401874929",
-          "kickoffUtc": "2026-08-22T18:45Z",
-          "competition": "Serie A",
-          "homeTeam": "Genoa",
-          "awayTeam": "Napoli",
-          "starNames": [
-            "Kevin De Bruyne"
-          ],
-          "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 33,
-          "excitement": 1
-        },
-        {
           "id": "espn-401874932",
           "kickoffUtc": "2026-08-23T18:45Z",
           "competition": "Serie A",
@@ -1921,6 +1951,28 @@
           "excitement": 5
         },
         {
+          "id": "espn-401882816",
+          "kickoffUtc": "2026-11-08T20:00Z",
+          "competition": "La Liga",
+          "homeTeam": "Atlético Madrid",
+          "awayTeam": "Barcelona",
+          "starNames": [
+            "Lamine Yamal",
+            "Julian Alvarez",
+            "Pedri",
+            "Raphinha",
+            "Robert Lewandowski",
+            "Ferran Torres",
+            "Pau Cubarsi"
+          ],
+          "whyWatch": "Atlético Madrid and Barcelona put Lamine Yamal, Julian Alvarez, Pedri, Raphinha in the same match.",
+          "watchUs": [
+            "ESPN+"
+          ],
+          "score": 100,
+          "excitement": 5
+        },
+        {
           "id": "espn-401879292",
           "kickoffUtc": "2026-09-06T15:30Z",
           "competition": "Premier League",
@@ -1971,26 +2023,6 @@
           ],
           "score": 70,
           "excitement": 4
-        },
-        {
-          "id": "espn-401882912",
-          "kickoffUtc": "2026-08-22T19:30Z",
-          "competition": "La Liga",
-          "homeTeam": "Espanyol",
-          "awayTeam": "Real Madrid",
-          "starNames": [
-            "Jude Bellingham",
-            "Kylian Mbappe",
-            "Vinicius Junior"
-          ],
-          "whyWatch": "Espanyol vs Real Madrid features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
-          "watchUs": [
-            "ABC",
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
         },
         {
           "id": "espn-401879320",
