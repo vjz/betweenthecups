@@ -1,27 +1,22 @@
 {
-  "generatedAt": "2026-08-24T14:01:09.556Z",
-  "date": "2026-08-24",
+  "generatedAt": "2026-08-25T14:02:32.743Z",
+  "date": "2026-08-25",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [
     {
-      "id": "espn-401879318",
-      "kickoffUtc": "2026-08-24T19:00Z",
-      "competition": "Premier League",
-      "homeTeam": "Fulham",
-      "awayTeam": "Chelsea",
+      "id": "espn-401900388",
+      "kickoffUtc": "2026-08-25T18:00Z",
+      "competition": "Saudi Pro League",
+      "homeTeam": "Al Ettifaq",
+      "awayTeam": "Al Nassr",
       "starNames": [
-        "Cole Palmer"
+        "Cristiano Ronaldo"
       ],
-      "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
-      "watchUs": [
-        "USA Net",
-        "Universo",
-        "NBC",
-        "Peacock"
-      ],
-      "score": 36,
-      "excitement": 1
+      "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+      "watchUs": [],
+      "score": 40,
+      "excitement": 2
     }
   ],
   "sections": [
@@ -31,23 +26,18 @@
       "description": "Tracked matches on today’s slate.",
       "matches": [
         {
-          "id": "espn-401879318",
-          "kickoffUtc": "2026-08-24T19:00Z",
-          "competition": "Premier League",
-          "homeTeam": "Fulham",
-          "awayTeam": "Chelsea",
+          "id": "espn-401900388",
+          "kickoffUtc": "2026-08-25T18:00Z",
+          "competition": "Saudi Pro League",
+          "homeTeam": "Al Ettifaq",
+          "awayTeam": "Al Nassr",
           "starNames": [
-            "Cole Palmer"
+            "Cristiano Ronaldo"
           ],
-          "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "USA Net",
-            "Universo",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 36,
-          "excitement": 1
+          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 40,
+          "excitement": 2
         }
       ]
     },
@@ -170,6 +160,28 @@
           "excitement": 3
         },
         {
+          "id": "espn-401882903",
+          "kickoffUtc": "2026-08-31T19:30Z",
+          "competition": "La Liga",
+          "homeTeam": "Barcelona",
+          "awayTeam": "Rayo Vallecano",
+          "starNames": [
+            "Lamine Yamal",
+            "Pedri",
+            "Raphinha",
+            "Robert Lewandowski",
+            "Ferran Torres",
+            "Pau Cubarsi"
+          ],
+          "whyWatch": "Barcelona vs Rayo Vallecano features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
+          "watchUs": [
+            "ESPN Deportes",
+            "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
           "id": "espn-761757",
           "kickoffUtc": "2026-08-29T23:30Z",
           "competition": "MLS",
@@ -229,25 +241,6 @@
           "excitement": 2
         },
         {
-          "id": "espn-401879318",
-          "kickoffUtc": "2026-08-24T19:00Z",
-          "competition": "Premier League",
-          "homeTeam": "Fulham",
-          "awayTeam": "Chelsea",
-          "starNames": [
-            "Cole Palmer"
-          ],
-          "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "USA Net",
-            "Universo",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 36,
-          "excitement": 1
-        },
-        {
           "id": "espn-401882897",
           "kickoffUtc": "2026-08-29T19:30Z",
           "competition": "La Liga",
@@ -274,6 +267,23 @@
             "Cole Palmer"
           ],
           "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
+          ],
+          "score": 36,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401879295",
+          "kickoffUtc": "2026-08-31T19:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Aston Villa",
+          "awayTeam": "Arsenal",
+          "starNames": [
+            "Bukayo Saka"
+          ],
+          "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
           "watchUs": [
             "NBC",
             "Peacock"
@@ -572,6 +582,7 @@
           ],
           "whyWatch": "Real Betis vs Real Madrid features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
           "watchUs": [
+            "ESPN Deportes",
             "ESPN+"
           ],
           "score": 68,
@@ -628,6 +639,7 @@
           ],
           "whyWatch": "Valencia vs Barcelona features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
           "watchUs": [
+            "ESPN Deportes",
             "ESPN+"
           ],
           "score": 68,
@@ -1050,25 +1062,6 @@
           "excitement": 2
         },
         {
-          "id": "espn-401879318",
-          "kickoffUtc": "2026-08-24T19:00Z",
-          "competition": "Premier League",
-          "homeTeam": "Fulham",
-          "awayTeam": "Chelsea",
-          "starNames": [
-            "Cole Palmer"
-          ],
-          "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "USA Net",
-            "Universo",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 36,
-          "excitement": 1
-        },
-        {
           "id": "espn-401882897",
           "kickoffUtc": "2026-08-29T19:30Z",
           "competition": "La Liga",
@@ -1130,6 +1123,7 @@
           ],
           "whyWatch": "Worth a look for Julian Alvarez, with matchup quality deciding how high it ranks.",
           "watchUs": [
+            "ESPN Deportes",
             "ESPN+"
           ],
           "score": 36,
@@ -1317,7 +1311,7 @@
         },
         {
           "id": "espn-401874941",
-          "kickoffUtc": "2026-09-13T18:45Z",
+          "kickoffUtc": "2026-09-13T18:00Z",
           "competition": "Serie A",
           "homeTeam": "Lazio",
           "awayTeam": "AC Milan",
