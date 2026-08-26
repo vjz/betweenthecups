@@ -1,22 +1,27 @@
 {
-  "generatedAt": "2026-08-25T14:02:32.743Z",
-  "date": "2026-08-25",
+  "generatedAt": "2026-08-26T14:02:51.471Z",
+  "date": "2026-08-26",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [
     {
-      "id": "espn-401900388",
-      "kickoffUtc": "2026-08-25T18:00Z",
-      "competition": "Saudi Pro League",
-      "homeTeam": "Al Ettifaq",
-      "awayTeam": "Al Nassr",
+      "id": "espn-401882919",
+      "kickoffUtc": "2026-08-26T19:00Z",
+      "competition": "La Liga",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Real Sociedad",
       "starNames": [
-        "Cristiano Ronaldo"
+        "Jude Bellingham",
+        "Kylian Mbappe",
+        "Vinicius Junior"
       ],
-      "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
-      "watchUs": [],
-      "score": 40,
-      "excitement": 2
+      "whyWatch": "Real Madrid vs Real Sociedad features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
+      "watchUs": [
+        "ESPN Deportes",
+        "ESPN+"
+      ],
+      "score": 68,
+      "excitement": 3
     }
   ],
   "sections": [
@@ -26,18 +31,23 @@
       "description": "Tracked matches on today’s slate.",
       "matches": [
         {
-          "id": "espn-401900388",
-          "kickoffUtc": "2026-08-25T18:00Z",
-          "competition": "Saudi Pro League",
-          "homeTeam": "Al Ettifaq",
-          "awayTeam": "Al Nassr",
+          "id": "espn-401882919",
+          "kickoffUtc": "2026-08-26T19:00Z",
+          "competition": "La Liga",
+          "homeTeam": "Real Madrid",
+          "awayTeam": "Real Sociedad",
           "starNames": [
-            "Cristiano Ronaldo"
+            "Jude Bellingham",
+            "Kylian Mbappe",
+            "Vinicius Junior"
           ],
-          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
-          "watchUs": [],
-          "score": 40,
-          "excitement": 2
+          "whyWatch": "Real Madrid vs Real Sociedad features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
+          "watchUs": [
+            "ESPN Deportes",
+            "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
         }
       ]
     },
@@ -99,6 +109,7 @@
           ],
           "whyWatch": "Bayern Munich vs VfB Stuttgart features Harry Kane, Jamal Musiala for World Cup fans.",
           "watchUs": [
+            "Fandango",
             "ESPN+"
           ],
           "score": 68,
@@ -116,6 +127,7 @@
           ],
           "whyWatch": "Crystal Palace vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
           "watchUs": [
+            "USA Net",
             "NBC",
             "Peacock"
           ],
@@ -134,6 +146,8 @@
           ],
           "whyWatch": "Liverpool vs Nottingham Forest features Mohamed Salah, Florian Wirtz for World Cup fans.",
           "watchUs": [
+            "USA Net",
+            "Universo",
             "NBC",
             "Peacock"
           ],
@@ -213,20 +227,6 @@
           "excitement": 2
         },
         {
-          "id": "espn-401900388",
-          "kickoffUtc": "2026-08-25T18:00Z",
-          "competition": "Saudi Pro League",
-          "homeTeam": "Al Ettifaq",
-          "awayTeam": "Al Nassr",
-          "starNames": [
-            "Cristiano Ronaldo"
-          ],
-          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
-          "watchUs": [],
-          "score": 40,
-          "excitement": 2
-        },
-        {
           "id": "espn-401900381",
           "kickoffUtc": "2026-08-28T18:00Z",
           "competition": "Saudi Pro League",
@@ -268,8 +268,8 @@
           ],
           "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
           "watchUs": [
-            "NBC",
-            "Peacock"
+            "Peacock",
+            "NBC"
           ],
           "score": 36,
           "excitement": 1
@@ -285,6 +285,8 @@
           ],
           "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
           "watchUs": [
+            "USA Net",
+            "Universo",
             "NBC",
             "Peacock"
           ],
@@ -318,6 +320,7 @@
           ],
           "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
           "watchUs": [
+            "CBSSN",
             "Paramount+"
           ],
           "score": 33,
@@ -393,6 +396,8 @@
           ],
           "whyWatch": "Arsenal and Chelsea put Bukayo Saka, Cole Palmer in the same match.",
           "watchUs": [
+            "USA Net",
+            "Tele",
             "NBC",
             "Peacock"
           ],
@@ -469,6 +474,7 @@
           ],
           "whyWatch": "Bayern Munich vs VfB Stuttgart features Harry Kane, Jamal Musiala for World Cup fans.",
           "watchUs": [
+            "Fandango",
             "ESPN+"
           ],
           "score": 68,
@@ -486,6 +492,7 @@
           ],
           "whyWatch": "Crystal Palace vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
           "watchUs": [
+            "USA Net",
             "NBC",
             "Peacock"
           ],
@@ -504,6 +511,8 @@
           ],
           "whyWatch": "Liverpool vs Nottingham Forest features Mohamed Salah, Florian Wirtz for World Cup fans.",
           "watchUs": [
+            "USA Net",
+            "Universo",
             "NBC",
             "Peacock"
           ],
@@ -563,6 +572,7 @@
           ],
           "whyWatch": "Ipswich Town vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
           "watchUs": [
+            "USA Net",
             "NBC",
             "Peacock"
           ],
@@ -600,6 +610,8 @@
           ],
           "whyWatch": "Manchester City vs Coventry City features Erling Haaland, Rodri for World Cup fans.",
           "watchUs": [
+            "USA Net",
+            "Tele",
             "NBC",
             "Peacock"
           ],
@@ -992,20 +1004,6 @@
           "excitement": 2
         },
         {
-          "id": "espn-401900388",
-          "kickoffUtc": "2026-08-25T18:00Z",
-          "competition": "Saudi Pro League",
-          "homeTeam": "Al Ettifaq",
-          "awayTeam": "Al Nassr",
-          "starNames": [
-            "Cristiano Ronaldo"
-          ],
-          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
-          "watchUs": [],
-          "score": 40,
-          "excitement": 2
-        },
-        {
           "id": "espn-401900381",
           "kickoffUtc": "2026-08-28T18:00Z",
           "competition": "Saudi Pro League",
@@ -1089,8 +1087,8 @@
           ],
           "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
           "watchUs": [
-            "NBC",
-            "Peacock"
+            "Peacock",
+            "NBC"
           ],
           "score": 36,
           "excitement": 1
@@ -1106,6 +1104,8 @@
           ],
           "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
           "watchUs": [
+            "USA Net",
+            "Universo",
             "NBC",
             "Peacock"
           ],
@@ -1256,6 +1256,7 @@
           ],
           "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
           "watchUs": [
+            "CBSSN",
             "Paramount+"
           ],
           "score": 33,
@@ -1576,6 +1577,8 @@
           ],
           "whyWatch": "Arsenal and Chelsea put Bukayo Saka, Cole Palmer in the same match.",
           "watchUs": [
+            "USA Net",
+            "Tele",
             "NBC",
             "Peacock"
           ],
