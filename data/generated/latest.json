@@ -1,22 +1,26 @@
 {
-  "generatedAt": "2026-08-26T14:02:51.471Z",
-  "date": "2026-08-26",
+  "generatedAt": "2026-08-27T22:57:04.839Z",
+  "date": "2026-08-27",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [
     {
-      "id": "espn-401882919",
-      "kickoffUtc": "2026-08-26T19:00Z",
+      "id": "espn-401882921",
+      "kickoffUtc": "2026-08-27T19:00Z",
       "competition": "La Liga",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Real Sociedad",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Athletic Club",
       "starNames": [
-        "Jude Bellingham",
-        "Kylian Mbappe",
-        "Vinicius Junior"
+        "Lamine Yamal",
+        "Pedri",
+        "Raphinha",
+        "Robert Lewandowski",
+        "Ferran Torres",
+        "Pau Cubarsi"
       ],
-      "whyWatch": "Real Madrid vs Real Sociedad features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
+      "whyWatch": "Barcelona vs Athletic Club features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
       "watchUs": [
+        "ESPN2",
         "ESPN Deportes",
         "ESPN+"
       ],
@@ -30,51 +34,6 @@
       "label": "Today",
       "description": "Tracked matches on today’s slate.",
       "matches": [
-        {
-          "id": "espn-401882919",
-          "kickoffUtc": "2026-08-26T19:00Z",
-          "competition": "La Liga",
-          "homeTeam": "Real Madrid",
-          "awayTeam": "Real Sociedad",
-          "starNames": [
-            "Jude Bellingham",
-            "Kylian Mbappe",
-            "Vinicius Junior"
-          ],
-          "whyWatch": "Real Madrid vs Real Sociedad features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
-          "watchUs": [
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
-        }
-      ]
-    },
-    {
-      "id": "week",
-      "label": "This Week",
-      "description": "Best tracked matches over the next seven days.",
-      "matches": [
-        {
-          "id": "espn-401882919",
-          "kickoffUtc": "2026-08-26T19:00Z",
-          "competition": "La Liga",
-          "homeTeam": "Real Madrid",
-          "awayTeam": "Real Sociedad",
-          "starNames": [
-            "Jude Bellingham",
-            "Kylian Mbappe",
-            "Vinicius Junior"
-          ],
-          "whyWatch": "Real Madrid vs Real Sociedad features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
-          "watchUs": [
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
-        },
         {
           "id": "espn-401882921",
           "kickoffUtc": "2026-08-27T19:00Z",
@@ -91,6 +50,37 @@
           ],
           "whyWatch": "Barcelona vs Athletic Club features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
           "watchUs": [
+            "ESPN2",
+            "ESPN Deportes",
+            "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        }
+      ]
+    },
+    {
+      "id": "week",
+      "label": "This Week",
+      "description": "Best tracked matches over the next seven days.",
+      "matches": [
+        {
+          "id": "espn-401882921",
+          "kickoffUtc": "2026-08-27T19:00Z",
+          "competition": "La Liga",
+          "homeTeam": "Barcelona",
+          "awayTeam": "Athletic Club",
+          "starNames": [
+            "Lamine Yamal",
+            "Pedri",
+            "Raphinha",
+            "Robert Lewandowski",
+            "Ferran Torres",
+            "Pau Cubarsi"
+          ],
+          "whyWatch": "Barcelona vs Athletic Club features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
+          "watchUs": [
+            "ESPN2",
             "ESPN Deportes",
             "ESPN+"
           ],
@@ -422,25 +412,6 @@
           "excitement": 4
         },
         {
-          "id": "espn-401882919",
-          "kickoffUtc": "2026-08-26T19:00Z",
-          "competition": "La Liga",
-          "homeTeam": "Real Madrid",
-          "awayTeam": "Real Sociedad",
-          "starNames": [
-            "Jude Bellingham",
-            "Kylian Mbappe",
-            "Vinicius Junior"
-          ],
-          "whyWatch": "Real Madrid vs Real Sociedad features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
-          "watchUs": [
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
-        },
-        {
           "id": "espn-401882921",
           "kickoffUtc": "2026-08-27T19:00Z",
           "competition": "La Liga",
@@ -456,6 +427,7 @@
           ],
           "whyWatch": "Barcelona vs Athletic Club features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
           "watchUs": [
+            "ESPN2",
             "ESPN Deportes",
             "ESPN+"
           ],
@@ -697,13 +669,13 @@
           "id": "espn-401884791",
           "kickoffUtc": "2026-09-13T15:30Z",
           "competition": "Bundesliga",
-          "homeTeam": "SV Elversberg",
+          "homeTeam": "SV ELVERSBERG",
           "awayTeam": "Bayern Munich",
           "starNames": [
             "Harry Kane",
             "Jamal Musiala"
           ],
-          "whyWatch": "SV Elversberg vs Bayern Munich features Harry Kane, Jamal Musiala for World Cup fans.",
+          "whyWatch": "SV ELVERSBERG vs Bayern Munich features Harry Kane, Jamal Musiala for World Cup fans.",
           "watchUs": [
             "ESPN+"
           ],
@@ -1620,25 +1592,6 @@
           "excitement": 4
         },
         {
-          "id": "espn-401882919",
-          "kickoffUtc": "2026-08-26T19:00Z",
-          "competition": "La Liga",
-          "homeTeam": "Real Madrid",
-          "awayTeam": "Real Sociedad",
-          "starNames": [
-            "Jude Bellingham",
-            "Kylian Mbappe",
-            "Vinicius Junior"
-          ],
-          "whyWatch": "Real Madrid vs Real Sociedad features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
-          "watchUs": [
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
-        },
-        {
           "id": "espn-401882921",
           "kickoffUtc": "2026-08-27T19:00Z",
           "competition": "La Liga",
@@ -1654,7 +1607,26 @@
           ],
           "whyWatch": "Barcelona vs Athletic Club features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
           "watchUs": [
+            "ESPN2",
             "ESPN Deportes",
+            "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401884817",
+          "kickoffUtc": "2026-08-28T18:30Z",
+          "competition": "Bundesliga",
+          "homeTeam": "Bayern Munich",
+          "awayTeam": "VfB Stuttgart",
+          "starNames": [
+            "Harry Kane",
+            "Jamal Musiala"
+          ],
+          "whyWatch": "Bayern Munich vs VfB Stuttgart features Harry Kane, Jamal Musiala for World Cup fans.",
+          "watchUs": [
+            "Fandango",
             "ESPN+"
           ],
           "score": 68,
