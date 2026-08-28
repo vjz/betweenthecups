@@ -1,31 +1,91 @@
 {
-  "generatedAt": "2026-08-27T22:57:04.839Z",
-  "date": "2026-08-27",
+  "generatedAt": "2026-08-28T23:01:29.577Z",
+  "date": "2026-08-28",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [
     {
-      "id": "espn-401882921",
-      "kickoffUtc": "2026-08-27T19:00Z",
-      "competition": "La Liga",
-      "homeTeam": "Barcelona",
-      "awayTeam": "Athletic Club",
+      "id": "espn-401884817",
+      "kickoffUtc": "2026-08-28T18:30Z",
+      "competition": "Bundesliga",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "VfB Stuttgart",
       "starNames": [
-        "Lamine Yamal",
-        "Pedri",
-        "Raphinha",
-        "Robert Lewandowski",
-        "Ferran Torres",
-        "Pau Cubarsi"
+        "Harry Kane",
+        "Jamal Musiala"
       ],
-      "whyWatch": "Barcelona vs Athletic Club features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
+      "whyWatch": "Bayern Munich vs VfB Stuttgart features Harry Kane, Jamal Musiala for World Cup fans.",
       "watchUs": [
-        "ESPN2",
-        "ESPN Deportes",
+        "Fandango",
         "ESPN+"
       ],
       "score": 68,
       "excitement": 3
+    },
+    {
+      "id": "espn-401879294",
+      "kickoffUtc": "2026-08-28T19:00Z",
+      "competition": "Premier League",
+      "homeTeam": "Crystal Palace",
+      "awayTeam": "Manchester City",
+      "starNames": [
+        "Erling Haaland",
+        "Rodri"
+      ],
+      "whyWatch": "Crystal Palace vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
+      "watchUs": [
+        "USA Net",
+        "NBC",
+        "Peacock"
+      ],
+      "score": 68,
+      "excitement": 3
+    },
+    {
+      "id": "espn-401900381",
+      "kickoffUtc": "2026-08-28T18:00Z",
+      "competition": "Saudi Pro League",
+      "homeTeam": "Al Nassr",
+      "awayTeam": "Al Taawoun",
+      "starNames": [
+        "Cristiano Ronaldo"
+      ],
+      "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+      "watchUs": [],
+      "score": 40,
+      "excitement": 2
+    },
+    {
+      "id": "espn-401874758",
+      "kickoffUtc": "2026-08-28T18:45Z",
+      "competition": "Serie A",
+      "homeTeam": "AC Milan",
+      "awayTeam": "Venezia",
+      "starNames": [
+        "Luka Modric"
+      ],
+      "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
+      "watchUs": [
+        "Paramount+"
+      ],
+      "score": 33,
+      "excitement": 1
+    },
+    {
+      "id": "espn-401876476",
+      "kickoffUtc": "2026-08-28T19:00Z",
+      "competition": "Ligue 1",
+      "homeTeam": "Lille",
+      "awayTeam": "Paris Saint-Germain",
+      "starNames": [
+        "Ousmane Dembele"
+      ],
+      "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
+      "watchUs": [
+        "beIN Sports"
+      ],
+      "score": 31,
+      "excitement": 1
     }
   ],
   "sections": [
@@ -35,27 +95,87 @@
       "description": "Tracked matches on today’s slate.",
       "matches": [
         {
-          "id": "espn-401882921",
-          "kickoffUtc": "2026-08-27T19:00Z",
-          "competition": "La Liga",
-          "homeTeam": "Barcelona",
-          "awayTeam": "Athletic Club",
+          "id": "espn-401884817",
+          "kickoffUtc": "2026-08-28T18:30Z",
+          "competition": "Bundesliga",
+          "homeTeam": "Bayern Munich",
+          "awayTeam": "VfB Stuttgart",
           "starNames": [
-            "Lamine Yamal",
-            "Pedri",
-            "Raphinha",
-            "Robert Lewandowski",
-            "Ferran Torres",
-            "Pau Cubarsi"
+            "Harry Kane",
+            "Jamal Musiala"
           ],
-          "whyWatch": "Barcelona vs Athletic Club features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
+          "whyWatch": "Bayern Munich vs VfB Stuttgart features Harry Kane, Jamal Musiala for World Cup fans.",
           "watchUs": [
-            "ESPN2",
-            "ESPN Deportes",
+            "Fandango",
             "ESPN+"
           ],
           "score": 68,
           "excitement": 3
+        },
+        {
+          "id": "espn-401879294",
+          "kickoffUtc": "2026-08-28T19:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Crystal Palace",
+          "awayTeam": "Manchester City",
+          "starNames": [
+            "Erling Haaland",
+            "Rodri"
+          ],
+          "whyWatch": "Crystal Palace vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
+          "watchUs": [
+            "USA Net",
+            "NBC",
+            "Peacock"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401900381",
+          "kickoffUtc": "2026-08-28T18:00Z",
+          "competition": "Saudi Pro League",
+          "homeTeam": "Al Nassr",
+          "awayTeam": "Al Taawoun",
+          "starNames": [
+            "Cristiano Ronaldo"
+          ],
+          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401874758",
+          "kickoffUtc": "2026-08-28T18:45Z",
+          "competition": "Serie A",
+          "homeTeam": "AC Milan",
+          "awayTeam": "Venezia",
+          "starNames": [
+            "Luka Modric"
+          ],
+          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+"
+          ],
+          "score": 33,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401876476",
+          "kickoffUtc": "2026-08-28T19:00Z",
+          "competition": "Ligue 1",
+          "homeTeam": "Lille",
+          "awayTeam": "Paris Saint-Germain",
+          "starNames": [
+            "Ousmane Dembele"
+          ],
+          "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "beIN Sports"
+          ],
+          "score": 31,
+          "excitement": 1
         }
       ]
     },
@@ -64,29 +184,6 @@
       "label": "This Week",
       "description": "Best tracked matches over the next seven days.",
       "matches": [
-        {
-          "id": "espn-401882921",
-          "kickoffUtc": "2026-08-27T19:00Z",
-          "competition": "La Liga",
-          "homeTeam": "Barcelona",
-          "awayTeam": "Athletic Club",
-          "starNames": [
-            "Lamine Yamal",
-            "Pedri",
-            "Raphinha",
-            "Robert Lewandowski",
-            "Ferran Torres",
-            "Pau Cubarsi"
-          ],
-          "whyWatch": "Barcelona vs Athletic Club features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
-          "watchUs": [
-            "ESPN2",
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
-        },
         {
           "id": "espn-401884817",
           "kickoffUtc": "2026-08-28T18:30Z",
@@ -334,7 +431,7 @@
         },
         {
           "id": "espn-401876476",
-          "kickoffUtc": "2026-08-28T18:45Z",
+          "kickoffUtc": "2026-08-28T19:00Z",
           "competition": "Ligue 1",
           "homeTeam": "Lille",
           "awayTeam": "Paris Saint-Germain",
@@ -410,29 +507,6 @@
           ],
           "score": 70,
           "excitement": 4
-        },
-        {
-          "id": "espn-401882921",
-          "kickoffUtc": "2026-08-27T19:00Z",
-          "competition": "La Liga",
-          "homeTeam": "Barcelona",
-          "awayTeam": "Athletic Club",
-          "starNames": [
-            "Lamine Yamal",
-            "Pedri",
-            "Raphinha",
-            "Robert Lewandowski",
-            "Ferran Torres",
-            "Pau Cubarsi"
-          ],
-          "whyWatch": "Barcelona vs Athletic Club features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
-          "watchUs": [
-            "ESPN2",
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
         },
         {
           "id": "espn-401884817",
@@ -1364,7 +1438,7 @@
         },
         {
           "id": "espn-401876476",
-          "kickoffUtc": "2026-08-28T18:45Z",
+          "kickoffUtc": "2026-08-28T19:00Z",
           "competition": "Ligue 1",
           "homeTeam": "Lille",
           "awayTeam": "Paris Saint-Germain",
@@ -1592,29 +1666,6 @@
           "excitement": 4
         },
         {
-          "id": "espn-401882921",
-          "kickoffUtc": "2026-08-27T19:00Z",
-          "competition": "La Liga",
-          "homeTeam": "Barcelona",
-          "awayTeam": "Athletic Club",
-          "starNames": [
-            "Lamine Yamal",
-            "Pedri",
-            "Raphinha",
-            "Robert Lewandowski",
-            "Ferran Torres",
-            "Pau Cubarsi"
-          ],
-          "whyWatch": "Barcelona vs Athletic Club features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
-          "watchUs": [
-            "ESPN2",
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
-        },
-        {
           "id": "espn-401884817",
           "kickoffUtc": "2026-08-28T18:30Z",
           "competition": "Bundesliga",
@@ -1628,6 +1679,25 @@
           "watchUs": [
             "Fandango",
             "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401879294",
+          "kickoffUtc": "2026-08-28T19:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Crystal Palace",
+          "awayTeam": "Manchester City",
+          "starNames": [
+            "Erling Haaland",
+            "Rodri"
+          ],
+          "whyWatch": "Crystal Palace vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
+          "watchUs": [
+            "USA Net",
+            "NBC",
+            "Peacock"
           ],
           "score": 68,
           "excitement": 3
