@@ -1,99 +1,15 @@
 {
-  "generatedAt": "2026-08-31T19:29:50.834Z",
-  "date": "2026-08-31",
+  "generatedAt": "2026-09-01T17:19:21.873Z",
+  "date": "2026-09-01",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
-  "matches": [
-    {
-      "id": "espn-401882903",
-      "kickoffUtc": "2026-08-31T19:30Z",
-      "competition": "La Liga",
-      "homeTeam": "Barcelona",
-      "awayTeam": "Rayo Vallecano",
-      "starNames": [
-        "Lamine Yamal",
-        "Pedri",
-        "Raphinha",
-        "Robert Lewandowski",
-        "Ferran Torres",
-        "Pau Cubarsi"
-      ],
-      "whyWatch": "Barcelona vs Rayo Vallecano features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
-      "watchUs": [
-        "ESPN Deportes",
-        "ESPN+"
-      ],
-      "score": 68,
-      "excitement": 3
-    },
-    {
-      "id": "espn-401879295",
-      "kickoffUtc": "2026-08-31T19:00Z",
-      "competition": "Premier League",
-      "homeTeam": "Aston Villa",
-      "awayTeam": "Arsenal",
-      "starNames": [
-        "Bukayo Saka"
-      ],
-      "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
-      "watchUs": [
-        "USA Net",
-        "Universo",
-        "NBC",
-        "Peacock"
-      ],
-      "score": 36,
-      "excitement": 1
-    }
-  ],
+  "matches": [],
   "sections": [
     {
       "id": "today",
       "label": "Today",
       "description": "Tracked matches on today’s slate.",
-      "matches": [
-        {
-          "id": "espn-401882903",
-          "kickoffUtc": "2026-08-31T19:30Z",
-          "competition": "La Liga",
-          "homeTeam": "Barcelona",
-          "awayTeam": "Rayo Vallecano",
-          "starNames": [
-            "Lamine Yamal",
-            "Pedri",
-            "Raphinha",
-            "Robert Lewandowski",
-            "Ferran Torres",
-            "Pau Cubarsi"
-          ],
-          "whyWatch": "Barcelona vs Rayo Vallecano features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
-          "watchUs": [
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401879295",
-          "kickoffUtc": "2026-08-31T19:00Z",
-          "competition": "Premier League",
-          "homeTeam": "Aston Villa",
-          "awayTeam": "Arsenal",
-          "starNames": [
-            "Bukayo Saka"
-          ],
-          "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "USA Net",
-            "Universo",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 36,
-          "excitement": 1
-        }
-      ]
+      "matches": []
     },
     {
       "id": "week",
@@ -136,28 +52,6 @@
           ],
           "score": 70,
           "excitement": 4
-        },
-        {
-          "id": "espn-401882903",
-          "kickoffUtc": "2026-08-31T19:30Z",
-          "competition": "La Liga",
-          "homeTeam": "Barcelona",
-          "awayTeam": "Rayo Vallecano",
-          "starNames": [
-            "Lamine Yamal",
-            "Pedri",
-            "Raphinha",
-            "Robert Lewandowski",
-            "Ferran Torres",
-            "Pau Cubarsi"
-          ],
-          "whyWatch": "Barcelona vs Rayo Vallecano features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
-          "watchUs": [
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
         },
         {
           "id": "espn-401879288",
@@ -300,25 +194,6 @@
           "watchUs": [],
           "score": 40,
           "excitement": 2
-        },
-        {
-          "id": "espn-401879295",
-          "kickoffUtc": "2026-08-31T19:00Z",
-          "competition": "Premier League",
-          "homeTeam": "Aston Villa",
-          "awayTeam": "Arsenal",
-          "starNames": [
-            "Bukayo Saka"
-          ],
-          "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "USA Net",
-            "Universo",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 36,
-          "excitement": 1
         },
         {
           "id": "espn-401882895",
@@ -472,28 +347,6 @@
           ],
           "score": 70,
           "excitement": 4
-        },
-        {
-          "id": "espn-401882903",
-          "kickoffUtc": "2026-08-31T19:30Z",
-          "competition": "La Liga",
-          "homeTeam": "Barcelona",
-          "awayTeam": "Rayo Vallecano",
-          "starNames": [
-            "Lamine Yamal",
-            "Pedri",
-            "Raphinha",
-            "Robert Lewandowski",
-            "Ferran Torres",
-            "Pau Cubarsi"
-          ],
-          "whyWatch": "Barcelona vs Rayo Vallecano features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
-          "watchUs": [
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
         },
         {
           "id": "espn-401879288",
@@ -924,20 +777,6 @@
           "excitement": 2
         },
         {
-          "id": "espn-401841233",
-          "kickoffUtc": "2026-09-12T18:00Z",
-          "competition": "Brasileirao",
-          "homeTeam": "Santos",
-          "awayTeam": "Cruzeiro",
-          "starNames": [
-            "Neymar"
-          ],
-          "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
-          "watchUs": [],
-          "score": 41,
-          "excitement": 2
-        },
-        {
           "id": "espn-761800",
           "kickoffUtc": "2026-09-12T23:30Z",
           "competition": "MLS",
@@ -955,8 +794,22 @@
           "excitement": 2
         },
         {
+          "id": "espn-401841233",
+          "kickoffUtc": "2026-09-13T00:00Z",
+          "competition": "Brasileirao",
+          "homeTeam": "Santos",
+          "awayTeam": "Cruzeiro",
+          "starNames": [
+            "Neymar"
+          ],
+          "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 41,
+          "excitement": 2
+        },
+        {
           "id": "espn-401841244",
-          "kickoffUtc": "2026-09-19T18:00Z",
+          "kickoffUtc": "2026-09-19T21:30Z",
           "competition": "Brasileirao",
           "homeTeam": "Remo",
           "awayTeam": "Santos",
@@ -1043,25 +896,6 @@
           "watchUs": [],
           "score": 40,
           "excitement": 2
-        },
-        {
-          "id": "espn-401879295",
-          "kickoffUtc": "2026-08-31T19:00Z",
-          "competition": "Premier League",
-          "homeTeam": "Aston Villa",
-          "awayTeam": "Arsenal",
-          "starNames": [
-            "Bukayo Saka"
-          ],
-          "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "USA Net",
-            "Universo",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 36,
-          "excitement": 1
         },
         {
           "id": "espn-401882895",
