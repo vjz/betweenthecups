@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T17:09:34.108Z",
-  "date": "2026-09-02",
+  "generatedAt": "2026-09-03T17:02:19.621Z",
+  "date": "2026-09-03",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [],
@@ -31,6 +31,27 @@
           "whyWatch": "Real Madrid and Internazionale put Jude Bellingham, Kylian Mbappe, Vinicius Junior, Lautaro Martinez in the same match.",
           "watchUs": [
             "Paramount+",
+            "ESPN+"
+          ],
+          "score": 100,
+          "excitement": 5
+        },
+        {
+          "id": "espn-401915446",
+          "kickoffUtc": "2026-09-09T19:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Liverpool",
+          "awayTeam": "Atlético Madrid",
+          "starNames": [
+            "Mohamed Salah",
+            "Florian Wirtz",
+            "Julian Alvarez"
+          ],
+          "whyWatch": "Liverpool and Atlético Madrid put Mohamed Salah, Florian Wirtz, Julian Alvarez in the same match.",
+          "watchUs": [
+            "Paramount+",
+            "NBC",
+            "Peacock",
             "ESPN+"
           ],
           "score": 100,
@@ -172,6 +193,28 @@
           "excitement": 3
         },
         {
+          "id": "espn-401915424",
+          "kickoffUtc": "2026-09-09T16:45Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Barcelona",
+          "awayTeam": "Feyenoord Rotterdam",
+          "starNames": [
+            "Lamine Yamal",
+            "Pedri",
+            "Raphinha",
+            "Robert Lewandowski",
+            "Ferran Torres",
+            "Pau Cubarsi"
+          ],
+          "whyWatch": "Barcelona vs Feyenoord Rotterdam features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
+          "watchUs": [
+            "Paramount+",
+            "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
           "id": "espn-401915425",
           "kickoffUtc": "2026-09-08T19:00Z",
           "competition": "UEFA Champions League",
@@ -182,6 +225,25 @@
             "Rodri"
           ],
           "whyWatch": "FC Porto vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
+          "watchUs": [
+            "Paramount+",
+            "NBC",
+            "Peacock"
+          ],
+          "score": 63,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401915423",
+          "kickoffUtc": "2026-09-09T19:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Napoli",
+          "awayTeam": "Arsenal",
+          "starNames": [
+            "Bukayo Saka",
+            "Kevin De Bruyne"
+          ],
+          "whyWatch": "Napoli and Arsenal put Bukayo Saka, Kevin De Bruyne in the same match.",
           "watchUs": [
             "Paramount+",
             "NBC",
@@ -227,6 +289,20 @@
           "competition": "Saudi Pro League",
           "homeTeam": "Al Ittihad",
           "awayTeam": "Al Nassr",
+          "starNames": [
+            "Cristiano Ronaldo"
+          ],
+          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401900357",
+          "kickoffUtc": "2026-09-09T18:00Z",
+          "competition": "Saudi Pro League",
+          "homeTeam": "Al Nassr",
+          "awayTeam": "Abha",
           "starNames": [
             "Cristiano Ronaldo"
           ],
@@ -282,6 +358,23 @@
             "beIN Sports"
           ],
           "score": 31,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401915445",
+          "kickoffUtc": "2026-09-09T19:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Paris Saint-Germain",
+          "awayTeam": "Slovan Bratislava",
+          "starNames": [
+            "Ousmane Dembele"
+          ],
+          "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+",
+            "beIN Sports"
+          ],
+          "score": 26,
           "excitement": 1
         }
       ]
