@@ -1,15 +1,95 @@
 {
-  "generatedAt": "2026-09-07T18:14:49.123Z",
-  "date": "2026-09-07",
+  "generatedAt": "2026-09-08T17:14:32.209Z",
+  "date": "2026-09-08",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
-  "matches": [],
+  "matches": [
+    {
+      "id": "espn-401915451",
+      "kickoffUtc": "2026-09-08T19:00Z",
+      "competition": "UEFA Champions League",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Internazionale",
+      "starNames": [
+        "Jude Bellingham",
+        "Kylian Mbappe",
+        "Vinicius Junior",
+        "Lautaro Martinez"
+      ],
+      "whyWatch": "Real Madrid and Internazionale put Jude Bellingham, Kylian Mbappe, Vinicius Junior, Lautaro Martinez in the same match.",
+      "watchUs": [
+        "Paramount+",
+        "ESPN+"
+      ],
+      "score": 100,
+      "excitement": 5
+    },
+    {
+      "id": "espn-401915425",
+      "kickoffUtc": "2026-09-08T19:00Z",
+      "competition": "UEFA Champions League",
+      "homeTeam": "FC Porto",
+      "awayTeam": "Manchester City",
+      "starNames": [
+        "Erling Haaland",
+        "Rodri"
+      ],
+      "whyWatch": "FC Porto vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
+      "watchUs": [
+        "Paramount+",
+        "NBC",
+        "Peacock"
+      ],
+      "score": 63,
+      "excitement": 3
+    }
+  ],
   "sections": [
     {
       "id": "today",
       "label": "Today",
       "description": "Tracked matches on today’s slate.",
-      "matches": []
+      "matches": [
+        {
+          "id": "espn-401915451",
+          "kickoffUtc": "2026-09-08T19:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Real Madrid",
+          "awayTeam": "Internazionale",
+          "starNames": [
+            "Jude Bellingham",
+            "Kylian Mbappe",
+            "Vinicius Junior",
+            "Lautaro Martinez"
+          ],
+          "whyWatch": "Real Madrid and Internazionale put Jude Bellingham, Kylian Mbappe, Vinicius Junior, Lautaro Martinez in the same match.",
+          "watchUs": [
+            "Paramount+",
+            "ESPN+"
+          ],
+          "score": 100,
+          "excitement": 5
+        },
+        {
+          "id": "espn-401915425",
+          "kickoffUtc": "2026-09-08T19:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "FC Porto",
+          "awayTeam": "Manchester City",
+          "starNames": [
+            "Erling Haaland",
+            "Rodri"
+          ],
+          "whyWatch": "FC Porto vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
+          "watchUs": [
+            "Paramount+",
+            "NBC",
+            "Peacock"
+          ],
+          "score": 63,
+          "excitement": 3
+        }
+      ]
     },
     {
       "id": "week",
@@ -380,6 +460,22 @@
             "Kevin De Bruyne"
           ],
           "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+"
+          ],
+          "score": 33,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401874966",
+          "kickoffUtc": "2026-09-14T18:45Z",
+          "competition": "Serie A",
+          "homeTeam": "Internazionale",
+          "awayTeam": "Udinese",
+          "starNames": [
+            "Lautaro Martinez"
+          ],
+          "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
           "watchUs": [
             "Paramount+"
           ],
