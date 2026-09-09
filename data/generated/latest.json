@@ -1,40 +1,63 @@
 {
-  "generatedAt": "2026-09-08T17:14:32.209Z",
-  "date": "2026-09-08",
+  "generatedAt": "2026-09-09T17:09:01.061Z",
+  "date": "2026-09-09",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [
     {
-      "id": "espn-401915451",
-      "kickoffUtc": "2026-09-08T19:00Z",
+      "id": "espn-401915446",
+      "kickoffUtc": "2026-09-09T19:00Z",
       "competition": "UEFA Champions League",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Internazionale",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Atlético Madrid",
       "starNames": [
-        "Jude Bellingham",
-        "Kylian Mbappe",
-        "Vinicius Junior",
-        "Lautaro Martinez"
+        "Mohamed Salah",
+        "Florian Wirtz",
+        "Julian Alvarez"
       ],
-      "whyWatch": "Real Madrid and Internazionale put Jude Bellingham, Kylian Mbappe, Vinicius Junior, Lautaro Martinez in the same match.",
+      "whyWatch": "Liverpool and Atlético Madrid put Mohamed Salah, Florian Wirtz, Julian Alvarez in the same match.",
       "watchUs": [
         "Paramount+",
+        "NBC",
+        "Peacock",
         "ESPN+"
       ],
       "score": 100,
       "excitement": 5
     },
     {
-      "id": "espn-401915425",
-      "kickoffUtc": "2026-09-08T19:00Z",
+      "id": "espn-401915424",
+      "kickoffUtc": "2026-09-09T16:45Z",
       "competition": "UEFA Champions League",
-      "homeTeam": "FC Porto",
-      "awayTeam": "Manchester City",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Feyenoord Rotterdam",
       "starNames": [
-        "Erling Haaland",
-        "Rodri"
+        "Lamine Yamal",
+        "Pedri",
+        "Raphinha",
+        "Robert Lewandowski",
+        "Ferran Torres",
+        "Pau Cubarsi"
       ],
-      "whyWatch": "FC Porto vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
+      "whyWatch": "Barcelona vs Feyenoord Rotterdam features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
+      "watchUs": [
+        "Paramount+",
+        "ESPN+"
+      ],
+      "score": 68,
+      "excitement": 3
+    },
+    {
+      "id": "espn-401915423",
+      "kickoffUtc": "2026-09-09T19:00Z",
+      "competition": "UEFA Champions League",
+      "homeTeam": "Napoli",
+      "awayTeam": "Arsenal",
+      "starNames": [
+        "Bukayo Saka",
+        "Kevin De Bruyne"
+      ],
+      "whyWatch": "Napoli and Arsenal put Bukayo Saka, Kevin De Bruyne in the same match.",
       "watchUs": [
         "Paramount+",
         "NBC",
@@ -42,6 +65,37 @@
       ],
       "score": 63,
       "excitement": 3
+    },
+    {
+      "id": "espn-401900357",
+      "kickoffUtc": "2026-09-09T18:00Z",
+      "competition": "Saudi Pro League",
+      "homeTeam": "Al Nassr",
+      "awayTeam": "Abha",
+      "starNames": [
+        "Cristiano Ronaldo"
+      ],
+      "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+      "watchUs": [],
+      "score": 40,
+      "excitement": 2
+    },
+    {
+      "id": "espn-401915445",
+      "kickoffUtc": "2026-09-09T19:00Z",
+      "competition": "UEFA Champions League",
+      "homeTeam": "Paris Saint-Germain",
+      "awayTeam": "Slovan Bratislava",
+      "starNames": [
+        "Ousmane Dembele"
+      ],
+      "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
+      "watchUs": [
+        "Paramount+",
+        "beIN Sports"
+      ],
+      "score": 26,
+      "excitement": 1
     }
   ],
   "sections": [
@@ -51,36 +105,59 @@
       "description": "Tracked matches on today’s slate.",
       "matches": [
         {
-          "id": "espn-401915451",
-          "kickoffUtc": "2026-09-08T19:00Z",
+          "id": "espn-401915446",
+          "kickoffUtc": "2026-09-09T19:00Z",
           "competition": "UEFA Champions League",
-          "homeTeam": "Real Madrid",
-          "awayTeam": "Internazionale",
+          "homeTeam": "Liverpool",
+          "awayTeam": "Atlético Madrid",
           "starNames": [
-            "Jude Bellingham",
-            "Kylian Mbappe",
-            "Vinicius Junior",
-            "Lautaro Martinez"
+            "Mohamed Salah",
+            "Florian Wirtz",
+            "Julian Alvarez"
           ],
-          "whyWatch": "Real Madrid and Internazionale put Jude Bellingham, Kylian Mbappe, Vinicius Junior, Lautaro Martinez in the same match.",
+          "whyWatch": "Liverpool and Atlético Madrid put Mohamed Salah, Florian Wirtz, Julian Alvarez in the same match.",
           "watchUs": [
             "Paramount+",
+            "NBC",
+            "Peacock",
             "ESPN+"
           ],
           "score": 100,
           "excitement": 5
         },
         {
-          "id": "espn-401915425",
-          "kickoffUtc": "2026-09-08T19:00Z",
+          "id": "espn-401915424",
+          "kickoffUtc": "2026-09-09T16:45Z",
           "competition": "UEFA Champions League",
-          "homeTeam": "FC Porto",
-          "awayTeam": "Manchester City",
+          "homeTeam": "Barcelona",
+          "awayTeam": "Feyenoord Rotterdam",
           "starNames": [
-            "Erling Haaland",
-            "Rodri"
+            "Lamine Yamal",
+            "Pedri",
+            "Raphinha",
+            "Robert Lewandowski",
+            "Ferran Torres",
+            "Pau Cubarsi"
           ],
-          "whyWatch": "FC Porto vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
+          "whyWatch": "Barcelona vs Feyenoord Rotterdam features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
+          "watchUs": [
+            "Paramount+",
+            "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401915423",
+          "kickoffUtc": "2026-09-09T19:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Napoli",
+          "awayTeam": "Arsenal",
+          "starNames": [
+            "Bukayo Saka",
+            "Kevin De Bruyne"
+          ],
+          "whyWatch": "Napoli and Arsenal put Bukayo Saka, Kevin De Bruyne in the same match.",
           "watchUs": [
             "Paramount+",
             "NBC",
@@ -88,6 +165,37 @@
           ],
           "score": 63,
           "excitement": 3
+        },
+        {
+          "id": "espn-401900357",
+          "kickoffUtc": "2026-09-09T18:00Z",
+          "competition": "Saudi Pro League",
+          "homeTeam": "Al Nassr",
+          "awayTeam": "Abha",
+          "starNames": [
+            "Cristiano Ronaldo"
+          ],
+          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401915445",
+          "kickoffUtc": "2026-09-09T19:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Paris Saint-Germain",
+          "awayTeam": "Slovan Bratislava",
+          "starNames": [
+            "Ousmane Dembele"
+          ],
+          "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+",
+            "beIN Sports"
+          ],
+          "score": 26,
+          "excitement": 1
         }
       ]
     },
@@ -96,26 +204,6 @@
       "label": "This Week",
       "description": "Best tracked matches over the next seven days.",
       "matches": [
-        {
-          "id": "espn-401915451",
-          "kickoffUtc": "2026-09-08T19:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Real Madrid",
-          "awayTeam": "Internazionale",
-          "starNames": [
-            "Jude Bellingham",
-            "Kylian Mbappe",
-            "Vinicius Junior",
-            "Lautaro Martinez"
-          ],
-          "whyWatch": "Real Madrid and Internazionale put Jude Bellingham, Kylian Mbappe, Vinicius Junior, Lautaro Martinez in the same match.",
-          "watchUs": [
-            "Paramount+",
-            "ESPN+"
-          ],
-          "score": 100,
-          "excitement": 5
-        },
         {
           "id": "espn-401915446",
           "kickoffUtc": "2026-09-09T19:00Z",
@@ -171,8 +259,8 @@
           ],
           "whyWatch": "Liverpool vs Fulham features Mohamed Salah, Florian Wirtz for World Cup fans.",
           "watchUs": [
-            "NBC",
-            "Peacock"
+            "Peacock",
+            "NBC"
           ],
           "score": 68,
           "excitement": 3
@@ -229,8 +317,9 @@
           ],
           "whyWatch": "Manchester United vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
           "watchUs": [
-            "NBC",
-            "Peacock"
+            "Peacock",
+            "Tele",
+            "NBC"
           ],
           "score": 68,
           "excitement": 3
@@ -247,28 +336,29 @@
           ],
           "whyWatch": "SV Elversberg vs Bayern Munich features Harry Kane, Jamal Musiala for World Cup fans.",
           "watchUs": [
+            "USA Net",
             "ESPN+"
           ],
           "score": 68,
           "excitement": 3
         },
         {
-          "id": "espn-401915425",
-          "kickoffUtc": "2026-09-08T19:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "FC Porto",
-          "awayTeam": "Manchester City",
+          "id": "espn-401882872",
+          "kickoffUtc": "2026-09-15T19:30Z",
+          "competition": "La Liga",
+          "homeTeam": "Elche",
+          "awayTeam": "Real Madrid",
           "starNames": [
-            "Erling Haaland",
-            "Rodri"
+            "Jude Bellingham",
+            "Kylian Mbappe",
+            "Vinicius Junior"
           ],
-          "whyWatch": "FC Porto vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
+          "whyWatch": "Elche vs Real Madrid features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
           "watchUs": [
-            "Paramount+",
-            "NBC",
-            "Peacock"
+            "ESPN Deportes",
+            "ESPN+"
           ],
-          "score": 63,
+          "score": 68,
           "excitement": 3
         },
         {
@@ -395,6 +485,8 @@
           ],
           "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
           "watchUs": [
+            "USA Net",
+            "Universo",
             "NBC",
             "Peacock"
           ],
@@ -412,6 +504,8 @@
           ],
           "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
           "watchUs": [
+            "USA Net",
+            "Tele",
             "NBC",
             "Peacock"
           ],
@@ -523,26 +617,6 @@
       "description": "Tracked matches over the next 30 days.",
       "matches": [
         {
-          "id": "espn-401915451",
-          "kickoffUtc": "2026-09-08T19:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Real Madrid",
-          "awayTeam": "Internazionale",
-          "starNames": [
-            "Jude Bellingham",
-            "Kylian Mbappe",
-            "Vinicius Junior",
-            "Lautaro Martinez"
-          ],
-          "whyWatch": "Real Madrid and Internazionale put Jude Bellingham, Kylian Mbappe, Vinicius Junior, Lautaro Martinez in the same match.",
-          "watchUs": [
-            "Paramount+",
-            "ESPN+"
-          ],
-          "score": 100,
-          "excitement": 5
-        },
-        {
           "id": "espn-401915446",
           "kickoffUtc": "2026-09-09T19:00Z",
           "competition": "UEFA Champions League",
@@ -617,8 +691,8 @@
           ],
           "whyWatch": "Liverpool vs Fulham features Mohamed Salah, Florian Wirtz for World Cup fans.",
           "watchUs": [
-            "NBC",
-            "Peacock"
+            "Peacock",
+            "NBC"
           ],
           "score": 68,
           "excitement": 3
@@ -675,8 +749,9 @@
           ],
           "whyWatch": "Manchester United vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
           "watchUs": [
-            "NBC",
-            "Peacock"
+            "Peacock",
+            "Tele",
+            "NBC"
           ],
           "score": 68,
           "excitement": 3
@@ -693,6 +768,7 @@
           ],
           "whyWatch": "SV Elversberg vs Bayern Munich features Harry Kane, Jamal Musiala for World Cup fans.",
           "watchUs": [
+            "USA Net",
             "ESPN+"
           ],
           "score": 68,
@@ -812,25 +888,6 @@
             "Peacock"
           ],
           "score": 68,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401915425",
-          "kickoffUtc": "2026-09-08T19:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "FC Porto",
-          "awayTeam": "Manchester City",
-          "starNames": [
-            "Erling Haaland",
-            "Rodri"
-          ],
-          "whyWatch": "FC Porto vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 63,
           "excitement": 3
         },
         {
@@ -967,6 +1024,20 @@
           "excitement": 2
         },
         {
+          "id": "espn-401841251",
+          "kickoffUtc": "2026-10-08T22:30Z",
+          "competition": "Brasileirao",
+          "homeTeam": "Santos",
+          "awayTeam": "Flamengo",
+          "starNames": [
+            "Neymar"
+          ],
+          "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 41,
+          "excitement": 2
+        },
+        {
           "id": "espn-401900357",
           "kickoffUtc": "2026-09-09T18:00Z",
           "competition": "Saudi Pro League",
@@ -1005,6 +1076,8 @@
           ],
           "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
           "watchUs": [
+            "USA Net",
+            "Universo",
             "NBC",
             "Peacock"
           ],
@@ -1022,6 +1095,8 @@
           ],
           "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
           "watchUs": [
+            "USA Net",
+            "Tele",
             "NBC",
             "Peacock"
           ],
@@ -1264,26 +1339,6 @@
       "description": "Top 10 highest-scoring tracked matches currently on public schedules.",
       "matches": [
         {
-          "id": "espn-401915451",
-          "kickoffUtc": "2026-09-08T19:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Real Madrid",
-          "awayTeam": "Internazionale",
-          "starNames": [
-            "Jude Bellingham",
-            "Kylian Mbappe",
-            "Vinicius Junior",
-            "Lautaro Martinez"
-          ],
-          "whyWatch": "Real Madrid and Internazionale put Jude Bellingham, Kylian Mbappe, Vinicius Junior, Lautaro Martinez in the same match.",
-          "watchUs": [
-            "Paramount+",
-            "ESPN+"
-          ],
-          "score": 100,
-          "excitement": 5
-        },
-        {
           "id": "espn-401915446",
           "kickoffUtc": "2026-09-09T19:00Z",
           "competition": "UEFA Champions League",
@@ -1467,6 +1522,28 @@
           "whyWatch": "Atlético Madrid and Bayern Munich put Harry Kane, Jamal Musiala, Julian Alvarez in the same match.",
           "watchUs": [
             "Paramount+",
+            "ESPN+"
+          ],
+          "score": 100,
+          "excitement": 5
+        },
+        {
+          "id": "espn-401882816",
+          "kickoffUtc": "2026-11-08T20:00Z",
+          "competition": "La Liga",
+          "homeTeam": "Atlético Madrid",
+          "awayTeam": "Barcelona",
+          "starNames": [
+            "Lamine Yamal",
+            "Julian Alvarez",
+            "Pedri",
+            "Raphinha",
+            "Robert Lewandowski",
+            "Ferran Torres",
+            "Pau Cubarsi"
+          ],
+          "whyWatch": "Atlético Madrid and Barcelona put Lamine Yamal, Julian Alvarez, Pedri, Raphinha in the same match.",
+          "watchUs": [
             "ESPN+"
           ],
           "score": 100,
