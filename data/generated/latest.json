@@ -1,53 +1,15 @@
 {
-  "generatedAt": "2026-09-10T16:59:24.194Z",
-  "date": "2026-09-10",
+  "generatedAt": "2026-09-11T17:01:06.868Z",
+  "date": "2026-09-11",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
-  "matches": [
-    {
-      "id": "espn-401915443",
-      "kickoffUtc": "2026-09-10T19:00Z",
-      "competition": "UEFA Champions League",
-      "homeTeam": "Bayern Munich",
-      "awayTeam": "Bodo/Glimt",
-      "starNames": [
-        "Harry Kane",
-        "Jamal Musiala"
-      ],
-      "whyWatch": "Bayern Munich vs Bodo/Glimt features Harry Kane, Jamal Musiala for World Cup fans.",
-      "watchUs": [
-        "Paramount+",
-        "ESPN+"
-      ],
-      "score": 63,
-      "excitement": 3
-    }
-  ],
+  "matches": [],
   "sections": [
     {
       "id": "today",
       "label": "Today",
       "description": "Tracked matches on today’s slate.",
-      "matches": [
-        {
-          "id": "espn-401915443",
-          "kickoffUtc": "2026-09-10T19:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Bayern Munich",
-          "awayTeam": "Bodo/Glimt",
-          "starNames": [
-            "Harry Kane",
-            "Jamal Musiala"
-          ],
-          "whyWatch": "Bayern Munich vs Bodo/Glimt features Harry Kane, Jamal Musiala for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "ESPN+"
-          ],
-          "score": 63,
-          "excitement": 3
-        }
-      ]
+      "matches": []
     },
     {
       "id": "week",
@@ -162,6 +124,7 @@
           ],
           "whyWatch": "Elche vs Real Madrid features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
           "watchUs": [
+            "ESPN2",
             "ESPN Deportes",
             "ESPN+"
           ],
@@ -188,24 +151,6 @@
             "ESPN+"
           ],
           "score": 68,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401915443",
-          "kickoffUtc": "2026-09-10T19:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Bayern Munich",
-          "awayTeam": "Bodo/Glimt",
-          "starNames": [
-            "Harry Kane",
-            "Jamal Musiala"
-          ],
-          "whyWatch": "Bayern Munich vs Bodo/Glimt features Harry Kane, Jamal Musiala for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "ESPN+"
-          ],
-          "score": 63,
           "excitement": 3
         },
         {
@@ -425,6 +370,7 @@
           ],
           "whyWatch": "Atlético Madrid and Real Madrid put Jude Bellingham, Kylian Mbappe, Vinicius Junior, Julian Alvarez in the same match.",
           "watchUs": [
+            "ESPN2",
             "ESPN Deportes",
             "ESPN+"
           ],
@@ -539,6 +485,7 @@
           ],
           "whyWatch": "Elche vs Real Madrid features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
           "watchUs": [
+            "ESPN2",
             "ESPN Deportes",
             "ESPN+"
           ],
@@ -643,21 +590,59 @@
           "excitement": 3
         },
         {
-          "id": "espn-401915443",
-          "kickoffUtc": "2026-09-10T19:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Bayern Munich",
-          "awayTeam": "Bodo/Glimt",
+          "id": "espn-401884777",
+          "kickoffUtc": "2026-10-10T13:30Z",
+          "competition": "Bundesliga",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "Bayern Munich",
           "starNames": [
             "Harry Kane",
             "Jamal Musiala"
           ],
-          "whyWatch": "Bayern Munich vs Bodo/Glimt features Harry Kane, Jamal Musiala for World Cup fans.",
+          "whyWatch": "FC Augsburg vs Bayern Munich features Harry Kane, Jamal Musiala for World Cup fans.",
           "watchUs": [
-            "Paramount+",
             "ESPN+"
           ],
-          "score": 63,
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401882853",
+          "kickoffUtc": "2026-10-10T16:30Z",
+          "competition": "La Liga",
+          "homeTeam": "Barcelona",
+          "awayTeam": "Getafe",
+          "starNames": [
+            "Lamine Yamal",
+            "Pedri",
+            "Raphinha",
+            "Robert Lewandowski",
+            "Ferran Torres",
+            "Pau Cubarsi"
+          ],
+          "whyWatch": "Barcelona vs Getafe features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
+          "watchUs": [
+            "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401882848",
+          "kickoffUtc": "2026-10-10T19:00Z",
+          "competition": "La Liga",
+          "homeTeam": "Real Madrid",
+          "awayTeam": "Villarreal",
+          "starNames": [
+            "Jude Bellingham",
+            "Kylian Mbappe",
+            "Vinicius Junior"
+          ],
+          "whyWatch": "Real Madrid vs Villarreal features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
+          "watchUs": [
+            "ESPN+"
+          ],
+          "score": 68,
           "excitement": 3
         },
         {
@@ -750,6 +735,23 @@
           ],
           "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
           "watchUs": [],
+          "score": 41,
+          "excitement": 2
+        },
+        {
+          "id": "espn-761847",
+          "kickoffUtc": "2026-10-10T23:30Z",
+          "competition": "MLS",
+          "homeTeam": "Inter Miami CF",
+          "awayTeam": "D.C. United",
+          "starNames": [
+            "Lionel Messi"
+          ],
+          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Apple TV",
+            "MLS Season Pass"
+          ],
           "score": 41,
           "excitement": 2
         },
@@ -887,6 +889,56 @@
           "excitement": 1
         },
         {
+          "id": "espn-401879268",
+          "kickoffUtc": "2026-10-10T11:30Z",
+          "competition": "Premier League",
+          "homeTeam": "Arsenal",
+          "awayTeam": "Leeds United",
+          "starNames": [
+            "Bukayo Saka"
+          ],
+          "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
+          ],
+          "score": 36,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401878775",
+          "kickoffUtc": "2026-10-10T14:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Chelsea",
+          "awayTeam": "AFC Bournemouth",
+          "starNames": [
+            "Cole Palmer"
+          ],
+          "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
+          ],
+          "score": 36,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401882856",
+          "kickoffUtc": "2026-10-10T14:15Z",
+          "competition": "La Liga",
+          "homeTeam": "Alavés",
+          "awayTeam": "Atlético Madrid",
+          "starNames": [
+            "Julian Alvarez"
+          ],
+          "whyWatch": "Worth a look for Julian Alvarez, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "ESPN+"
+          ],
+          "score": 36,
+          "excitement": 1
+        },
+        {
           "id": "espn-401874941",
           "kickoffUtc": "2026-09-12T16:00Z",
           "competition": "Serie A",
@@ -983,6 +1035,38 @@
           "excitement": 1
         },
         {
+          "id": "espn-401875021",
+          "kickoffUtc": "2026-10-10T16:00Z",
+          "competition": "Serie A",
+          "homeTeam": "Internazionale",
+          "awayTeam": "Parma",
+          "starNames": [
+            "Lautaro Martinez"
+          ],
+          "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+"
+          ],
+          "score": 33,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401874754",
+          "kickoffUtc": "2026-10-10T18:45Z",
+          "competition": "Serie A",
+          "homeTeam": "Napoli",
+          "awayTeam": "Frosinone",
+          "starNames": [
+            "Kevin De Bruyne"
+          ],
+          "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+"
+          ],
+          "score": 33,
+          "excitement": 1
+        },
+        {
           "id": "espn-401876465",
           "kickoffUtc": "2026-09-13T18:45Z",
           "competition": "Ligue 1",
@@ -1004,6 +1088,22 @@
           "competition": "Ligue 1",
           "homeTeam": "Marseille",
           "awayTeam": "Paris Saint-Germain",
+          "starNames": [
+            "Ousmane Dembele"
+          ],
+          "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "beIN Sports"
+          ],
+          "score": 31,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401876442",
+          "kickoffUtc": "2026-10-10T18:45Z",
+          "competition": "Ligue 1",
+          "homeTeam": "Paris Saint-Germain",
+          "awayTeam": "Le Mans",
           "starNames": [
             "Ousmane Dembele"
           ],
@@ -1051,6 +1151,7 @@
           ],
           "whyWatch": "Atlético Madrid and Real Madrid put Jude Bellingham, Kylian Mbappe, Vinicius Junior, Julian Alvarez in the same match.",
           "watchUs": [
+            "ESPN2",
             "ESPN Deportes",
             "ESPN+"
           ],
