@@ -1,15 +1,259 @@
 {
-  "generatedAt": "2026-09-11T17:01:06.868Z",
-  "date": "2026-09-11",
+  "generatedAt": "2026-09-12T16:18:17.423Z",
+  "date": "2026-09-12",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
-  "matches": [],
+  "matches": [
+    {
+      "id": "espn-401879279",
+      "kickoffUtc": "2026-09-12T14:00Z",
+      "competition": "Premier League",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Fulham",
+      "starNames": [
+        "Mohamed Salah",
+        "Florian Wirtz"
+      ],
+      "whyWatch": "Liverpool vs Fulham features Mohamed Salah, Florian Wirtz for World Cup fans.",
+      "watchUs": [
+        "Peacock",
+        "NBC"
+      ],
+      "score": 68,
+      "excitement": 3
+    },
+    {
+      "id": "espn-401882880",
+      "kickoffUtc": "2026-09-12T19:00Z",
+      "competition": "La Liga",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Rayo Vallecano",
+      "starNames": [
+        "Jude Bellingham",
+        "Kylian Mbappe",
+        "Vinicius Junior"
+      ],
+      "whyWatch": "Real Madrid vs Rayo Vallecano features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
+      "watchUs": [
+        "ESPN+"
+      ],
+      "score": 68,
+      "excitement": 3
+    },
+    {
+      "id": "espn-761800",
+      "kickoffUtc": "2026-09-12T23:30Z",
+      "competition": "MLS",
+      "homeTeam": "Inter Miami CF",
+      "awayTeam": "Nashville SC",
+      "starNames": [
+        "Lionel Messi"
+      ],
+      "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
+      "watchUs": [
+        "Apple TV",
+        "MLS Season Pass"
+      ],
+      "score": 41,
+      "excitement": 2
+    },
+    {
+      "id": "espn-401900921",
+      "kickoffUtc": "2026-09-12T18:00Z",
+      "competition": "Saudi Pro League",
+      "homeTeam": "Al Khaleej",
+      "awayTeam": "Al Nassr",
+      "starNames": [
+        "Cristiano Ronaldo"
+      ],
+      "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+      "watchUs": [],
+      "score": 40,
+      "excitement": 2
+    },
+    {
+      "id": "espn-401879283",
+      "kickoffUtc": "2026-09-12T14:00Z",
+      "competition": "Premier League",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Hull City",
+      "starNames": [
+        "Cole Palmer"
+      ],
+      "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
+      "watchUs": [
+        "USA Net",
+        "Universo",
+        "NBC",
+        "Peacock"
+      ],
+      "score": 36,
+      "excitement": 1
+    },
+    {
+      "id": "espn-401878779",
+      "kickoffUtc": "2026-09-12T19:00Z",
+      "competition": "Premier League",
+      "homeTeam": "Sunderland",
+      "awayTeam": "Arsenal",
+      "starNames": [
+        "Bukayo Saka"
+      ],
+      "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
+      "watchUs": [
+        "USA Net",
+        "Tele",
+        "NBC",
+        "Peacock"
+      ],
+      "score": 36,
+      "excitement": 1
+    },
+    {
+      "id": "espn-401874941",
+      "kickoffUtc": "2026-09-12T16:00Z",
+      "competition": "Serie A",
+      "homeTeam": "Lazio",
+      "awayTeam": "AC Milan",
+      "starNames": [
+        "Luka Modric"
+      ],
+      "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
+      "watchUs": [
+        "Paramount+"
+      ],
+      "score": 33,
+      "excitement": 1
+    }
+  ],
   "sections": [
     {
       "id": "today",
       "label": "Today",
       "description": "Tracked matches on today’s slate.",
-      "matches": []
+      "matches": [
+        {
+          "id": "espn-401879279",
+          "kickoffUtc": "2026-09-12T14:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Liverpool",
+          "awayTeam": "Fulham",
+          "starNames": [
+            "Mohamed Salah",
+            "Florian Wirtz"
+          ],
+          "whyWatch": "Liverpool vs Fulham features Mohamed Salah, Florian Wirtz for World Cup fans.",
+          "watchUs": [
+            "Peacock",
+            "NBC"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401882880",
+          "kickoffUtc": "2026-09-12T19:00Z",
+          "competition": "La Liga",
+          "homeTeam": "Real Madrid",
+          "awayTeam": "Rayo Vallecano",
+          "starNames": [
+            "Jude Bellingham",
+            "Kylian Mbappe",
+            "Vinicius Junior"
+          ],
+          "whyWatch": "Real Madrid vs Rayo Vallecano features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
+          "watchUs": [
+            "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-761800",
+          "kickoffUtc": "2026-09-12T23:30Z",
+          "competition": "MLS",
+          "homeTeam": "Inter Miami CF",
+          "awayTeam": "Nashville SC",
+          "starNames": [
+            "Lionel Messi"
+          ],
+          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Apple TV",
+            "MLS Season Pass"
+          ],
+          "score": 41,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401900921",
+          "kickoffUtc": "2026-09-12T18:00Z",
+          "competition": "Saudi Pro League",
+          "homeTeam": "Al Khaleej",
+          "awayTeam": "Al Nassr",
+          "starNames": [
+            "Cristiano Ronaldo"
+          ],
+          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401879283",
+          "kickoffUtc": "2026-09-12T14:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Chelsea",
+          "awayTeam": "Hull City",
+          "starNames": [
+            "Cole Palmer"
+          ],
+          "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "USA Net",
+            "Universo",
+            "NBC",
+            "Peacock"
+          ],
+          "score": 36,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401878779",
+          "kickoffUtc": "2026-09-12T19:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Sunderland",
+          "awayTeam": "Arsenal",
+          "starNames": [
+            "Bukayo Saka"
+          ],
+          "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "USA Net",
+            "Tele",
+            "NBC",
+            "Peacock"
+          ],
+          "score": 36,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401874941",
+          "kickoffUtc": "2026-09-12T16:00Z",
+          "competition": "Serie A",
+          "homeTeam": "Lazio",
+          "awayTeam": "AC Milan",
+          "starNames": [
+            "Luka Modric"
+          ],
+          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+"
+          ],
+          "score": 33,
+          "excitement": 1
+        }
+      ]
     },
     {
       "id": "week",
@@ -154,6 +398,23 @@
           "excitement": 3
         },
         {
+          "id": "espn-401884790",
+          "kickoffUtc": "2026-09-18T18:30Z",
+          "competition": "Bundesliga",
+          "homeTeam": "Bayern Munich",
+          "awayTeam": "1. FC Union Berlin",
+          "starNames": [
+            "Harry Kane",
+            "Jamal Musiala"
+          ],
+          "whyWatch": "Bayern Munich vs 1. FC Union Berlin features Harry Kane, Jamal Musiala for World Cup fans.",
+          "watchUs": [
+            "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
           "id": "espn-761800",
           "kickoffUtc": "2026-09-12T23:30Z",
           "competition": "MLS",
@@ -270,6 +531,23 @@
           "excitement": 1
         },
         {
+          "id": "espn-401879275",
+          "kickoffUtc": "2026-09-18T19:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Brentford",
+          "awayTeam": "Chelsea",
+          "starNames": [
+            "Cole Palmer"
+          ],
+          "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
+          ],
+          "score": 36,
+          "excitement": 1
+        },
+        {
           "id": "espn-401874941",
           "kickoffUtc": "2026-09-12T16:00Z",
           "competition": "Serie A",
@@ -373,6 +651,26 @@
             "ESPN2",
             "ESPN Deportes",
             "ESPN+"
+          ],
+          "score": 100,
+          "excitement": 5
+        },
+        {
+          "id": "espn-401879264",
+          "kickoffUtc": "2026-10-11T15:30Z",
+          "competition": "Premier League",
+          "homeTeam": "Liverpool",
+          "awayTeam": "Manchester City",
+          "starNames": [
+            "Erling Haaland",
+            "Mohamed Salah",
+            "Florian Wirtz",
+            "Rodri"
+          ],
+          "whyWatch": "Liverpool and Manchester City put Erling Haaland, Mohamed Salah, Florian Wirtz, Rodri in the same match.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
           ],
           "score": 100,
           "excitement": 5
@@ -756,6 +1054,20 @@
           "excitement": 2
         },
         {
+          "id": "espn-401841258",
+          "kickoffUtc": "2026-10-11T19:00Z",
+          "competition": "Brasileirao",
+          "homeTeam": "Atlético-MG",
+          "awayTeam": "Santos",
+          "starNames": [
+            "Neymar"
+          ],
+          "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 41,
+          "excitement": 2
+        },
+        {
           "id": "espn-401900921",
           "kickoffUtc": "2026-09-12T18:00Z",
           "competition": "Saudi Pro League",
@@ -1060,6 +1372,22 @@
             "Kevin De Bruyne"
           ],
           "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+"
+          ],
+          "score": 33,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401874789",
+          "kickoffUtc": "2026-10-11T16:00Z",
+          "competition": "Serie A",
+          "homeTeam": "Sassuolo",
+          "awayTeam": "AC Milan",
+          "starNames": [
+            "Luka Modric"
+          ],
+          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
           "watchUs": [
             "Paramount+"
           ],
