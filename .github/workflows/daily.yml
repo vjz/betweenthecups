@@ -1,6 +1,12 @@
 name: Daily Fixture Refresh
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "data/curated/**"
+      - ".github/workflows/daily.yml"
   workflow_dispatch:
   schedule:
     - cron: "15 13 * * *"

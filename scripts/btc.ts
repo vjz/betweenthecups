@@ -199,20 +199,40 @@ async function fetchEspnSource(
   endDate: string,
   teams: Team[],
 ): Promise<NormalizedFixture[]> {
-  const espnDates = startDate === endDate ? compactDate(startDate) : `${compactDate(startDate)}-${compactDate(endDate)}`;
-  const url = `https://site.api.espn.com/apis/site/v2/sports/soccer/${source.leagueSlug}/scoreboard?dates=${espnDates}`;
-  const response = await fetch(url, {
-    headers: {
-      accept: "application/json",
-    },
-  });
-  if (!response.ok) {
-    throw new Error(`ESPN ${source.leagueSlug} returned ${response.status}`);
+  // ESPN no longer accepts YYYYMMDD-YYYYMMDD ranges. Request calendar
+  // months (including across year boundaries), then trim to the exact range.
+  const dates: string[] = [];
+  if (startDate === endDate) {
+    dates.push(compactDate(startDate));
+  } else {
+    let month = startDate.slice(0, 7);
+    while (month <= endDate.slice(0, 7)) {
+      dates.push(month.replace("-", ""));
+      const next = new Date(`${month}-01T12:00:00Z`);
+      next.setUTCMonth(next.getUTCMonth() + 1);
+      month = next.toISOString().slice(0, 7);
+    }
   }
-  const payload = (await response.json()) as { events?: EspnEvent[] };
-  return (payload.events ?? [])
-    .map((event) => normalizeEspnEvent(event, source, teams))
-    .filter((fixture): fixture is NormalizedFixture => Boolean(fixture));
+  const fixtures = new Map<string, NormalizedFixture>();
+  // Sequential per league to avoid a burst of all months at once.
+  for (const date of dates) {
+    const url = `https://site.api.espn.com/apis/site/v2/sports/soccer/${source.leagueSlug}/scoreboard?dates=${date}&limit=1000`;
+    const response = await fetch(url, {
+      headers: { accept: "application/json" },
+      signal: AbortSignal.timeout(30_000),
+    });
+    if (!response.ok) {
+      throw new Error(`ESPN ${source.leagueSlug} (${date}) returned ${response.status}`);
+    }
+    const payload = (await response.json()) as { events?: EspnEvent[] };
+    for (const event of payload.events ?? []) {
+      const day = event.date.slice(0, 10);
+      if (day < startDate || day > endDate) continue;
+      const fixture = normalizeEspnEvent(event, source, teams);
+      if (fixture) fixtures.set(fixture.id, fixture);
+    }
+  }
+  return [...fixtures.values()];
 }
 
 async function fetchFixtures(dateInput: string): Promise<NormalizedFixture[]> {
