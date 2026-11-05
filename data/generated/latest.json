@@ -1,97 +1,21 @@
 {
-  "generatedAt": "2026-11-04T20:47:53.248Z",
-  "date": "2026-11-04",
+  "generatedAt": "2026-11-05T20:38:49.410Z",
+  "date": "2026-11-05",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [
     {
-      "id": "espn-401915383",
-      "kickoffUtc": "2026-11-04T17:45Z",
-      "competition": "UEFA Champions League",
-      "homeTeam": "AEK Athens",
-      "awayTeam": "Real Madrid",
+      "id": "espn-401915534",
+      "kickoffUtc": "2026-11-05T17:45Z",
+      "competition": "UEFA Europa League",
+      "homeTeam": "AC Milan",
+      "awayTeam": "Ferencvaros",
       "starNames": [
-        "Jude Bellingham",
-        "Kylian Mbappe",
-        "Vinicius Junior"
+        "Luka Modric"
       ],
-      "whyWatch": "AEK Athens vs Real Madrid features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
+      "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
       "watchUs": [
-        "Paramount+",
-        "ESPN+"
-      ],
-      "score": 68,
-      "excitement": 3
-    },
-    {
-      "id": "espn-401915382",
-      "kickoffUtc": "2026-11-04T17:45Z",
-      "competition": "UEFA Champions League",
-      "homeTeam": "Fenerbahce",
-      "awayTeam": "Liverpool",
-      "starNames": [
-        "Mohamed Salah",
-        "Florian Wirtz"
-      ],
-      "whyWatch": "Fenerbahce vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
-      "watchUs": [
-        "Paramount+",
-        "NBC",
-        "Peacock"
-      ],
-      "score": 63,
-      "excitement": 3
-    },
-    {
-      "id": "espn-401915306",
-      "kickoffUtc": "2026-11-04T20:00Z",
-      "competition": "UEFA Champions League",
-      "homeTeam": "RB Leipzig",
-      "awayTeam": "Manchester City",
-      "starNames": [
-        "Erling Haaland",
-        "Rodri"
-      ],
-      "whyWatch": "RB Leipzig vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
-      "watchUs": [
-        "Paramount+",
-        "NBC",
-        "Peacock"
-      ],
-      "score": 63,
-      "excitement": 3
-    },
-    {
-      "id": "espn-401915301",
-      "kickoffUtc": "2026-11-04T20:00Z",
-      "competition": "UEFA Champions League",
-      "homeTeam": "FC Porto",
-      "awayTeam": "Napoli",
-      "starNames": [
-        "Kevin De Bruyne"
-      ],
-      "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
-      "watchUs": [
-        "CBSSN",
         "Paramount+"
-      ],
-      "score": 26,
-      "excitement": 1
-    },
-    {
-      "id": "espn-401915381",
-      "kickoffUtc": "2026-11-04T20:00Z",
-      "competition": "UEFA Champions League",
-      "homeTeam": "Slavia Prague",
-      "awayTeam": "Arsenal",
-      "starNames": [
-        "Bukayo Saka"
-      ],
-      "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
-      "watchUs": [
-        "Paramount+",
-        "NBC",
-        "Peacock"
       ],
       "score": 26,
       "excitement": 1
@@ -104,93 +28,17 @@
       "description": "Tracked matches on today’s slate.",
       "matches": [
         {
-          "id": "espn-401915383",
-          "kickoffUtc": "2026-11-04T17:45Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "AEK Athens",
-          "awayTeam": "Real Madrid",
+          "id": "espn-401915534",
+          "kickoffUtc": "2026-11-05T17:45Z",
+          "competition": "UEFA Europa League",
+          "homeTeam": "AC Milan",
+          "awayTeam": "Ferencvaros",
           "starNames": [
-            "Jude Bellingham",
-            "Kylian Mbappe",
-            "Vinicius Junior"
+            "Luka Modric"
           ],
-          "whyWatch": "AEK Athens vs Real Madrid features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
+          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
           "watchUs": [
-            "Paramount+",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401915382",
-          "kickoffUtc": "2026-11-04T17:45Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Fenerbahce",
-          "awayTeam": "Liverpool",
-          "starNames": [
-            "Mohamed Salah",
-            "Florian Wirtz"
-          ],
-          "whyWatch": "Fenerbahce vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 63,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401915306",
-          "kickoffUtc": "2026-11-04T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "RB Leipzig",
-          "awayTeam": "Manchester City",
-          "starNames": [
-            "Erling Haaland",
-            "Rodri"
-          ],
-          "whyWatch": "RB Leipzig vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 63,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401915301",
-          "kickoffUtc": "2026-11-04T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "FC Porto",
-          "awayTeam": "Napoli",
-          "starNames": [
-            "Kevin De Bruyne"
-          ],
-          "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "CBSSN",
             "Paramount+"
-          ],
-          "score": 26,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401915381",
-          "kickoffUtc": "2026-11-04T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Slavia Prague",
-          "awayTeam": "Arsenal",
-          "starNames": [
-            "Bukayo Saka"
-          ],
-          "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+",
-            "NBC",
-            "Peacock"
           ],
           "score": 26,
           "excitement": 1
@@ -224,25 +72,6 @@
           ],
           "score": 100,
           "excitement": 5
-        },
-        {
-          "id": "espn-401915383",
-          "kickoffUtc": "2026-11-04T17:45Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "AEK Athens",
-          "awayTeam": "Real Madrid",
-          "starNames": [
-            "Jude Bellingham",
-            "Kylian Mbappe",
-            "Vinicius Junior"
-          ],
-          "whyWatch": "AEK Athens vs Real Madrid features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
         },
         {
           "id": "espn-401884740",
@@ -317,44 +146,6 @@
             "NBC"
           ],
           "score": 68,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401915382",
-          "kickoffUtc": "2026-11-04T17:45Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Fenerbahce",
-          "awayTeam": "Liverpool",
-          "starNames": [
-            "Mohamed Salah",
-            "Florian Wirtz"
-          ],
-          "whyWatch": "Fenerbahce vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 63,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401915306",
-          "kickoffUtc": "2026-11-04T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "RB Leipzig",
-          "awayTeam": "Manchester City",
-          "starNames": [
-            "Erling Haaland",
-            "Rodri"
-          ],
-          "whyWatch": "RB Leipzig vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 63,
           "excitement": 3
         },
         {
@@ -491,41 +282,6 @@
           "excitement": 1
         },
         {
-          "id": "espn-401915301",
-          "kickoffUtc": "2026-11-04T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "FC Porto",
-          "awayTeam": "Napoli",
-          "starNames": [
-            "Kevin De Bruyne"
-          ],
-          "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "CBSSN",
-            "Paramount+"
-          ],
-          "score": 26,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401915381",
-          "kickoffUtc": "2026-11-04T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Slavia Prague",
-          "awayTeam": "Arsenal",
-          "starNames": [
-            "Bukayo Saka"
-          ],
-          "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 26,
-          "excitement": 1
-        },
-        {
           "id": "espn-401915534",
           "kickoffUtc": "2026-11-05T17:45Z",
           "competition": "UEFA Europa League",
@@ -609,25 +365,6 @@
           ],
           "score": 100,
           "excitement": 5
-        },
-        {
-          "id": "espn-401915383",
-          "kickoffUtc": "2026-11-04T17:45Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "AEK Athens",
-          "awayTeam": "Real Madrid",
-          "starNames": [
-            "Jude Bellingham",
-            "Kylian Mbappe",
-            "Vinicius Junior"
-          ],
-          "whyWatch": "AEK Athens vs Real Madrid features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
         },
         {
           "id": "espn-401884740",
@@ -950,41 +687,20 @@
           "excitement": 3
         },
         {
-          "id": "espn-401915382",
-          "kickoffUtc": "2026-11-04T17:45Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Fenerbahce",
-          "awayTeam": "Liverpool",
+          "id": "espn-401884718",
+          "kickoffUtc": "2026-12-04T19:30Z",
+          "competition": "Bundesliga",
+          "homeTeam": "Bayern Munich",
+          "awayTeam": "SC Paderborn 07",
           "starNames": [
-            "Mohamed Salah",
-            "Florian Wirtz"
+            "Harry Kane",
+            "Jamal Musiala"
           ],
-          "whyWatch": "Fenerbahce vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
+          "whyWatch": "Bayern Munich vs SC Paderborn 07 features Harry Kane, Jamal Musiala for World Cup fans.",
           "watchUs": [
-            "Paramount+",
-            "NBC",
-            "Peacock"
+            "ESPN+"
           ],
-          "score": 63,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401915306",
-          "kickoffUtc": "2026-11-04T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "RB Leipzig",
-          "awayTeam": "Manchester City",
-          "starNames": [
-            "Erling Haaland",
-            "Rodri"
-          ],
-          "whyWatch": "RB Leipzig vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 63,
+          "score": 68,
           "excitement": 3
         },
         {
@@ -1502,38 +1218,19 @@
           "excitement": 1
         },
         {
-          "id": "espn-401915301",
-          "kickoffUtc": "2026-11-04T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "FC Porto",
-          "awayTeam": "Napoli",
+          "id": "espn-401876378",
+          "kickoffUtc": "2026-12-04T19:45Z",
+          "competition": "Ligue 1",
+          "homeTeam": "Toulouse",
+          "awayTeam": "Paris Saint-Germain",
           "starNames": [
-            "Kevin De Bruyne"
+            "Ousmane Dembele"
           ],
-          "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
+          "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
           "watchUs": [
-            "CBSSN",
-            "Paramount+"
+            "beIN Sports"
           ],
-          "score": 26,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401915381",
-          "kickoffUtc": "2026-11-04T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Slavia Prague",
-          "awayTeam": "Arsenal",
-          "starNames": [
-            "Bukayo Saka"
-          ],
-          "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 26,
+          "score": 31,
           "excitement": 1
         },
         {
