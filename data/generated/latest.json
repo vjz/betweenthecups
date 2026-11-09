@@ -1,377 +1,27 @@
 {
-  "generatedAt": "2026-11-08T18:20:21.407Z",
-  "date": "2026-11-08",
+  "generatedAt": "2026-11-09T22:58:32.180Z",
+  "date": "2026-11-09",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
-  "matches": [
-    {
-      "id": "espn-401882816",
-      "kickoffUtc": "2026-11-08T20:00Z",
-      "competition": "La Liga",
-      "homeTeam": "Atlético Madrid",
-      "awayTeam": "Barcelona",
-      "starNames": [
-        "Lamine Yamal",
-        "Julian Alvarez",
-        "Pedri",
-        "Raphinha",
-        "Robert Lewandowski",
-        "Ferran Torres",
-        "Pau Cubarsi"
-      ],
-      "whyWatch": "Atlético Madrid and Barcelona put Lamine Yamal, Julian Alvarez, Pedri, Raphinha in the same match.",
-      "watchUs": [
-        "ESPN Deportes",
-        "ESPN+"
-      ],
-      "score": 100,
-      "excitement": 5
-    },
-    {
-      "id": "espn-401879243",
-      "kickoffUtc": "2026-11-08T14:00Z",
-      "competition": "Premier League",
-      "homeTeam": "Crystal Palace",
-      "awayTeam": "Liverpool",
-      "starNames": [
-        "Mohamed Salah",
-        "Florian Wirtz"
-      ],
-      "whyWatch": "Crystal Palace vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
-      "watchUs": [
-        "Peacock",
-        "NBC"
-      ],
-      "score": 68,
-      "excitement": 3
-    },
-    {
-      "id": "espn-401879239",
-      "kickoffUtc": "2026-11-08T14:00Z",
-      "competition": "Premier League",
-      "homeTeam": "Sunderland",
-      "awayTeam": "Chelsea",
-      "starNames": [
-        "Cole Palmer"
-      ],
-      "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
-      "watchUs": [
-        "USA Net",
-        "Tele",
-        "NBC",
-        "Peacock"
-      ],
-      "score": 36,
-      "excitement": 1
-    },
-    {
-      "id": "espn-401874810",
-      "kickoffUtc": "2026-11-08T11:30Z",
-      "competition": "Serie A",
-      "homeTeam": "Napoli",
-      "awayTeam": "Lazio",
-      "starNames": [
-        "Kevin De Bruyne"
-      ],
-      "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
-      "watchUs": [
-        "Paramount+"
-      ],
-      "score": 33,
-      "excitement": 1
-    },
-    {
-      "id": "espn-401875018",
-      "kickoffUtc": "2026-11-08T14:00Z",
-      "competition": "Serie A",
-      "homeTeam": "Genoa",
-      "awayTeam": "AC Milan",
-      "starNames": [
-        "Luka Modric"
-      ],
-      "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
-      "watchUs": [
-        "Paramount+"
-      ],
-      "score": 33,
-      "excitement": 1
-    },
-    {
-      "id": "espn-401874808",
-      "kickoffUtc": "2026-11-08T17:00Z",
-      "competition": "Serie A",
-      "homeTeam": "Internazionale",
-      "awayTeam": "Como",
-      "starNames": [
-        "Lautaro Martinez"
-      ],
-      "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
-      "watchUs": [
-        "Paramount+"
-      ],
-      "score": 33,
-      "excitement": 1
-    }
-  ],
+  "matches": [],
   "sections": [
     {
       "id": "today",
       "label": "Today",
       "description": "Tracked matches on today’s slate.",
-      "matches": [
-        {
-          "id": "espn-401882816",
-          "kickoffUtc": "2026-11-08T20:00Z",
-          "competition": "La Liga",
-          "homeTeam": "Atlético Madrid",
-          "awayTeam": "Barcelona",
-          "starNames": [
-            "Lamine Yamal",
-            "Julian Alvarez",
-            "Pedri",
-            "Raphinha",
-            "Robert Lewandowski",
-            "Ferran Torres",
-            "Pau Cubarsi"
-          ],
-          "whyWatch": "Atlético Madrid and Barcelona put Lamine Yamal, Julian Alvarez, Pedri, Raphinha in the same match.",
-          "watchUs": [
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 100,
-          "excitement": 5
-        },
-        {
-          "id": "espn-401879243",
-          "kickoffUtc": "2026-11-08T14:00Z",
-          "competition": "Premier League",
-          "homeTeam": "Crystal Palace",
-          "awayTeam": "Liverpool",
-          "starNames": [
-            "Mohamed Salah",
-            "Florian Wirtz"
-          ],
-          "whyWatch": "Crystal Palace vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
-          "watchUs": [
-            "Peacock",
-            "NBC"
-          ],
-          "score": 68,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401879239",
-          "kickoffUtc": "2026-11-08T14:00Z",
-          "competition": "Premier League",
-          "homeTeam": "Sunderland",
-          "awayTeam": "Chelsea",
-          "starNames": [
-            "Cole Palmer"
-          ],
-          "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "USA Net",
-            "Tele",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 36,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401874810",
-          "kickoffUtc": "2026-11-08T11:30Z",
-          "competition": "Serie A",
-          "homeTeam": "Napoli",
-          "awayTeam": "Lazio",
-          "starNames": [
-            "Kevin De Bruyne"
-          ],
-          "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 33,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401875018",
-          "kickoffUtc": "2026-11-08T14:00Z",
-          "competition": "Serie A",
-          "homeTeam": "Genoa",
-          "awayTeam": "AC Milan",
-          "starNames": [
-            "Luka Modric"
-          ],
-          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 33,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401874808",
-          "kickoffUtc": "2026-11-08T17:00Z",
-          "competition": "Serie A",
-          "homeTeam": "Internazionale",
-          "awayTeam": "Como",
-          "starNames": [
-            "Lautaro Martinez"
-          ],
-          "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 33,
-          "excitement": 1
-        }
-      ]
+      "matches": []
     },
     {
       "id": "week",
       "label": "This Week",
       "description": "Best tracked matches over the next seven days.",
-      "matches": [
-        {
-          "id": "espn-401882816",
-          "kickoffUtc": "2026-11-08T20:00Z",
-          "competition": "La Liga",
-          "homeTeam": "Atlético Madrid",
-          "awayTeam": "Barcelona",
-          "starNames": [
-            "Lamine Yamal",
-            "Julian Alvarez",
-            "Pedri",
-            "Raphinha",
-            "Robert Lewandowski",
-            "Ferran Torres",
-            "Pau Cubarsi"
-          ],
-          "whyWatch": "Atlético Madrid and Barcelona put Lamine Yamal, Julian Alvarez, Pedri, Raphinha in the same match.",
-          "watchUs": [
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 100,
-          "excitement": 5
-        },
-        {
-          "id": "espn-401879243",
-          "kickoffUtc": "2026-11-08T14:00Z",
-          "competition": "Premier League",
-          "homeTeam": "Crystal Palace",
-          "awayTeam": "Liverpool",
-          "starNames": [
-            "Mohamed Salah",
-            "Florian Wirtz"
-          ],
-          "whyWatch": "Crystal Palace vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
-          "watchUs": [
-            "Peacock",
-            "NBC"
-          ],
-          "score": 68,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401879239",
-          "kickoffUtc": "2026-11-08T14:00Z",
-          "competition": "Premier League",
-          "homeTeam": "Sunderland",
-          "awayTeam": "Chelsea",
-          "starNames": [
-            "Cole Palmer"
-          ],
-          "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "USA Net",
-            "Tele",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 36,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401874810",
-          "kickoffUtc": "2026-11-08T11:30Z",
-          "competition": "Serie A",
-          "homeTeam": "Napoli",
-          "awayTeam": "Lazio",
-          "starNames": [
-            "Kevin De Bruyne"
-          ],
-          "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 33,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401875018",
-          "kickoffUtc": "2026-11-08T14:00Z",
-          "competition": "Serie A",
-          "homeTeam": "Genoa",
-          "awayTeam": "AC Milan",
-          "starNames": [
-            "Luka Modric"
-          ],
-          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 33,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401874808",
-          "kickoffUtc": "2026-11-08T17:00Z",
-          "competition": "Serie A",
-          "homeTeam": "Internazionale",
-          "awayTeam": "Como",
-          "starNames": [
-            "Lautaro Martinez"
-          ],
-          "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 33,
-          "excitement": 1
-        }
-      ]
+      "matches": []
     },
     {
       "id": "month",
       "label": "This Month",
       "description": "Tracked matches over the next 30 days.",
       "matches": [
-        {
-          "id": "espn-401882816",
-          "kickoffUtc": "2026-11-08T20:00Z",
-          "competition": "La Liga",
-          "homeTeam": "Atlético Madrid",
-          "awayTeam": "Barcelona",
-          "starNames": [
-            "Lamine Yamal",
-            "Julian Alvarez",
-            "Pedri",
-            "Raphinha",
-            "Robert Lewandowski",
-            "Ferran Torres",
-            "Pau Cubarsi"
-          ],
-          "whyWatch": "Atlético Madrid and Barcelona put Lamine Yamal, Julian Alvarez, Pedri, Raphinha in the same match.",
-          "watchUs": [
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 100,
-          "excitement": 5
-        },
         {
           "id": "espn-401915379",
           "kickoffUtc": "2026-11-24T20:00Z",
@@ -453,22 +103,30 @@
           "excitement": 5
         },
         {
-          "id": "espn-401879243",
-          "kickoffUtc": "2026-11-08T14:00Z",
-          "competition": "Premier League",
-          "homeTeam": "Crystal Palace",
-          "awayTeam": "Liverpool",
+          "id": "espn-401915285",
+          "kickoffUtc": "2026-12-08T20:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Barcelona",
+          "awayTeam": "Manchester City",
           "starNames": [
-            "Mohamed Salah",
-            "Florian Wirtz"
+            "Erling Haaland",
+            "Lamine Yamal",
+            "Pedri",
+            "Raphinha",
+            "Robert Lewandowski",
+            "Rodri",
+            "Ferran Torres",
+            "Pau Cubarsi"
           ],
-          "whyWatch": "Crystal Palace vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
+          "whyWatch": "Barcelona and Manchester City put Erling Haaland, Lamine Yamal, Pedri, Raphinha in the same match.",
           "watchUs": [
-            "Peacock",
-            "NBC"
+            "Paramount+",
+            "ESPN+",
+            "NBC",
+            "Peacock"
           ],
-          "score": 68,
-          "excitement": 3
+          "score": 100,
+          "excitement": 5
         },
         {
           "id": "espn-401884736",
@@ -845,6 +503,24 @@
           "excitement": 3
         },
         {
+          "id": "espn-401915284",
+          "kickoffUtc": "2026-12-08T20:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Bayern Munich",
+          "awayTeam": "Slavia Prague",
+          "starNames": [
+            "Harry Kane",
+            "Jamal Musiala"
+          ],
+          "whyWatch": "Bayern Munich vs Slavia Prague features Harry Kane, Jamal Musiala for World Cup fans.",
+          "watchUs": [
+            "Paramount+",
+            "ESPN+"
+          ],
+          "score": 63,
+          "excitement": 3
+        },
+        {
           "id": "espn-401841315",
           "kickoffUtc": "2026-11-18T22:30Z",
           "competition": "Brasileirao",
@@ -855,6 +531,23 @@
           ],
           "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
           "watchUs": [],
+          "score": 41,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401933739",
+          "kickoffUtc": "2026-11-21T23:00Z",
+          "competition": "MLS",
+          "homeTeam": "Inter Miami CF",
+          "awayTeam": "Columbus Crew",
+          "starNames": [
+            "Lionel Messi"
+          ],
+          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Apple TV",
+            "MLS Season Pass"
+          ],
           "score": 41,
           "excitement": 2
         },
@@ -873,6 +566,24 @@
           "excitement": 2
         },
         {
+          "id": "espn-401933727",
+          "kickoffUtc": "2026-11-28T01:00Z",
+          "competition": "MLS",
+          "homeTeam": "Columbus Crew",
+          "awayTeam": "Inter Miami CF",
+          "starNames": [
+            "Lionel Messi"
+          ],
+          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "FS1",
+            "Apple TV",
+            "MLS Season Pass"
+          ],
+          "score": 41,
+          "excitement": 2
+        },
+        {
           "id": "espn-401841332",
           "kickoffUtc": "2026-11-29T19:00Z",
           "competition": "Brasileirao",
@@ -883,6 +594,23 @@
           ],
           "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
           "watchUs": [],
+          "score": 41,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401933720",
+          "kickoffUtc": "2026-12-02T20:00Z",
+          "competition": "MLS",
+          "homeTeam": "Inter Miami CF",
+          "awayTeam": "Columbus Crew",
+          "starNames": [
+            "Lionel Messi"
+          ],
+          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Apple TV",
+            "MLS Season Pass"
+          ],
           "score": 41,
           "excitement": 2
         },
@@ -941,25 +669,6 @@
           "watchUs": [],
           "score": 40,
           "excitement": 2
-        },
-        {
-          "id": "espn-401879239",
-          "kickoffUtc": "2026-11-08T14:00Z",
-          "competition": "Premier League",
-          "homeTeam": "Sunderland",
-          "awayTeam": "Chelsea",
-          "starNames": [
-            "Cole Palmer"
-          ],
-          "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "USA Net",
-            "Tele",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 36,
-          "excitement": 1
         },
         {
           "id": "espn-401879236",
@@ -1110,54 +819,6 @@
             "ESPN+"
           ],
           "score": 36,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401874810",
-          "kickoffUtc": "2026-11-08T11:30Z",
-          "competition": "Serie A",
-          "homeTeam": "Napoli",
-          "awayTeam": "Lazio",
-          "starNames": [
-            "Kevin De Bruyne"
-          ],
-          "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 33,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401875018",
-          "kickoffUtc": "2026-11-08T14:00Z",
-          "competition": "Serie A",
-          "homeTeam": "Genoa",
-          "awayTeam": "AC Milan",
-          "starNames": [
-            "Luka Modric"
-          ],
-          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 33,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401874808",
-          "kickoffUtc": "2026-11-08T17:00Z",
-          "competition": "Serie A",
-          "homeTeam": "Internazionale",
-          "awayTeam": "Como",
-          "starNames": [
-            "Lautaro Martinez"
-          ],
-          "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 33,
           "excitement": 1
         },
         {
@@ -1435,6 +1096,39 @@
           ],
           "score": 26,
           "excitement": 1
+        },
+        {
+          "id": "espn-401915286",
+          "kickoffUtc": "2026-12-08T20:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Aston Villa",
+          "awayTeam": "Paris Saint-Germain",
+          "starNames": [
+            "Ousmane Dembele"
+          ],
+          "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+",
+            "beIN Sports"
+          ],
+          "score": 26,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401915287",
+          "kickoffUtc": "2026-12-08T20:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Napoli",
+          "awayTeam": "Club Brugge",
+          "starNames": [
+            "Kevin De Bruyne"
+          ],
+          "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+"
+          ],
+          "score": 26,
+          "excitement": 1
         }
       ]
     },
@@ -1443,29 +1137,6 @@
       "label": "Next 6 Months",
       "description": "Top 10 highest-scoring tracked matches currently on public schedules.",
       "matches": [
-        {
-          "id": "espn-401882816",
-          "kickoffUtc": "2026-11-08T20:00Z",
-          "competition": "La Liga",
-          "homeTeam": "Atlético Madrid",
-          "awayTeam": "Barcelona",
-          "starNames": [
-            "Lamine Yamal",
-            "Julian Alvarez",
-            "Pedri",
-            "Raphinha",
-            "Robert Lewandowski",
-            "Ferran Torres",
-            "Pau Cubarsi"
-          ],
-          "whyWatch": "Atlético Madrid and Barcelona put Lamine Yamal, Julian Alvarez, Pedri, Raphinha in the same match.",
-          "watchUs": [
-            "ESPN Deportes",
-            "ESPN+"
-          ],
-          "score": 100,
-          "excitement": 5
-        },
         {
           "id": "espn-401915379",
           "kickoffUtc": "2026-11-24T20:00Z",
@@ -1645,6 +1316,25 @@
             "Rodri"
           ],
           "whyWatch": "Manchester City and Arsenal put Erling Haaland, Bukayo Saka, Rodri in the same match.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
+          ],
+          "score": 100,
+          "excitement": 5
+        },
+        {
+          "id": "espn-401878712",
+          "kickoffUtc": "2027-02-06T15:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Arsenal",
+          "awayTeam": "Liverpool",
+          "starNames": [
+            "Mohamed Salah",
+            "Bukayo Saka",
+            "Florian Wirtz"
+          ],
+          "whyWatch": "Arsenal and Liverpool put Mohamed Salah, Bukayo Saka, Florian Wirtz in the same match.",
           "watchUs": [
             "NBC",
             "Peacock"
