@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T22:58:32.180Z",
-  "date": "2026-11-09",
+  "generatedAt": "2026-11-10T20:27:25.703Z",
+  "date": "2026-11-10",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [],
@@ -124,6 +124,28 @@
             "ESPN+",
             "NBC",
             "Peacock"
+          ],
+          "score": 100,
+          "excitement": 5
+        },
+        {
+          "id": "espn-401915367",
+          "kickoffUtc": "2026-12-09T20:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Arsenal",
+          "awayTeam": "Real Madrid",
+          "starNames": [
+            "Jude Bellingham",
+            "Kylian Mbappe",
+            "Vinicius Junior",
+            "Bukayo Saka"
+          ],
+          "whyWatch": "Arsenal and Real Madrid put Jude Bellingham, Kylian Mbappe, Vinicius Junior, Bukayo Saka in the same match.",
+          "watchUs": [
+            "Paramount+",
+            "NBC",
+            "Peacock",
+            "ESPN+"
           ],
           "score": 100,
           "excitement": 5
@@ -521,6 +543,25 @@
           "excitement": 3
         },
         {
+          "id": "espn-401915369",
+          "kickoffUtc": "2026-12-09T20:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Liverpool",
+          "awayTeam": "FC Porto",
+          "starNames": [
+            "Mohamed Salah",
+            "Florian Wirtz"
+          ],
+          "whyWatch": "Liverpool vs FC Porto features Mohamed Salah, Florian Wirtz for World Cup fans.",
+          "watchUs": [
+            "Paramount+",
+            "NBC",
+            "Peacock"
+          ],
+          "score": 63,
+          "excitement": 3
+        },
+        {
           "id": "espn-401841315",
           "kickoffUtc": "2026-11-18T22:30Z",
           "competition": "Brasileirao",
@@ -629,39 +670,39 @@
           "excitement": 2
         },
         {
+          "id": "espn-401900905",
+          "kickoffUtc": "2026-11-20T17:30Z",
+          "competition": "Saudi Pro League",
+          "homeTeam": "Al Ahli",
+          "awayTeam": "Al Nassr",
+          "starNames": [
+            "Cristiano Ronaldo"
+          ],
+          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401900442",
+          "kickoffUtc": "2026-11-28T12:15Z",
+          "competition": "Saudi Pro League",
+          "homeTeam": "Al Hazem",
+          "awayTeam": "Al Nassr",
+          "starNames": [
+            "Cristiano Ronaldo"
+          ],
+          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 40,
+          "excitement": 2
+        },
+        {
           "id": "espn-401900441",
-          "kickoffUtc": "2026-11-20T20:00Z",
+          "kickoffUtc": "2026-12-04T17:30Z",
           "competition": "Saudi Pro League",
           "homeTeam": "Al Nassr",
           "awayTeam": "Al Qadsiah",
-          "starNames": [
-            "Cristiano Ronaldo"
-          ],
-          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
-          "watchUs": [],
-          "score": 40,
-          "excitement": 2
-        },
-        {
-          "id": "espn-401900858",
-          "kickoffUtc": "2026-11-26T20:00Z",
-          "competition": "Saudi Pro League",
-          "homeTeam": "Al Nassr",
-          "awayTeam": "Al Shabab",
-          "starNames": [
-            "Cristiano Ronaldo"
-          ],
-          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
-          "watchUs": [],
-          "score": 40,
-          "excitement": 2
-        },
-        {
-          "id": "espn-401900852",
-          "kickoffUtc": "2026-12-03T20:00Z",
-          "competition": "Saudi Pro League",
-          "homeTeam": "Al Fayha",
-          "awayTeam": "Al Nassr",
           "starNames": [
             "Cristiano Ronaldo"
           ],
@@ -1126,6 +1167,39 @@
           "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
           "watchUs": [
             "Paramount+"
+          ],
+          "score": 26,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401915368",
+          "kickoffUtc": "2026-12-09T20:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "Internazionale",
+          "starNames": [
+            "Lautaro Martinez"
+          ],
+          "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+"
+          ],
+          "score": 26,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401915366",
+          "kickoffUtc": "2026-12-09T20:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "PSV Eindhoven",
+          "awayTeam": "Atlético Madrid",
+          "starNames": [
+            "Julian Alvarez"
+          ],
+          "whyWatch": "Worth a look for Julian Alvarez, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+",
+            "ESPN+"
           ],
           "score": 26,
           "excitement": 1
