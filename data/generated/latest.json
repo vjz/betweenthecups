@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T20:27:25.703Z",
-  "date": "2026-11-10",
+  "generatedAt": "2026-11-11T20:10:27.140Z",
+  "date": "2026-11-11",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [],
@@ -1200,6 +1200,22 @@
           "watchUs": [
             "Paramount+",
             "ESPN+"
+          ],
+          "score": 26,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401915493",
+          "kickoffUtc": "2026-12-10T20:00Z",
+          "competition": "UEFA Europa League",
+          "homeTeam": "AC Milan",
+          "awayTeam": "Sunderland",
+          "starNames": [
+            "Luka Modric"
+          ],
+          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+"
           ],
           "score": 26,
           "excitement": 1
