@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T20:10:27.140Z",
-  "date": "2026-11-11",
+  "generatedAt": "2026-11-12T20:47:21.571Z",
+  "date": "2026-11-12",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [],
@@ -15,7 +15,22 @@
       "id": "week",
       "label": "This Week",
       "description": "Best tracked matches over the next seven days.",
-      "matches": []
+      "matches": [
+        {
+          "id": "espn-401841315",
+          "kickoffUtc": "2026-11-18T22:30Z",
+          "competition": "Brasileirao",
+          "homeTeam": "Coritiba",
+          "awayTeam": "Santos",
+          "starNames": [
+            "Neymar"
+          ],
+          "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 41,
+          "excitement": 2
+        }
+      ]
     },
     {
       "id": "month",
