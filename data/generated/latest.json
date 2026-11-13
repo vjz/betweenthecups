@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T20:47:21.571Z",
-  "date": "2026-11-12",
+  "generatedAt": "2026-11-13T20:28:35.419Z",
+  "date": "2026-11-13",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [],
@@ -161,6 +161,25 @@
             "NBC",
             "Peacock",
             "ESPN+"
+          ],
+          "score": 100,
+          "excitement": 5
+        },
+        {
+          "id": "espn-401878742",
+          "kickoffUtc": "2026-12-12T17:30Z",
+          "competition": "Premier League",
+          "homeTeam": "Manchester City",
+          "awayTeam": "Chelsea",
+          "starNames": [
+            "Erling Haaland",
+            "Cole Palmer",
+            "Rodri"
+          ],
+          "whyWatch": "Manchester City and Chelsea put Erling Haaland, Cole Palmer, Rodri in the same match.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
           ],
           "score": 100,
           "excitement": 5
@@ -503,6 +522,24 @@
           "excitement": 3
         },
         {
+          "id": "espn-401878743",
+          "kickoffUtc": "2026-12-12T15:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Liverpool",
+          "awayTeam": "Leeds United",
+          "starNames": [
+            "Mohamed Salah",
+            "Florian Wirtz"
+          ],
+          "whyWatch": "Liverpool vs Leeds United features Mohamed Salah, Florian Wirtz for World Cup fans.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
           "id": "espn-401915292",
           "kickoffUtc": "2026-11-25T20:00Z",
           "competition": "UEFA Champions League",
@@ -718,6 +755,20 @@
           "competition": "Saudi Pro League",
           "homeTeam": "Al Nassr",
           "awayTeam": "Al Qadsiah",
+          "starNames": [
+            "Cristiano Ronaldo"
+          ],
+          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401900858",
+          "kickoffUtc": "2026-12-12T17:30Z",
+          "competition": "Saudi Pro League",
+          "homeTeam": "Al Nassr",
+          "awayTeam": "Al Shabab",
           "starNames": [
             "Cristiano Ronaldo"
           ],
@@ -1059,6 +1110,22 @@
           "competition": "Ligue 1",
           "homeTeam": "Toulouse",
           "awayTeam": "Paris Saint-Germain",
+          "starNames": [
+            "Ousmane Dembele"
+          ],
+          "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "beIN Sports"
+          ],
+          "score": 31,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401876370",
+          "kickoffUtc": "2026-12-12T16:15Z",
+          "competition": "Ligue 1",
+          "homeTeam": "Paris Saint-Germain",
+          "awayTeam": "Paris FC",
           "starNames": [
             "Ousmane Dembele"
           ],
