@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T20:28:35.419Z",
-  "date": "2026-11-13",
+  "generatedAt": "2026-11-14T18:43:31.361Z",
+  "date": "2026-11-14",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [],
@@ -17,6 +17,23 @@
       "description": "Best tracked matches over the next seven days.",
       "matches": [
         {
+          "id": "espn-401884736",
+          "kickoffUtc": "2026-11-20T19:30Z",
+          "competition": "Bundesliga",
+          "homeTeam": "Bayern Munich",
+          "awayTeam": "FC Cologne",
+          "starNames": [
+            "Harry Kane",
+            "Jamal Musiala"
+          ],
+          "whyWatch": "Bayern Munich vs FC Cologne features Harry Kane, Jamal Musiala for World Cup fans.",
+          "watchUs": [
+            "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
           "id": "espn-401841315",
           "kickoffUtc": "2026-11-18T22:30Z",
           "competition": "Brasileirao",
@@ -28,6 +45,20 @@
           "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
           "watchUs": [],
           "score": 41,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401900905",
+          "kickoffUtc": "2026-11-20T17:30Z",
+          "competition": "Saudi Pro League",
+          "homeTeam": "Al Ahli",
+          "awayTeam": "Al Nassr",
+          "starNames": [
+            "Cristiano Ronaldo"
+          ],
+          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 40,
           "excitement": 2
         }
       ]
@@ -183,6 +214,23 @@
           ],
           "score": 100,
           "excitement": 5
+        },
+        {
+          "id": "espn-401875028",
+          "kickoffUtc": "2026-12-13T19:45Z",
+          "competition": "Serie A",
+          "homeTeam": "Napoli",
+          "awayTeam": "AC Milan",
+          "starNames": [
+            "Kevin De Bruyne",
+            "Luka Modric"
+          ],
+          "whyWatch": "Napoli and AC Milan put Kevin De Bruyne, Luka Modric in the same match.",
+          "watchUs": [
+            "Paramount+"
+          ],
+          "score": 70,
+          "excitement": 4
         },
         {
           "id": "espn-401884736",
@@ -535,6 +583,62 @@
           "watchUs": [
             "NBC",
             "Peacock"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401884707",
+          "kickoffUtc": "2026-12-13T16:30Z",
+          "competition": "Bundesliga",
+          "homeTeam": "TSG Hoffenheim",
+          "awayTeam": "Bayern Munich",
+          "starNames": [
+            "Harry Kane",
+            "Jamal Musiala"
+          ],
+          "whyWatch": "TSG Hoffenheim vs Bayern Munich features Harry Kane, Jamal Musiala for World Cup fans.",
+          "watchUs": [
+            "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401882770",
+          "kickoffUtc": "2026-12-13T20:00Z",
+          "competition": "La Liga",
+          "homeTeam": "Málaga",
+          "awayTeam": "Barcelona",
+          "starNames": [
+            "Lamine Yamal",
+            "Pedri",
+            "Raphinha",
+            "Robert Lewandowski",
+            "Ferran Torres",
+            "Pau Cubarsi"
+          ],
+          "whyWatch": "Málaga vs Barcelona features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
+          "watchUs": [
+            "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401882769",
+          "kickoffUtc": "2026-12-13T20:00Z",
+          "competition": "La Liga",
+          "homeTeam": "Real Madrid",
+          "awayTeam": "Osasuna",
+          "starNames": [
+            "Jude Bellingham",
+            "Kylian Mbappe",
+            "Vinicius Junior"
+          ],
+          "whyWatch": "Real Madrid vs Osasuna features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
+          "watchUs": [
+            "ESPN+"
           ],
           "score": 68,
           "excitement": 3
@@ -929,6 +1033,39 @@
           "excitement": 1
         },
         {
+          "id": "espn-401878746",
+          "kickoffUtc": "2026-12-13T14:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Arsenal",
+          "awayTeam": "AFC Bournemouth",
+          "starNames": [
+            "Bukayo Saka"
+          ],
+          "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
+          ],
+          "score": 36,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401882776",
+          "kickoffUtc": "2026-12-13T20:00Z",
+          "competition": "La Liga",
+          "homeTeam": "Atlético Madrid",
+          "awayTeam": "Valencia",
+          "starNames": [
+            "Julian Alvarez"
+          ],
+          "whyWatch": "Worth a look for Julian Alvarez, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "ESPN+"
+          ],
+          "score": 36,
+          "excitement": 1
+        },
+        {
           "id": "espn-401875067",
           "kickoffUtc": "2026-11-21T19:45Z",
           "competition": "Serie A",
@@ -1066,6 +1203,22 @@
             "Luka Modric"
           ],
           "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+"
+          ],
+          "score": 33,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401874766",
+          "kickoffUtc": "2026-12-13T14:00Z",
+          "competition": "Serie A",
+          "homeTeam": "Internazionale",
+          "awayTeam": "Torino",
+          "starNames": [
+            "Lautaro Martinez"
+          ],
+          "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
           "watchUs": [
             "Paramount+"
           ],
