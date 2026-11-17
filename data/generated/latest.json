@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T22:52:30.527Z",
-  "date": "2026-11-16",
+  "generatedAt": "2026-11-17T21:44:57.420Z",
+  "date": "2026-11-17",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [],
@@ -1009,7 +1009,7 @@
         },
         {
           "id": "espn-401933720",
-          "kickoffUtc": "2026-12-02T20:00Z",
+          "kickoffUtc": "2026-12-03T00:30Z",
           "competition": "MLS",
           "homeTeam": "Inter Miami CF",
           "awayTeam": "Columbus Crew",
@@ -1086,6 +1086,20 @@
           "competition": "Saudi Pro League",
           "homeTeam": "Al Nassr",
           "awayTeam": "Al Shabab",
+          "starNames": [
+            "Cristiano Ronaldo"
+          ],
+          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 40,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401900852",
+          "kickoffUtc": "2026-12-16T17:30Z",
+          "competition": "Saudi Pro League",
+          "homeTeam": "Al Fayha",
+          "awayTeam": "Al Nassr",
           "starNames": [
             "Cristiano Ronaldo"
           ],
