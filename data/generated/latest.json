@@ -1,21 +1,71 @@
 {
-  "generatedAt": "2026-11-17T21:44:57.420Z",
-  "date": "2026-11-17",
+  "generatedAt": "2026-11-18T21:25:04.095Z",
+  "date": "2026-11-18",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
-  "matches": [],
+  "matches": [
+    {
+      "id": "espn-401841315",
+      "kickoffUtc": "2026-11-18T22:30Z",
+      "competition": "Brasileirao",
+      "homeTeam": "Coritiba",
+      "awayTeam": "Santos",
+      "starNames": [
+        "Neymar"
+      ],
+      "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+      "watchUs": [],
+      "score": 41,
+      "excitement": 2
+    }
+  ],
   "sections": [
     {
       "id": "today",
       "label": "Today",
       "description": "Tracked matches on today’s slate.",
-      "matches": []
+      "matches": [
+        {
+          "id": "espn-401841315",
+          "kickoffUtc": "2026-11-18T22:30Z",
+          "competition": "Brasileirao",
+          "homeTeam": "Coritiba",
+          "awayTeam": "Santos",
+          "starNames": [
+            "Neymar"
+          ],
+          "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 41,
+          "excitement": 2
+        }
+      ]
     },
     {
       "id": "week",
       "label": "This Week",
       "description": "Best tracked matches over the next seven days.",
       "matches": [
+        {
+          "id": "espn-401915379",
+          "kickoffUtc": "2026-11-24T20:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Manchester City",
+          "awayTeam": "Napoli",
+          "starNames": [
+            "Erling Haaland",
+            "Kevin De Bruyne",
+            "Rodri"
+          ],
+          "whyWatch": "Manchester City and Napoli put Erling Haaland, Kevin De Bruyne, Rodri in the same match.",
+          "watchUs": [
+            "Paramount+",
+            "NBC",
+            "Peacock"
+          ],
+          "score": 100,
+          "excitement": 5
+        },
         {
           "id": "espn-401884736",
           "kickoffUtc": "2026-11-20T19:30Z",
@@ -28,6 +78,8 @@
           ],
           "whyWatch": "Bayern Munich vs FC Cologne features Harry Kane, Jamal Musiala for World Cup fans.",
           "watchUs": [
+            "USA Net",
+            "Fandango",
             "ESPN+"
           ],
           "score": 68,
@@ -45,6 +97,8 @@
           ],
           "whyWatch": "Manchester City vs Fulham features Erling Haaland, Rodri for World Cup fans.",
           "watchUs": [
+            "USA Net",
+            "Universo",
             "NBC",
             "Peacock"
           ],
@@ -104,8 +158,29 @@
           ],
           "whyWatch": "Liverpool vs Manchester United features Mohamed Salah, Florian Wirtz for World Cup fans.",
           "watchUs": [
+            "USA Net",
+            "Tele",
             "NBC",
             "Peacock"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401915298",
+          "kickoffUtc": "2026-11-24T20:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Real Madrid",
+          "awayTeam": "PSV Eindhoven",
+          "starNames": [
+            "Jude Bellingham",
+            "Kylian Mbappe",
+            "Vinicius Junior"
+          ],
+          "whyWatch": "Real Madrid vs PSV Eindhoven features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
+          "watchUs": [
+            "Paramount+",
+            "ESPN+"
           ],
           "score": 68,
           "excitement": 3
@@ -142,6 +217,20 @@
           "excitement": 2
         },
         {
+          "id": "espn-401841320",
+          "kickoffUtc": "2026-11-24T00:00Z",
+          "competition": "Brasileirao",
+          "homeTeam": "Santos",
+          "awayTeam": "Grêmio",
+          "starNames": [
+            "Neymar"
+          ],
+          "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 41,
+          "excitement": 2
+        },
+        {
           "id": "espn-401900905",
           "kickoffUtc": "2026-11-20T17:30Z",
           "competition": "Saudi Pro League",
@@ -166,8 +255,8 @@
           ],
           "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
           "watchUs": [
-            "NBC",
-            "Peacock"
+            "Peacock",
+            "NBC"
           ],
           "score": 36,
           "excitement": 1
@@ -183,6 +272,8 @@
           ],
           "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
           "watchUs": [
+            "USA Net",
+            "Tele",
             "NBC",
             "Peacock"
           ],
@@ -265,9 +356,28 @@
           ],
           "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
           "watchUs": [
+            "beIn Sports",
             "beIN Sports"
           ],
           "score": 31,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401915295",
+          "kickoffUtc": "2026-11-24T20:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Arsenal",
+          "awayTeam": "Borussia Dortmund",
+          "starNames": [
+            "Bukayo Saka"
+          ],
+          "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+",
+            "NBC",
+            "Peacock"
+          ],
+          "score": 26,
           "excitement": 1
         }
       ]
@@ -454,6 +564,8 @@
           ],
           "whyWatch": "Bayern Munich vs FC Cologne features Harry Kane, Jamal Musiala for World Cup fans.",
           "watchUs": [
+            "USA Net",
+            "Fandango",
             "ESPN+"
           ],
           "score": 68,
@@ -471,6 +583,8 @@
           ],
           "whyWatch": "Manchester City vs Fulham features Erling Haaland, Rodri for World Cup fans.",
           "watchUs": [
+            "USA Net",
+            "Universo",
             "NBC",
             "Peacock"
           ],
@@ -530,6 +644,8 @@
           ],
           "whyWatch": "Liverpool vs Manchester United features Mohamed Salah, Florian Wirtz for World Cup fans.",
           "watchUs": [
+            "USA Net",
+            "Tele",
             "NBC",
             "Peacock"
           ],
@@ -1119,8 +1235,8 @@
           ],
           "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
           "watchUs": [
-            "NBC",
-            "Peacock"
+            "Peacock",
+            "NBC"
           ],
           "score": 36,
           "excitement": 1
@@ -1136,6 +1252,8 @@
           ],
           "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
           "watchUs": [
+            "USA Net",
+            "Tele",
             "NBC",
             "Peacock"
           ],
@@ -1464,6 +1582,7 @@
           ],
           "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
           "watchUs": [
+            "beIn Sports",
             "beIN Sports"
           ],
           "score": 31,
