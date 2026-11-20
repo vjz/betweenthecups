@@ -1,15 +1,81 @@
 {
-  "generatedAt": "2026-11-19T21:29:13.157Z",
-  "date": "2026-11-19",
+  "generatedAt": "2026-11-20T21:03:11.336Z",
+  "date": "2026-11-20",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
-  "matches": [],
+  "matches": [
+    {
+      "id": "espn-401884736",
+      "kickoffUtc": "2026-11-20T19:30Z",
+      "competition": "Bundesliga",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "FC Cologne",
+      "starNames": [
+        "Harry Kane",
+        "Jamal Musiala"
+      ],
+      "whyWatch": "Bayern Munich vs FC Cologne features Harry Kane, Jamal Musiala for World Cup fans.",
+      "watchUs": [
+        "USA Net",
+        "ESPN+"
+      ],
+      "score": 68,
+      "excitement": 3
+    },
+    {
+      "id": "espn-401900905",
+      "kickoffUtc": "2026-11-20T17:30Z",
+      "competition": "Saudi Pro League",
+      "homeTeam": "Al Ahli",
+      "awayTeam": "Al Nassr",
+      "starNames": [
+        "Cristiano Ronaldo"
+      ],
+      "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+      "watchUs": [],
+      "score": 40,
+      "excitement": 2
+    }
+  ],
   "sections": [
     {
       "id": "today",
       "label": "Today",
       "description": "Tracked matches on today’s slate.",
-      "matches": []
+      "matches": [
+        {
+          "id": "espn-401884736",
+          "kickoffUtc": "2026-11-20T19:30Z",
+          "competition": "Bundesliga",
+          "homeTeam": "Bayern Munich",
+          "awayTeam": "FC Cologne",
+          "starNames": [
+            "Harry Kane",
+            "Jamal Musiala"
+          ],
+          "whyWatch": "Bayern Munich vs FC Cologne features Harry Kane, Jamal Musiala for World Cup fans.",
+          "watchUs": [
+            "USA Net",
+            "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401900905",
+          "kickoffUtc": "2026-11-20T17:30Z",
+          "competition": "Saudi Pro League",
+          "homeTeam": "Al Ahli",
+          "awayTeam": "Al Nassr",
+          "starNames": [
+            "Cristiano Ronaldo"
+          ],
+          "whyWatch": "Worth a look for Cristiano Ronaldo, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 40,
+          "excitement": 2
+        }
+      ]
     },
     {
       "id": "week",
@@ -49,7 +115,6 @@
           "whyWatch": "Bayern Munich vs FC Cologne features Harry Kane, Jamal Musiala for World Cup fans.",
           "watchUs": [
             "USA Net",
-            "Fandango",
             "ESPN+"
           ],
           "score": 68,
@@ -444,6 +509,22 @@
           ],
           "score": 26,
           "excitement": 1
+        },
+        {
+          "id": "espn-401915521",
+          "kickoffUtc": "2026-11-26T17:45Z",
+          "competition": "UEFA Europa League",
+          "homeTeam": "Olympiacos",
+          "awayTeam": "AC Milan",
+          "starNames": [
+            "Luka Modric"
+          ],
+          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+"
+          ],
+          "score": 26,
+          "excitement": 1
         }
       ]
     },
@@ -631,7 +712,6 @@
           "whyWatch": "Bayern Munich vs FC Cologne features Harry Kane, Jamal Musiala for World Cup fans.",
           "watchUs": [
             "USA Net",
-            "Fandango",
             "ESPN+"
           ],
           "score": 68,
@@ -1052,6 +1132,42 @@
           "whyWatch": "Bayern Munich vs Werder Bremen features Harry Kane, Jamal Musiala for World Cup fans.",
           "watchUs": [
             "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401879199",
+          "kickoffUtc": "2026-12-19T15:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Manchester City",
+          "awayTeam": "Hull City",
+          "starNames": [
+            "Erling Haaland",
+            "Rodri"
+          ],
+          "whyWatch": "Manchester City vs Hull City features Erling Haaland, Rodri for World Cup fans.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401879200",
+          "kickoffUtc": "2026-12-19T17:30Z",
+          "competition": "Premier League",
+          "homeTeam": "Liverpool",
+          "awayTeam": "Tottenham Hotspur",
+          "starNames": [
+            "Mohamed Salah",
+            "Florian Wirtz"
+          ],
+          "whyWatch": "Liverpool vs Tottenham Hotspur features Mohamed Salah, Florian Wirtz for World Cup fans.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
           ],
           "score": 68,
           "excitement": 3
@@ -1651,6 +1767,22 @@
             "Lautaro Martinez"
           ],
           "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+"
+          ],
+          "score": 33,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401875044",
+          "kickoffUtc": "2026-12-19T17:00Z",
+          "competition": "Serie A",
+          "homeTeam": "AC Milan",
+          "awayTeam": "Como",
+          "starNames": [
+            "Luka Modric"
+          ],
+          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
           "watchUs": [
             "Paramount+"
           ],
