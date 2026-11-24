@@ -1,15 +1,159 @@
 {
-  "generatedAt": "2026-11-24T00:48:39.759Z",
-  "date": "2026-11-23",
+  "generatedAt": "2026-11-24T22:59:56.698Z",
+  "date": "2026-11-24",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
-  "matches": [],
+  "matches": [
+    {
+      "id": "espn-401915379",
+      "kickoffUtc": "2026-11-24T20:00Z",
+      "competition": "UEFA Champions League",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Napoli",
+      "starNames": [
+        "Erling Haaland",
+        "Kevin De Bruyne",
+        "Rodri"
+      ],
+      "whyWatch": "Manchester City and Napoli put Erling Haaland, Kevin De Bruyne, Rodri in the same match.",
+      "watchUs": [
+        "Paramount+",
+        "NBC",
+        "Peacock"
+      ],
+      "score": 100,
+      "excitement": 5
+    },
+    {
+      "id": "espn-401915298",
+      "kickoffUtc": "2026-11-24T20:00Z",
+      "competition": "UEFA Champions League",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "PSV Eindhoven",
+      "starNames": [
+        "Jude Bellingham",
+        "Kylian Mbappe",
+        "Vinicius Junior"
+      ],
+      "whyWatch": "Real Madrid vs PSV Eindhoven features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
+      "watchUs": [
+        "Paramount+",
+        "ESPN+"
+      ],
+      "score": 68,
+      "excitement": 3
+    },
+    {
+      "id": "espn-401841320",
+      "kickoffUtc": "2026-11-24T00:00Z",
+      "competition": "Brasileirao",
+      "homeTeam": "Santos",
+      "awayTeam": "Grêmio",
+      "starNames": [
+        "Neymar"
+      ],
+      "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+      "watchUs": [],
+      "score": 41,
+      "excitement": 2
+    },
+    {
+      "id": "espn-401915295",
+      "kickoffUtc": "2026-11-24T20:00Z",
+      "competition": "UEFA Champions League",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Borussia Dortmund",
+      "starNames": [
+        "Bukayo Saka"
+      ],
+      "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
+      "watchUs": [
+        "Paramount+",
+        "NBC",
+        "Peacock"
+      ],
+      "score": 26,
+      "excitement": 1
+    }
+  ],
   "sections": [
     {
       "id": "today",
       "label": "Today",
       "description": "Tracked matches on today’s slate.",
-      "matches": []
+      "matches": [
+        {
+          "id": "espn-401915379",
+          "kickoffUtc": "2026-11-24T20:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Manchester City",
+          "awayTeam": "Napoli",
+          "starNames": [
+            "Erling Haaland",
+            "Kevin De Bruyne",
+            "Rodri"
+          ],
+          "whyWatch": "Manchester City and Napoli put Erling Haaland, Kevin De Bruyne, Rodri in the same match.",
+          "watchUs": [
+            "Paramount+",
+            "NBC",
+            "Peacock"
+          ],
+          "score": 100,
+          "excitement": 5
+        },
+        {
+          "id": "espn-401915298",
+          "kickoffUtc": "2026-11-24T20:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Real Madrid",
+          "awayTeam": "PSV Eindhoven",
+          "starNames": [
+            "Jude Bellingham",
+            "Kylian Mbappe",
+            "Vinicius Junior"
+          ],
+          "whyWatch": "Real Madrid vs PSV Eindhoven features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
+          "watchUs": [
+            "Paramount+",
+            "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401841320",
+          "kickoffUtc": "2026-11-24T00:00Z",
+          "competition": "Brasileirao",
+          "homeTeam": "Santos",
+          "awayTeam": "Grêmio",
+          "starNames": [
+            "Neymar"
+          ],
+          "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 41,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401915295",
+          "kickoffUtc": "2026-11-24T20:00Z",
+          "competition": "UEFA Champions League",
+          "homeTeam": "Arsenal",
+          "awayTeam": "Borussia Dortmund",
+          "starNames": [
+            "Bukayo Saka"
+          ],
+          "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Paramount+",
+            "NBC",
+            "Peacock"
+          ],
+          "score": 26,
+          "excitement": 1
+        }
+      ]
     },
     {
       "id": "week",
@@ -331,6 +475,22 @@
           "whyWatch": "Worth a look for Kevin De Bruyne, with matchup quality deciding how high it ranks.",
           "watchUs": [
             "CBSSN",
+            "Paramount+"
+          ],
+          "score": 33,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401875019",
+          "kickoffUtc": "2026-11-30T19:45Z",
+          "competition": "Serie A",
+          "homeTeam": "Cagliari",
+          "awayTeam": "AC Milan",
+          "starNames": [
+            "Luka Modric"
+          ],
+          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
+          "watchUs": [
             "Paramount+"
           ],
           "score": 33,
