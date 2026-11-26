@@ -1,114 +1,21 @@
 {
-  "generatedAt": "2026-11-25T22:29:15.921Z",
-  "date": "2026-11-25",
+  "generatedAt": "2026-11-26T22:19:26.956Z",
+  "date": "2026-11-26",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [
     {
-      "id": "espn-401915378",
-      "kickoffUtc": "2026-11-25T17:45Z",
-      "competition": "UEFA Champions League",
-      "homeTeam": "Sabah FK",
-      "awayTeam": "Barcelona",
+      "id": "espn-401915521",
+      "kickoffUtc": "2026-11-26T17:45Z",
+      "competition": "UEFA Europa League",
+      "homeTeam": "Olympiacos",
+      "awayTeam": "AC Milan",
       "starNames": [
-        "Lamine Yamal",
-        "Pedri",
-        "Raphinha",
-        "Robert Lewandowski",
-        "Ferran Torres",
-        "Pau Cubarsi"
+        "Luka Modric"
       ],
-      "whyWatch": "Sabah FK vs Barcelona features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
-      "watchUs": [
-        "Paramount+",
-        "ESPN+"
-      ],
-      "score": 68,
-      "excitement": 3
-    },
-    {
-      "id": "espn-401915292",
-      "kickoffUtc": "2026-11-25T20:00Z",
-      "competition": "UEFA Champions League",
-      "homeTeam": "Club Brugge",
-      "awayTeam": "Liverpool",
-      "starNames": [
-        "Mohamed Salah",
-        "Florian Wirtz"
-      ],
-      "whyWatch": "Club Brugge vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
-      "watchUs": [
-        "Paramount+",
-        "NBC",
-        "Peacock"
-      ],
-      "score": 63,
-      "excitement": 3
-    },
-    {
-      "id": "espn-401915377",
-      "kickoffUtc": "2026-11-25T20:00Z",
-      "competition": "UEFA Champions League",
-      "homeTeam": "Lille",
-      "awayTeam": "Bayern Munich",
-      "starNames": [
-        "Harry Kane",
-        "Jamal Musiala"
-      ],
-      "whyWatch": "Lille vs Bayern Munich features Harry Kane, Jamal Musiala for World Cup fans.",
-      "watchUs": [
-        "Paramount+",
-        "ESPN+"
-      ],
-      "score": 63,
-      "excitement": 3
-    },
-    {
-      "id": "espn-401915291",
-      "kickoffUtc": "2026-11-25T20:00Z",
-      "competition": "UEFA Champions League",
-      "homeTeam": "Atlético Madrid",
-      "awayTeam": "Viking FK",
-      "starNames": [
-        "Julian Alvarez"
-      ],
-      "whyWatch": "Worth a look for Julian Alvarez, with matchup quality deciding how high it ranks.",
-      "watchUs": [
-        "Paramount+",
-        "ESPN+"
-      ],
-      "score": 26,
-      "excitement": 1
-    },
-    {
-      "id": "espn-401915376",
-      "kickoffUtc": "2026-11-25T20:00Z",
-      "competition": "UEFA Champions League",
-      "homeTeam": "Internazionale",
-      "awayTeam": "VfB Stuttgart",
-      "starNames": [
-        "Lautaro Martinez"
-      ],
-      "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
+      "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
       "watchUs": [
         "Paramount+"
-      ],
-      "score": 26,
-      "excitement": 1
-    },
-    {
-      "id": "espn-401915374",
-      "kickoffUtc": "2026-11-25T20:00Z",
-      "competition": "UEFA Champions League",
-      "homeTeam": "Paris Saint-Germain",
-      "awayTeam": "AS Roma",
-      "starNames": [
-        "Ousmane Dembele"
-      ],
-      "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
-      "watchUs": [
-        "Paramount+",
-        "beIN Sports"
       ],
       "score": 26,
       "excitement": 1
@@ -121,110 +28,17 @@
       "description": "Tracked matches on today’s slate.",
       "matches": [
         {
-          "id": "espn-401915378",
-          "kickoffUtc": "2026-11-25T17:45Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Sabah FK",
-          "awayTeam": "Barcelona",
+          "id": "espn-401915521",
+          "kickoffUtc": "2026-11-26T17:45Z",
+          "competition": "UEFA Europa League",
+          "homeTeam": "Olympiacos",
+          "awayTeam": "AC Milan",
           "starNames": [
-            "Lamine Yamal",
-            "Pedri",
-            "Raphinha",
-            "Robert Lewandowski",
-            "Ferran Torres",
-            "Pau Cubarsi"
+            "Luka Modric"
           ],
-          "whyWatch": "Sabah FK vs Barcelona features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401915292",
-          "kickoffUtc": "2026-11-25T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Club Brugge",
-          "awayTeam": "Liverpool",
-          "starNames": [
-            "Mohamed Salah",
-            "Florian Wirtz"
-          ],
-          "whyWatch": "Club Brugge vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 63,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401915377",
-          "kickoffUtc": "2026-11-25T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Lille",
-          "awayTeam": "Bayern Munich",
-          "starNames": [
-            "Harry Kane",
-            "Jamal Musiala"
-          ],
-          "whyWatch": "Lille vs Bayern Munich features Harry Kane, Jamal Musiala for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "ESPN+"
-          ],
-          "score": 63,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401915291",
-          "kickoffUtc": "2026-11-25T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Atlético Madrid",
-          "awayTeam": "Viking FK",
-          "starNames": [
-            "Julian Alvarez"
-          ],
-          "whyWatch": "Worth a look for Julian Alvarez, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+",
-            "ESPN+"
-          ],
-          "score": 26,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401915376",
-          "kickoffUtc": "2026-11-25T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Internazionale",
-          "awayTeam": "VfB Stuttgart",
-          "starNames": [
-            "Lautaro Martinez"
-          ],
-          "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
+          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
           "watchUs": [
             "Paramount+"
-          ],
-          "score": 26,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401915374",
-          "kickoffUtc": "2026-11-25T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Paris Saint-Germain",
-          "awayTeam": "AS Roma",
-          "starNames": [
-            "Ousmane Dembele"
-          ],
-          "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+",
-            "beIN Sports"
           ],
           "score": 26,
           "excitement": 1
@@ -258,26 +72,28 @@
           "excitement": 5
         },
         {
-          "id": "espn-401915378",
-          "kickoffUtc": "2026-11-25T17:45Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Sabah FK",
-          "awayTeam": "Barcelona",
+          "id": "espn-401882700",
+          "kickoffUtc": "2026-12-02T20:30Z",
+          "competition": "La Liga",
+          "homeTeam": "Barcelona",
+          "awayTeam": "Atlético Madrid",
           "starNames": [
             "Lamine Yamal",
+            "Julian Alvarez",
             "Pedri",
             "Raphinha",
             "Robert Lewandowski",
             "Ferran Torres",
             "Pau Cubarsi"
           ],
-          "whyWatch": "Sabah FK vs Barcelona features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
+          "whyWatch": "Barcelona and Atlético Madrid put Lamine Yamal, Julian Alvarez, Pedri, Raphinha in the same match.",
           "watchUs": [
-            "Paramount+",
+            "ESPN2",
+            "ESPN Deportes",
             "ESPN+"
           ],
-          "score": 68,
-          "excitement": 3
+          "score": 100,
+          "excitement": 5
         },
         {
           "id": "espn-401884722",
@@ -359,40 +175,59 @@
           "excitement": 3
         },
         {
-          "id": "espn-401915292",
-          "kickoffUtc": "2026-11-25T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Club Brugge",
-          "awayTeam": "Liverpool",
+          "id": "espn-401882698",
+          "kickoffUtc": "2026-12-02T18:00Z",
+          "competition": "La Liga",
+          "homeTeam": "Real Sociedad",
+          "awayTeam": "Real Madrid",
+          "starNames": [
+            "Jude Bellingham",
+            "Kylian Mbappe",
+            "Vinicius Junior"
+          ],
+          "whyWatch": "Real Sociedad vs Real Madrid features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
+          "watchUs": [
+            "ESPN2",
+            "ESPN Deportes",
+            "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401879219",
+          "kickoffUtc": "2026-12-02T19:30Z",
+          "competition": "Premier League",
+          "homeTeam": "Liverpool",
+          "awayTeam": "Sunderland",
           "starNames": [
             "Mohamed Salah",
             "Florian Wirtz"
           ],
-          "whyWatch": "Club Brugge vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
+          "whyWatch": "Liverpool vs Sunderland features Mohamed Salah, Florian Wirtz for World Cup fans.",
           "watchUs": [
-            "Paramount+",
             "NBC",
             "Peacock"
           ],
-          "score": 63,
+          "score": 68,
           "excitement": 3
         },
         {
-          "id": "espn-401915377",
-          "kickoffUtc": "2026-11-25T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Lille",
-          "awayTeam": "Bayern Munich",
+          "id": "espn-401879218",
+          "kickoffUtc": "2026-12-02T19:30Z",
+          "competition": "Premier League",
+          "homeTeam": "Manchester City",
+          "awayTeam": "Leeds United",
           "starNames": [
-            "Harry Kane",
-            "Jamal Musiala"
+            "Erling Haaland",
+            "Rodri"
           ],
-          "whyWatch": "Lille vs Bayern Munich features Harry Kane, Jamal Musiala for World Cup fans.",
+          "whyWatch": "Manchester City vs Leeds United features Erling Haaland, Rodri for World Cup fans.",
           "watchUs": [
-            "Paramount+",
-            "ESPN+"
+            "NBC",
+            "Peacock"
           ],
-          "score": 63,
+          "score": 68,
           "excitement": 3
         },
         {
@@ -478,6 +313,40 @@
           "excitement": 1
         },
         {
+          "id": "espn-401879222",
+          "kickoffUtc": "2026-12-02T19:30Z",
+          "competition": "Premier League",
+          "homeTeam": "Chelsea",
+          "awayTeam": "Crystal Palace",
+          "starNames": [
+            "Cole Palmer"
+          ],
+          "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
+          ],
+          "score": 36,
+          "excitement": 1
+        },
+        {
+          "id": "espn-401878750",
+          "kickoffUtc": "2026-12-02T20:15Z",
+          "competition": "Premier League",
+          "homeTeam": "Brentford",
+          "awayTeam": "Arsenal",
+          "starNames": [
+            "Bukayo Saka"
+          ],
+          "whyWatch": "Worth a look for Bukayo Saka, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
+          ],
+          "score": 36,
+          "excitement": 1
+        },
+        {
           "id": "espn-401874977",
           "kickoffUtc": "2026-11-28T19:45Z",
           "competition": "Serie A",
@@ -537,60 +406,9 @@
           ],
           "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
           "watchUs": [
-            "beIn Sports",
             "beIN Sports"
           ],
           "score": 31,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401915291",
-          "kickoffUtc": "2026-11-25T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Atlético Madrid",
-          "awayTeam": "Viking FK",
-          "starNames": [
-            "Julian Alvarez"
-          ],
-          "whyWatch": "Worth a look for Julian Alvarez, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+",
-            "ESPN+"
-          ],
-          "score": 26,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401915376",
-          "kickoffUtc": "2026-11-25T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Internazionale",
-          "awayTeam": "VfB Stuttgart",
-          "starNames": [
-            "Lautaro Martinez"
-          ],
-          "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 26,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401915374",
-          "kickoffUtc": "2026-11-25T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Paris Saint-Germain",
-          "awayTeam": "AS Roma",
-          "starNames": [
-            "Ousmane Dembele"
-          ],
-          "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+",
-            "beIN Sports"
-          ],
-          "score": 26,
           "excitement": 1
         },
         {
@@ -763,28 +581,6 @@
           ],
           "score": 70,
           "excitement": 4
-        },
-        {
-          "id": "espn-401915378",
-          "kickoffUtc": "2026-11-25T17:45Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Sabah FK",
-          "awayTeam": "Barcelona",
-          "starNames": [
-            "Lamine Yamal",
-            "Pedri",
-            "Raphinha",
-            "Robert Lewandowski",
-            "Ferran Torres",
-            "Pau Cubarsi"
-          ],
-          "whyWatch": "Sabah FK vs Barcelona features Lamine Yamal, Pedri, Raphinha, Robert Lewandowski for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "ESPN+"
-          ],
-          "score": 68,
-          "excitement": 3
         },
         {
           "id": "espn-401884722",
@@ -1160,43 +956,6 @@
             "ESPN+"
           ],
           "score": 68,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401915292",
-          "kickoffUtc": "2026-11-25T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Club Brugge",
-          "awayTeam": "Liverpool",
-          "starNames": [
-            "Mohamed Salah",
-            "Florian Wirtz"
-          ],
-          "whyWatch": "Club Brugge vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "NBC",
-            "Peacock"
-          ],
-          "score": 63,
-          "excitement": 3
-        },
-        {
-          "id": "espn-401915377",
-          "kickoffUtc": "2026-11-25T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Lille",
-          "awayTeam": "Bayern Munich",
-          "starNames": [
-            "Harry Kane",
-            "Jamal Musiala"
-          ],
-          "whyWatch": "Lille vs Bayern Munich features Harry Kane, Jamal Musiala for World Cup fans.",
-          "watchUs": [
-            "Paramount+",
-            "ESPN+"
-          ],
-          "score": 63,
           "excitement": 3
         },
         {
@@ -1714,7 +1473,6 @@
           ],
           "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
           "watchUs": [
-            "beIn Sports",
             "beIN Sports"
           ],
           "score": 31,
@@ -1750,56 +1508,6 @@
             "beIN Sports"
           ],
           "score": 31,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401915291",
-          "kickoffUtc": "2026-11-25T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Atlético Madrid",
-          "awayTeam": "Viking FK",
-          "starNames": [
-            "Julian Alvarez"
-          ],
-          "whyWatch": "Worth a look for Julian Alvarez, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+",
-            "ESPN+"
-          ],
-          "score": 26,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401915376",
-          "kickoffUtc": "2026-11-25T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Internazionale",
-          "awayTeam": "VfB Stuttgart",
-          "starNames": [
-            "Lautaro Martinez"
-          ],
-          "whyWatch": "Worth a look for Lautaro Martinez, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 26,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401915374",
-          "kickoffUtc": "2026-11-25T20:00Z",
-          "competition": "UEFA Champions League",
-          "homeTeam": "Paris Saint-Germain",
-          "awayTeam": "AS Roma",
-          "starNames": [
-            "Ousmane Dembele"
-          ],
-          "whyWatch": "Worth a look for Ousmane Dembele, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+",
-            "beIN Sports"
-          ],
-          "score": 26,
           "excitement": 1
         },
         {
