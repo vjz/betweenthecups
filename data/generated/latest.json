@@ -1,23 +1,26 @@
 {
-  "generatedAt": "2026-11-26T22:19:26.956Z",
-  "date": "2026-11-26",
+  "generatedAt": "2026-11-27T21:56:52.474Z",
+  "date": "2026-11-27",
   "timezone": "America/Los_Angeles",
   "source": "fixture-api",
   "matches": [
     {
-      "id": "espn-401915521",
-      "kickoffUtc": "2026-11-26T17:45Z",
-      "competition": "UEFA Europa League",
-      "homeTeam": "Olympiacos",
-      "awayTeam": "AC Milan",
+      "id": "espn-401879225",
+      "kickoffUtc": "2026-11-27T20:00Z",
+      "competition": "Premier League",
+      "homeTeam": "Nottingham Forest",
+      "awayTeam": "Chelsea",
       "starNames": [
-        "Luka Modric"
+        "Cole Palmer"
       ],
-      "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
+      "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
       "watchUs": [
-        "Paramount+"
+        "USA Net",
+        "Universo",
+        "NBC",
+        "Peacock"
       ],
-      "score": 26,
+      "score": 36,
       "excitement": 1
     }
   ],
@@ -28,19 +31,22 @@
       "description": "Tracked matches on today’s slate.",
       "matches": [
         {
-          "id": "espn-401915521",
-          "kickoffUtc": "2026-11-26T17:45Z",
-          "competition": "UEFA Europa League",
-          "homeTeam": "Olympiacos",
-          "awayTeam": "AC Milan",
+          "id": "espn-401879225",
+          "kickoffUtc": "2026-11-27T20:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Nottingham Forest",
+          "awayTeam": "Chelsea",
           "starNames": [
-            "Luka Modric"
+            "Cole Palmer"
           ],
-          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
+          "whyWatch": "Worth a look for Cole Palmer, with matchup quality deciding how high it ranks.",
           "watchUs": [
-            "Paramount+"
+            "USA Net",
+            "Universo",
+            "NBC",
+            "Peacock"
           ],
-          "score": 26,
+          "score": 36,
           "excitement": 1
         }
       ]
@@ -263,6 +269,37 @@
           "excitement": 2
         },
         {
+          "id": "espn-401933720",
+          "kickoffUtc": "2026-12-03T00:30Z",
+          "competition": "MLS",
+          "homeTeam": "Inter Miami CF",
+          "awayTeam": "Columbus Crew",
+          "starNames": [
+            "Lionel Messi"
+          ],
+          "whyWatch": "Worth a look for Lionel Messi, with matchup quality deciding how high it ranks.",
+          "watchUs": [
+            "Apple TV",
+            "MLS Season Pass"
+          ],
+          "score": 41,
+          "excitement": 2
+        },
+        {
+          "id": "espn-401841346",
+          "kickoffUtc": "2026-12-03T00:30Z",
+          "competition": "Brasileirao",
+          "homeTeam": "Santos",
+          "awayTeam": "Botafogo",
+          "starNames": [
+            "Neymar"
+          ],
+          "whyWatch": "Worth a look for Neymar, with matchup quality deciding how high it ranks.",
+          "watchUs": [],
+          "score": 41,
+          "excitement": 2
+        },
+        {
           "id": "espn-401900442",
           "kickoffUtc": "2026-11-28T12:15Z",
           "competition": "Saudi Pro League",
@@ -409,22 +446,6 @@
             "beIN Sports"
           ],
           "score": 31,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401915521",
-          "kickoffUtc": "2026-11-26T17:45Z",
-          "competition": "UEFA Europa League",
-          "homeTeam": "Olympiacos",
-          "awayTeam": "AC Milan",
-          "starNames": [
-            "Luka Modric"
-          ],
-          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 26,
           "excitement": 1
         }
       ]
@@ -954,6 +975,42 @@
           "whyWatch": "Deportivo vs Real Madrid features Jude Bellingham, Kylian Mbappe, Vinicius Junior for World Cup fans.",
           "watchUs": [
             "ESPN+"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401878733",
+          "kickoffUtc": "2026-12-26T17:30Z",
+          "competition": "Premier League",
+          "homeTeam": "Hull City",
+          "awayTeam": "Liverpool",
+          "starNames": [
+            "Mohamed Salah",
+            "Florian Wirtz"
+          ],
+          "whyWatch": "Hull City vs Liverpool features Mohamed Salah, Florian Wirtz for World Cup fans.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
+          ],
+          "score": 68,
+          "excitement": 3
+        },
+        {
+          "id": "espn-401878732",
+          "kickoffUtc": "2026-12-26T20:00Z",
+          "competition": "Premier League",
+          "homeTeam": "Newcastle United",
+          "awayTeam": "Manchester City",
+          "starNames": [
+            "Erling Haaland",
+            "Rodri"
+          ],
+          "whyWatch": "Newcastle United vs Manchester City features Erling Haaland, Rodri for World Cup fans.",
+          "watchUs": [
+            "NBC",
+            "Peacock"
           ],
           "score": 68,
           "excitement": 3
@@ -1508,22 +1565,6 @@
             "beIN Sports"
           ],
           "score": 31,
-          "excitement": 1
-        },
-        {
-          "id": "espn-401915521",
-          "kickoffUtc": "2026-11-26T17:45Z",
-          "competition": "UEFA Europa League",
-          "homeTeam": "Olympiacos",
-          "awayTeam": "AC Milan",
-          "starNames": [
-            "Luka Modric"
-          ],
-          "whyWatch": "Worth a look for Luka Modric, with matchup quality deciding how high it ranks.",
-          "watchUs": [
-            "Paramount+"
-          ],
-          "score": 26,
           "excitement": 1
         },
         {
